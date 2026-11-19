@@ -1,0 +1,13 @@
+In the nineteen-nineties, a university department called their sysadmin with an impossible complaint: "We can't send email more than five hundred miles."
+
+Not "email is broken." It worked perfectly inside a five-hundred-mile circle around the campus. Outside that circle, every single message failed.
+
+How can an email run out of distance?
+
+When he logged into the server to test it himself, nearby universities connected instantly. Distant servers failed on the spot.
+
+Then he noticed a recent software update had quietly downgraded the mail program, wiping out its timeout setting to zero. That meant the server only waited about three milliseconds for a reply before giving up.
+
+And how far can a signal travel at the speed of light in three milliseconds? Right around five hundred miles.
+
+Wait till you see why the math behind this famous story actually has a catch. To watch the full eleven-minute video, visit the channel and look for this video right here.

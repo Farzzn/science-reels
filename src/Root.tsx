@@ -50,12 +50,24 @@ import {
   FIVE_HUNDRED_MILE_FRAMES,
   FiveHundredMileEmail,
 } from "./FiveHundredMileEmail";
+import {
+  FIVE_HUNDRED_MILE_SHORT_FRAMES,
+  FiveHundredMileShort,
+} from "./FiveHundredMileEmail/Short";
 
 // Each <Composition> is an entry in the sidebar!
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="FiveHundredMileShort"
+        component={FiveHundredMileShort}
+        durationInFrames={FIVE_HUNDRED_MILE_SHORT_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
       <Composition
         id="FiveHundredMileEmail"
         component={FiveHundredMileEmail}
