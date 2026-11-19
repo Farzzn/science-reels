@@ -17,15 +17,17 @@ const outRoot = path.resolve(process.env.OUT_DIR || defaultOutRoot);
 const CONCURRENCY = Number(process.env.CONCURRENCY || (isColabDrive ? 10 : 2));
 const testMode = process.argv.includes('--test') || process.env.TEST_SLICE === '1';
 const isShort = process.argv.includes('--short') || process.env.COMP_ID === 'FiveHundredMileShort';
-const COMP_ID = process.env.COMP_ID || (isShort ? 'FiveHundredMileShort' : 'FiveHundredMileEmail');
+const isCosmic = process.argv.includes('--cosmic') || process.env.COMP_ID === 'CosmicMarioBitFlip';
+const COMP_ID = process.env.COMP_ID || (isCosmic ? 'CosmicMarioBitFlip' : isShort ? 'FiveHundredMileShort' : 'FiveHundredMileEmail');
 
-const chunksDir = path.join(outRoot, `email500/chunks-${COMP_ID}`);
-const minPublic = path.resolve('temp/public-email500');
+const chunksDir = path.join(outRoot, `chunks-${COMP_ID}`);
+const minPublic = path.resolve('temp/public-slim');
 fs.mkdirSync(chunksDir, { recursive: true });
 fs.mkdirSync(path.join(minPublic, 'email500'), { recursive: true });
+fs.mkdirSync(path.join(minPublic, 'cosmic'), { recursive: true });
 console.log(`Composition: ${COMP_ID} | Output root: ${outRoot} | Concurrency: ${CONCURRENCY} | Chunk size: ${CHUNK_SIZE || 'SINGLE-PASS (no chunks)'}`);
 
-// Copy only the assets needed by FiveHundredMileEmail & FiveHundredMileShort (~65 MB instead of 880 MB)
+// Copy only the assets needed by the active composition (~65 MB instead of 880 MB)
 const copyIfNewer = (src, dst) => {
   if (!fs.existsSync(src)) return;
   if (!fs.existsSync(dst) || fs.statSync(src).size !== fs.statSync(dst).size) {
@@ -33,9 +35,16 @@ const copyIfNewer = (src, dst) => {
   }
 };
 copyIfNewer('public/theboldfont.ttf', path.join(minPublic, 'theboldfont.ttf'));
-copyIfNewer('public/email500/voiceover.wav', path.join(minPublic, 'email500/voiceover.wav'));
-copyIfNewer('public/email500/short-voiceover.wav', path.join(minPublic, 'email500/short-voiceover.wav'));
-copyIfNewer('public/email500/yt-video-card.png', path.join(minPublic, 'email500/yt-video-card.png'));
+if (COMP_ID === 'CosmicMarioBitFlip') {
+  copyIfNewer('public/cosmic/voiceover.wav', path.join(minPublic, 'cosmic/voiceover.wav'));
+  copyIfNewer('public/cosmic/mario-upwarp.png', path.join(minPublic, 'cosmic/mario-upwarp.png'));
+  copyIfNewer('public/cosmic/supernova-ray.png', path.join(minPublic, 'cosmic/supernova-ray.png'));
+  copyIfNewer('public/cosmic/qantas-a330.png', path.join(minPublic, 'cosmic/qantas-a330.png'));
+} else {
+  copyIfNewer('public/email500/voiceover.wav', path.join(minPublic, 'email500/voiceover.wav'));
+  copyIfNewer('public/email500/short-voiceover.wav', path.join(minPublic, 'email500/short-voiceover.wav'));
+  copyIfNewer('public/email500/yt-video-card.png', path.join(minPublic, 'email500/yt-video-card.png'));
+}
 
 console.log('Bundling project once (slim public dir)...');
 const serveUrl = await bundle({

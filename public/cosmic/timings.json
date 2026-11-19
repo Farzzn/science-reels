@@ -1,0 +1,59 @@
+{
+  "total": 655.692,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "Cold Open",
+      "start": 0.4,
+      "end": 71.176
+    },
+    {
+      "id": "ch1",
+      "title": "The One-Thousand-Dollar Glitch",
+      "start": 72.026,
+      "end": 142.519
+    },
+    {
+      "id": "ch2",
+      "title": "The Microscopic Bucket",
+      "start": 143.369,
+      "end": 209.914
+    },
+    {
+      "id": "ch3",
+      "title": "The Bullet From Deep Space",
+      "start": 210.764,
+      "end": 292.328
+    },
+    {
+      "id": "ch4",
+      "title": "The Four-Thousand-Ninety-Six Vote Mystery",
+      "start": 293.178,
+      "end": 368.408
+    },
+    {
+      "id": "ch5",
+      "title": "Terror at Thirty-Seven Thousand Feet",
+      "start": 369.258,
+      "end": 455.451
+    },
+    {
+      "id": "ch6",
+      "title": "The Honest Physics Check",
+      "start": 456.301,
+      "end": 527.844
+    },
+    {
+      "id": "ch7",
+      "title": "How Engineers Fight the Universe",
+      "start": 528.694,
+      "end": 599.159
+    },
+    {
+      "id": "ch8",
+      "title": "The Cosmic Takeaway",
+      "start": 600.009,
+      "end": 654.292
+    }
+  ]
+}

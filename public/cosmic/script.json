@@ -1,0 +1,56 @@
+{
+  "voice": "Kore",
+  "style": "calm, curious documentary narrator in the style of a clear physics and computer science explainer; crisp pacing, engaging and thoughtful with natural pauses",
+  "batches": [
+    ["ch0", "ch1", "ch2"],
+    ["ch3", "ch4", "ch5"],
+    ["ch6", "ch7", "ch8"]
+  ],
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "Cold Open",
+      "text": "In September twenty thirteen, a speedrunner named DOTA TeaBag was racing through the Tick Tock Clock level of Super Mario Sixty-Four. Without touching a single button to jump, his character suddenly teleported straight through the ceiling, skipping an entire section of the tower.\n\nNo one knew how he did it. A famous analyst even offered a one-thousand-dollar bounty to anyone who could repeat the trick on a real Nintendo console. For years, thousands of players tried. Not a single person succeeded.\n\nWhy? Because the player didn't press a secret button. The culprit came from outer space. A single subatomic particle, born in an exploding star thousands of light-years away, crashed through the roof and flipped a single zero into a one inside the console's memory.\n\nFirst, we'll look inside the microscopic bucket that holds a single bit of memory. Then, we'll see how a particle from deep space can tip that bucket over, changing an election in Belgium and nearly crashing a passenger jet in two thousand eight. And finally, we'll see the clever math engineers use to catch the universe in the act."
+    },
+    {
+      "id": "ch1",
+      "title": "The One-Thousand-Dollar Glitch",
+      "text": "When speedrunners couldn't repeat the teleport by hand, a programmer named pannenkoek decided to work backward from the console's memory. Inside the Nintendo Sixty-Four, Mario's vertical height is stored as a thirty-two-bit floating-point number.\n\nJust before the teleport, the first byte of his height was the hexadecimal number C-five. In binary, that's one, one, zero, zero, zero, one, zero, one. That corresponds to a height of minus-sixteen hundred and fifty-eight units.\n\nWhen the programmer manually flipped just the very last bit of that byte from a one to a zero, changing C-five into C-four, the height number instantly jumped to minus-eight hundred and ninety-five. Mario snapped straight up onto the higher platform, matching the famous video frame for frame.\n\nNothing in the game's code could ever write C-four at that moment. Only one thing made sense: something physical had reached inside the memory chip and flipped that single bit by force."
+    },
+    {
+      "id": "ch2",
+      "title": "The Microscopic Bucket",
+      "text": "To see how a bit can flip on its own, we have to zoom inside your computer's memory. We like to think of ones and zeros as abstract math. In reality, they are physical puddles of electricity.\n\nDynamic RAM is a gigantic grid of billions of cells. Each cell is just a microscopic capacitor, which acts like a tiny bucket, paired with a transistor switch that acts as a lid. When the bucket is filled with electrons, the computer reads a one. When the bucket is empty, it reads a zero.\n\nIn the nineteen-seventies, those buckets were comparatively huge, holding millions of electrons. Tipping one over by accident was almost impossible. But as engineers shrank transistors down to just a few nanometers, the buckets became unimaginably tiny.\n\nIn a modern chip, a single memory bucket holds only a few thousand electrons. The wall separating a zero from a one has become so thin that a tiny splash of stray charge is enough to overflow the bucket."
+    },
+    {
+      "id": "ch3",
+      "title": "The Bullet From Deep Space",
+      "text": "So where does that stray charge come from? Look up at the night sky. Every second, exploding stars and distant black holes blast protons across the galaxy at nearly the speed of light. These are primary cosmic rays.\n\nWhen one of these high-energy protons slams into a nitrogen or oxygen atom high in Earth's atmosphere, about fifteen kilometers above your head, it shatters the atom like a cue ball breaking a rack of billiard balls.\n\nThat collision triggers a massive cascading shower of billions of secondary particles, including high-speed neutrons and muons, raining silently down to the ground. Millions of them pass harmlessly through your roof, your desk, and your own body every single day.\n\nIf you enjoy stories where deep physics collides with everyday computers, take a second to hit subscribe, because this is Episode Two of Physics Bugs.\n\nWhen one of those stray neutrons happens to strike the silicon lattice right next to a memory bucket, it rips electrons loose along its track, dumping a sudden trail of electric charge straight into the capacitor. In less than a nanosecond, an empty zero bucket fills up and becomes a one. Engineers call this a Single-Event Upset."
+    },
+    {
+      "id": "ch4",
+      "title": "The Four-Thousand-Ninety-Six Vote Mystery",
+      "text": "Flipping a bit in a video game is harmless fun. Flipping a bit in a national election is a very different story. On May eighteenth, two thousand three, voters in the town of Schaerbeek, Belgium cast their ballots on electronic voting machines.\n\nWhen officials checked the results that night, a candidate named Maria Vindevoghel had received far more votes than was mathematically possible in her district. So election workers pulled the physical magnetic cards and recounted every ballot by hand.\n\nEvery single candidate's recount matched the computer, except hers. The computer had given her exactly four thousand and ninety-six extra votes.\n\nWhy four thousand and ninety-six? To a computer scientist, that number is a smoking gun. In binary, the first bit is worth one, the second is two, then four, eight, sixteen, all the way up. The thirteenth bit, two to the power of twelve, is worth exactly four thousand and ninety-six.\n\nThe software had no bugs, and the hardware passed every test. Investigators concluded that a single cosmic ray had struck the machine's memory and flipped bit twelve from a zero to a one."
+    },
+    {
+      "id": "ch5",
+      "title": "Terror at Thirty-Seven Thousand Feet",
+      "text": "Now ask yourself a scary question. If cosmic rays come from the upper atmosphere, what happens when you fly closer to the source?\n\nAt a cruising altitude of thirty-seven thousand feet, the thin air blocks far less radiation. Up there, the bombardment of cosmic neutrons is roughly three hundred times stronger than it is at sea level.\n\nOn October seventh, two thousand eight, Qantas Flight Seventy-Two, an Airbus A-three-thirty carrying three hundred and fifteen people from Singapore to Perth, was cruising smoothly in clear skies. Without warning, one of its air data computers, called ADIRU-one, began spitting out wildly corrupted numbers.\n\nA value inside the processor's memory had been mislabeled and misread as a massive forty-two-degree spike in the plane's angle of attack. Thinking the wings were about to stall, the flight computer violently pitched the nose down, dropping the airliner six hundred and fifty feet in twenty seconds.\n\nThe pilots fought back and landed safely, though dozens of passengers were injured. In their official report, investigators found that the hardware glitch had occurred only three times in over one hundred and twenty-eight million hours of flight, pointing to a Single-Event Upset combined with a rare timing gap in the filtering software."
+    },
+    {
+      "id": "ch6",
+      "title": "The Honest Physics Check",
+      "text": "Before we blame outer space for every blue screen on your laptop, we need to do an honest physics check.\n\nFirst, not every bit flip comes from a distant supernova. In the nineteen-seventies, chipmakers at Intel discovered their own memory chips were flipping bits even deep underground. The culprit turned out to be the ceramic packaging of the chip itself. Trace amounts of uranium in the clay from a river contaminated by an old mine in Colorado were emitting alpha particles right onto the silicon.\n\nSecond, can we ever prove beyond a shadow of a doubt that a cosmic ray teleported Mario in twenty thirteen, or flipped that vote in two thousand three? No. Because a Single-Event Upset leaves zero permanent physical damage on the chip. Once the memory is overwritten or the power turns off, the crime scene vanishes.\n\nHowever, IBM measured the threat in a real lab. In the nineteen-nineties, they estimated that a typical computer suffers roughly one cosmic-ray bit flip per two hundred and fifty-six megabytes of RAM every month at sea level, and far more on a mountain or an airplane."
+    },
+    {
+      "id": "ch7",
+      "title": "How Engineers Fight the Universe",
+      "text": "So if the universe is constantly firing subatomic bullets through our chips, why doesn't the global banking system or the internet collapse every afternoon?\n\nBecause critical systems use two ingenious defenses. The first is Error-Correcting Code memory, or ECC RAM. Instead of storing just sixty-four buckets of data, an ECC memory stick adds eight extra buckets on the side.\n\nEvery time data is written, the chip calculates a mathematical parity fingerprint across those sixty-four bits and stores the fingerprint in the extra eight buckets. When a cosmic ray flips a single bucket, the math equation breaks. In nanoseconds, the memory controller triangulates the exact row and column that broke, flips the bit back, and keeps running without a crash.\n\nAnd for spacecraft, satellites, and modern flight computers, engineers go even further with Triple Modular Redundancy. Three separate processors calculate the exact same instruction at the exact same time and hold a vote. If a cosmic ray corrupts Processor A, Processors B and C outvote it two to one."
+    },
+    {
+      "id": "ch8",
+      "title": "The Cosmic Takeaway",
+      "text": "Most home laptops and gaming consoles skip error-correcting memory to save a few dollars and a bit of battery life. Which means the microscopic buckets inside the machine you're watching this on right now are completely unshielded against the cosmos.\n\nMost of the time, a flipped bit just changes the color of a single pixel for a sixtieth of a second, and you never notice. Once in a million times, it crashes your program. And once in gaming history, it teleports an Italian plumber through a solid ceiling.\n\nIt's a humbling thought: we built machines so small and so sensitive that they feel the echo of stars that died millions of years ago.\n\nThis was Episode Two of Physics Bugs. Next time: the day one extra second crashed half the internet. Subscribe so you don't miss it."
+    }
+  ]
+}

@@ -1,0 +1,959 @@
+1
+00:00:00,400 --> 00:00:04,147
+In September twenty thirteen, a speedrunner named DOTA
+
+2
+00:00:04,168 --> 00:00:06,650
+TeaBag was racing through the Tick Tock Clock
+
+3
+00:00:06,500 --> 00:00:09,310
+level of Super Mario Sixty-Four.
+
+4
+00:00:09,160 --> 00:00:12,000
+Without touching a single button to jump, his
+
+5
+00:00:11,850 --> 00:00:16,040
+character suddenly teleported straight through the ceiling, skipping
+
+6
+00:00:15,890 --> 00:00:17,940
+an entire section of the tower.
+
+7
+00:00:17,960 --> 00:00:19,670
+No one knew how he did it.
+
+8
+00:00:19,520 --> 00:00:22,890
+A famous analyst even offered a one-thousand-dollar bounty
+
+9
+00:00:22,740 --> 00:00:25,110
+to anyone who could repeat the trick on
+
+10
+00:00:24,960 --> 00:00:27,680
+a real Nintendo console.
+
+11
+00:00:27,580 --> 00:00:30,370
+For years, thousands of players tried.
+
+12
+00:00:30,380 --> 00:00:32,550
+Not a single person succeeded.
+
+13
+00:00:32,680 --> 00:00:33,900
+Why?
+
+14
+00:00:34,000 --> 00:00:36,870
+Because the player didn't press a secret button.
+
+15
+00:00:36,760 --> 00:00:39,990
+The culprit came from outer space.
+
+16
+00:00:39,840 --> 00:00:43,070
+A single subatomic particle, born in an exploding
+
+17
+00:00:42,920 --> 00:00:46,990
+star thousands of light-years away, crashed through the
+
+18
+00:00:46,840 --> 00:00:49,550
+roof and flipped a single zero into a
+
+19
+00:00:49,400 --> 00:00:51,350
+one inside the console's memory.
+
+20
+00:00:51,680 --> 00:00:55,350
+First, we'll look inside the microscopic bucket that
+
+21
+00:00:55,200 --> 00:00:57,060
+holds a single bit of memory.
+
+22
+00:00:57,147 --> 00:00:59,430
+Then, we'll see how a particle from deep
+
+23
+00:00:59,280 --> 00:01:01,550
+space can tip that bucket over, changing an
+
+24
+00:01:01,400 --> 00:01:05,030
+election in Belgium and nearly crashing a passenger
+
+25
+00:01:04,880 --> 00:01:06,670
+jet in two thousand eight.
+
+26
+00:01:06,520 --> 00:01:09,920
+And finally, we'll see the clever math engineers
+
+27
+00:01:09,770 --> 00:01:11,326
+use to catch the universe in the act.
+
+28
+00:01:12,240 --> 00:01:15,640
+When speedrunners couldn't repeat the teleport by hand,
+
+29
+00:01:15,540 --> 00:01:19,310
+a programmer named pannenkoek decided to work backward
+
+30
+00:01:19,160 --> 00:01:21,580
+from the console's memory.
+
+31
+00:01:21,800 --> 00:01:25,370
+Inside the Nintendo Sixty-Four, Mario's vertical height is
+
+32
+00:01:25,220 --> 00:01:29,220
+stored as a thirty-two-bit floating-point number.
+
+33
+00:01:29,400 --> 00:01:32,170
+Just before the teleport, the first byte of
+
+34
+00:01:32,020 --> 00:01:35,780
+his height was the hexadecimal number C-five.
+
+35
+00:01:36,120 --> 00:01:42,123
+In binary, that's one, one, zero, zero, zero,
+
+36
+00:01:42,340 --> 00:01:43,590
+one, zero, one.
+
+37
+00:01:43,440 --> 00:01:48,017
+That corresponds to a height of minus-sixteen hundred
+
+38
+00:01:48,012 --> 00:01:49,440
+and fifty-eight units.
+
+39
+00:01:49,400 --> 00:01:52,680
+When the programmer manually flipped just the very
+
+40
+00:01:52,530 --> 00:01:54,480
+last bit of that byte from a one
+
+41
+00:01:54,330 --> 00:01:58,250
+to a zero, changing C-five into C-four, the
+
+42
+00:01:58,100 --> 00:02:02,817
+height number instantly jumped to minus-eight hundred and
+
+43
+00:02:02,685 --> 00:02:02,870
+ninety-five.
+
+44
+00:02:02,720 --> 00:02:05,780
+Mario snapped straight up onto the higher platform,
+
+45
+00:02:06,010 --> 00:02:09,650
+matching the famous video frame for frame.
+
+46
+00:02:09,800 --> 00:02:12,790
+Nothing in the game's code could ever write
+
+47
+00:02:12,640 --> 00:02:13,830
+C-four at that moment.
+
+48
+00:02:14,120 --> 00:02:18,010
+Only one thing made sense: something physical had
+
+49
+00:02:17,860 --> 00:02:21,280
+reached inside the memory chip and flipped that
+
+50
+00:02:21,130 --> 00:02:22,669
+single bit by force.
+
+51
+00:02:23,480 --> 00:02:25,380
+To see how a bit can flip on
+
+52
+00:02:25,230 --> 00:02:27,830
+its own, we have to zoom inside your
+
+53
+00:02:27,680 --> 00:02:29,400
+computer's memory.
+
+54
+00:02:29,320 --> 00:02:31,830
+We like to think of ones and zeros
+
+55
+00:02:31,680 --> 00:02:33,270
+as abstract math.
+
+56
+00:02:33,200 --> 00:02:37,530
+In reality, they are physical puddles of electricity.
+
+57
+00:02:37,763 --> 00:02:40,940
+Dynamic RAM is a gigantic grid of billions
+
+58
+00:02:40,790 --> 00:02:41,810
+of cells.
+
+59
+00:02:41,760 --> 00:02:44,920
+Each cell is just a microscopic capacitor, which
+
+60
+00:02:44,770 --> 00:02:47,200
+acts like a tiny bucket, paired with a
+
+61
+00:02:47,050 --> 00:02:50,130
+transistor switch that acts as a lid.
+
+62
+00:02:50,080 --> 00:02:52,740
+When the bucket is filled with electrons, the
+
+63
+00:02:52,590 --> 00:02:54,070
+computer reads a one.
+
+64
+00:02:53,920 --> 00:02:56,740
+When the bucket is empty, it reads a
+
+65
+00:02:56,795 --> 00:02:57,150
+zero.
+
+66
+00:02:57,000 --> 00:03:00,860
+In the nineteen-seventies, those buckets were comparatively huge,
+
+67
+00:03:01,140 --> 00:03:02,810
+holding millions of electrons.
+
+68
+00:03:03,130 --> 00:03:06,270
+Tipping one over by accident was almost impossible.
+
+69
+00:03:06,400 --> 00:03:09,760
+But as engineers shrank transistors down to just
+
+70
+00:03:09,610 --> 00:03:14,900
+a few nanometers, the buckets became unimaginably tiny.
+
+71
+00:03:14,840 --> 00:03:17,870
+In a modern chip, a single memory bucket
+
+72
+00:03:17,720 --> 00:03:20,750
+holds only a few thousand electrons.
+
+73
+00:03:20,640 --> 00:03:23,670
+The wall separating a zero from a one
+
+74
+00:03:23,520 --> 00:03:26,560
+has become so thin that a tiny splash
+
+75
+00:03:26,410 --> 00:03:30,064
+of stray charge is enough to overflow the
+
+76
+00:03:29,914 --> 00:03:30,064
+bucket.
+
+77
+00:03:30,930 --> 00:03:34,490
+So where does that stray charge come from?
+
+78
+00:03:34,480 --> 00:03:36,340
+Look up at the night sky.
+
+79
+00:03:36,480 --> 00:03:40,820
+Every second, exploding stars and distant black holes
+
+80
+00:03:40,670 --> 00:03:44,020
+blast protons across the galaxy at nearly the
+
+81
+00:03:43,870 --> 00:03:45,440
+speed of light.
+
+82
+00:03:45,480 --> 00:03:48,010
+These are primary cosmic rays.
+
+83
+00:03:48,020 --> 00:03:51,340
+When one of these high-energy protons slams into
+
+84
+00:03:51,190 --> 00:03:53,820
+a nitrogen or oxygen atom high in Earth's
+
+85
+00:03:53,960 --> 00:03:57,810
+atmosphere, about fifteen kilometers above your head, it
+
+86
+00:03:57,955 --> 00:04:00,510
+shatters the atom like a cue ball breaking
+
+87
+00:04:00,360 --> 00:04:02,090
+a rack of billiard balls.
+
+88
+00:04:02,160 --> 00:04:05,830
+That collision triggers a massive cascading shower of
+
+89
+00:04:05,680 --> 00:04:10,780
+billions of secondary particles, including high-speed neutrons and
+
+90
+00:04:10,920 --> 00:04:13,850
+muons, raining silently down to the ground.
+
+91
+00:04:14,040 --> 00:04:16,560
+Millions of them pass harmlessly through your roof,
+
+92
+00:04:16,530 --> 00:04:18,870
+your desk, and your own body every single
+
+93
+00:04:18,720 --> 00:04:19,730
+day.
+
+94
+00:04:19,720 --> 00:04:22,510
+If you enjoy stories where deep physics collides
+
+95
+00:04:22,630 --> 00:04:25,650
+with everyday computers, take a second to hit
+
+96
+00:04:25,500 --> 00:04:30,040
+subscribe, because this is Episode Two of Physics
+
+97
+00:04:29,890 --> 00:04:30,640
+Bugs.
+
+98
+00:04:30,660 --> 00:04:33,230
+When one of those stray neutrons happens to
+
+99
+00:04:33,080 --> 00:04:35,610
+strike the silicon lattice right next to a
+
+100
+00:04:35,460 --> 00:04:38,680
+memory bucket, it rips electrons loose along its
+
+101
+00:04:38,530 --> 00:04:41,940
+track, dumping a sudden trail of electric charge
+
+102
+00:04:41,790 --> 00:04:44,260
+straight into the capacitor.
+
+103
+00:04:44,180 --> 00:04:47,390
+In less than a nanosecond, an empty zero
+
+104
+00:04:47,240 --> 00:04:49,820
+bucket fills up and becomes a one.
+
+105
+00:04:50,020 --> 00:04:52,478
+Engineers call this a Single-Event Upset.
+
+106
+00:04:54,278 --> 00:04:56,110
+Flipping a bit in a video game is
+
+107
+00:04:55,960 --> 00:04:57,320
+harmless fun.
+
+108
+00:04:57,585 --> 00:05:00,330
+Flipping a bit in a national election is
+
+109
+00:05:00,180 --> 00:05:02,230
+a very different story.
+
+110
+00:05:02,200 --> 00:05:04,800
+On May eighteenth, two thousand three, voters in
+
+111
+00:05:04,650 --> 00:05:07,740
+the town of Schaerbeek, Belgium cast their ballots
+
+112
+00:05:07,590 --> 00:05:10,260
+on electronic voting machines.
+
+113
+00:05:10,240 --> 00:05:12,940
+When officials checked the results that night, a
+
+114
+00:05:12,790 --> 00:05:15,880
+candidate named Maria Vindevoghel had received far more
+
+115
+00:05:15,730 --> 00:05:18,970
+votes than was mathematically possible in her district.
+
+116
+00:05:19,380 --> 00:05:23,080
+So election workers pulled the physical magnetic cards
+
+117
+00:05:22,930 --> 00:05:25,890
+and recounted every ballot by hand.
+
+118
+00:05:25,960 --> 00:05:30,460
+Every single candidate's recount matched the computer, except
+
+119
+00:05:30,310 --> 00:05:30,560
+hers.
+
+120
+00:05:30,700 --> 00:05:34,470
+The computer had given her exactly four thousand
+
+121
+00:05:34,428 --> 00:05:36,060
+and ninety-six extra votes.
+
+122
+00:05:36,040 --> 00:05:38,630
+Why four thousand and ninety-six?
+
+123
+00:05:38,480 --> 00:05:41,080
+To a computer scientist, that number is a
+
+124
+00:05:40,930 --> 00:05:41,960
+smoking gun.
+
+125
+00:05:41,880 --> 00:05:44,690
+In binary, the first bit is worth one,
+
+126
+00:05:44,560 --> 00:05:48,250
+the second is two, then four, eight, sixteen,
+
+127
+00:05:48,270 --> 00:05:49,730
+all the way up.
+
+128
+00:05:49,600 --> 00:05:52,920
+The thirteenth bit, two to the power of
+
+129
+00:05:53,155 --> 00:05:56,790
+twelve, is worth exactly four thousand and ninety-six.
+
+130
+00:05:56,640 --> 00:05:59,580
+The software had no bugs, and the hardware
+
+131
+00:05:59,430 --> 00:06:00,920
+passed every test.
+
+132
+00:06:00,920 --> 00:06:03,880
+Investigators concluded that a single cosmic ray had
+
+133
+00:06:03,730 --> 00:06:07,060
+struck the machine's memory and flipped bit twelve
+
+134
+00:06:07,020 --> 00:06:08,558
+from a zero to a one.
+
+135
+00:06:09,320 --> 00:06:12,700
+Now ask yourself a scary question.
+
+136
+00:06:12,600 --> 00:06:16,270
+If cosmic rays come from the upper atmosphere,
+
+137
+00:06:16,200 --> 00:06:19,080
+what happens when you fly closer to the
+
+138
+00:06:18,930 --> 00:06:20,050
+source?
+
+139
+00:06:19,960 --> 00:06:23,420
+At a cruising altitude of thirty-seven thousand feet,
+
+140
+00:06:23,500 --> 00:06:26,320
+the thin air blocks far less radiation.
+
+141
+00:06:26,280 --> 00:06:29,640
+Up there, the bombardment of cosmic neutrons is
+
+142
+00:06:29,490 --> 00:06:32,510
+roughly three hundred times stronger than it is
+
+143
+00:06:32,360 --> 00:06:34,330
+at sea level.
+
+144
+00:06:34,240 --> 00:06:37,990
+On October seventh, two thousand eight, Qantas Flight
+
+145
+00:06:38,127 --> 00:06:41,690
+Seventy-Two, an Airbus A-three-thirty carrying three hundred and
+
+146
+00:06:41,540 --> 00:06:45,440
+fifteen people from Singapore to Perth, was cruising
+
+147
+00:06:45,290 --> 00:06:47,740
+smoothly in clear skies.
+
+148
+00:06:47,680 --> 00:06:51,090
+Without warning, one of its air data computers,
+
+149
+00:06:50,950 --> 00:06:55,950
+called ADIRU-one, began spitting out wildly corrupted numbers.
+
+150
+00:06:55,800 --> 00:06:59,070
+A value inside the processor's memory had been
+
+151
+00:06:59,320 --> 00:07:02,960
+mislabeled and misread as a massive forty-two-degree spike
+
+152
+00:07:02,810 --> 00:07:05,550
+in the plane's angle of attack.
+
+153
+00:07:05,640 --> 00:07:07,860
+Thinking the wings were about to stall, the
+
+154
+00:07:07,710 --> 00:07:11,300
+flight computer violently pitched the nose down, dropping
+
+155
+00:07:11,150 --> 00:07:13,710
+the airliner six hundred and fifty feet in
+
+156
+00:07:13,815 --> 00:07:15,060
+twenty seconds.
+
+157
+00:07:15,040 --> 00:07:18,380
+The pilots fought back and landed safely, though
+
+158
+00:07:18,230 --> 00:07:20,680
+dozens of passengers were injured.
+
+159
+00:07:20,640 --> 00:07:23,510
+In their official report, investigators found that the
+
+160
+00:07:23,360 --> 00:07:26,630
+hardware glitch had occurred only three times in
+
+161
+00:07:26,480 --> 00:07:28,760
+over one hundred and twenty-eight million hours of
+
+162
+00:07:28,610 --> 00:07:33,160
+flight, pointing to a Single-Event Upset combined with
+
+163
+00:07:33,010 --> 00:07:35,601
+a rare timing gap in the filtering software.
+
+164
+00:07:36,640 --> 00:07:39,380
+Before we blame outer space for every blue
+
+165
+00:07:39,230 --> 00:07:41,640
+screen on your laptop, we need to do
+
+166
+00:07:41,490 --> 00:07:43,610
+an honest physics check.
+
+167
+00:07:43,560 --> 00:07:46,820
+First, not every bit flip comes from a
+
+168
+00:07:46,670 --> 00:07:48,000
+distant supernova.
+
+169
+00:07:48,560 --> 00:07:52,070
+In the nineteen-seventies, chipmakers at Intel discovered their
+
+170
+00:07:51,920 --> 00:07:54,600
+own memory chips were flipping bits even deep
+
+171
+00:07:54,450 --> 00:07:55,790
+underground.
+
+172
+00:07:55,640 --> 00:07:58,430
+The culprit turned out to be the ceramic
+
+173
+00:07:58,280 --> 00:08:00,360
+packaging of the chip itself.
+
+174
+00:08:00,480 --> 00:08:03,090
+Trace amounts of uranium in the clay from
+
+175
+00:08:02,940 --> 00:08:05,330
+a river contaminated by an old mine in
+
+176
+00:08:05,180 --> 00:08:09,510
+Colorado were emitting alpha particles right onto the
+
+177
+00:08:09,360 --> 00:08:10,470
+silicon.
+
+178
+00:08:10,320 --> 00:08:13,080
+Second, can we ever prove beyond a shadow
+
+179
+00:08:12,930 --> 00:08:15,080
+of a doubt that a cosmic ray teleported
+
+180
+00:08:15,360 --> 00:08:18,550
+Mario in twenty thirteen, or flipped that vote
+
+181
+00:08:18,400 --> 00:08:20,110
+in two thousand three?
+
+182
+00:08:19,960 --> 00:08:20,190
+No.
+
+183
+00:08:20,650 --> 00:08:24,610
+Because a Single-Event Upset leaves zero permanent physical
+
+184
+00:08:24,460 --> 00:08:26,080
+damage on the chip.
+
+185
+00:08:26,040 --> 00:08:28,760
+Once the memory is overwritten or the power
+
+186
+00:08:28,610 --> 00:08:31,105
+turns off, the crime scene vanishes.
+
+187
+00:08:31,160 --> 00:08:34,350
+However, IBM measured the threat in a real
+
+188
+00:08:34,200 --> 00:08:34,880
+lab.
+
+189
+00:08:34,760 --> 00:08:38,020
+In the nineteen-nineties, they estimated that a typical
+
+190
+00:08:37,870 --> 00:08:40,840
+computer suffers roughly one cosmic-ray bit flip per
+
+191
+00:08:40,930 --> 00:08:43,470
+two hundred and fifty-six megabytes of RAM every
+
+192
+00:08:43,320 --> 00:08:46,030
+month at sea level, and far more on
+
+193
+00:08:45,880 --> 00:08:47,994
+a mountain or an airplane.
+
+194
+00:08:48,840 --> 00:08:52,165
+So if the universe is constantly firing subatomic
+
+195
+00:08:52,100 --> 00:08:55,620
+bullets through our chips, why doesn't the global
+
+196
+00:08:55,470 --> 00:08:59,880
+banking system or the internet collapse every afternoon?
+
+197
+00:08:59,960 --> 00:09:03,880
+Because critical systems use two ingenious defenses.
+
+198
+00:09:03,760 --> 00:09:08,110
+The first is Error-Correcting Code memory, or ECC
+
+199
+00:09:07,960 --> 00:09:08,570
+RAM.
+
+200
+00:09:08,640 --> 00:09:11,810
+Instead of storing just sixty-four buckets of data,
+
+201
+00:09:11,870 --> 00:09:14,830
+an ECC memory stick adds eight extra buckets
+
+202
+00:09:14,680 --> 00:09:16,230
+on the side.
+
+203
+00:09:16,280 --> 00:09:19,080
+Every time data is written, the chip calculates
+
+204
+00:09:18,930 --> 00:09:22,630
+a mathematical parity fingerprint across those sixty-four bits
+
+205
+00:09:22,480 --> 00:09:25,600
+and stores the fingerprint in the extra eight
+
+206
+00:09:25,450 --> 00:09:26,340
+buckets.
+
+207
+00:09:26,320 --> 00:09:29,190
+When a cosmic ray flips a single bucket,
+
+208
+00:09:29,140 --> 00:09:31,040
+the math equation breaks.
+
+209
+00:09:31,000 --> 00:09:34,540
+In nanoseconds, the memory controller triangulates the exact
+
+210
+00:09:34,390 --> 00:09:36,910
+row and column that broke, flips the bit
+
+211
+00:09:36,760 --> 00:09:39,850
+back, and keeps running without a crash.
+
+212
+00:09:39,840 --> 00:09:43,500
+And for spacecraft, satellites, and modern flight computers,
+
+213
+00:09:43,460 --> 00:09:47,640
+engineers go even further with Triple Modular Redundancy.
+
+214
+00:09:47,560 --> 00:09:51,370
+Three separate processors calculate the exact same instruction
+
+215
+00:09:51,220 --> 00:09:53,410
+at the exact same time and hold a
+
+216
+00:09:53,260 --> 00:09:53,950
+vote.
+
+217
+00:09:53,880 --> 00:09:58,080
+If a cosmic ray corrupts Processor A, Processors
+
+218
+00:09:57,930 --> 00:09:59,309
+B and C outvote it two to one.
+
+219
+00:10:00,440 --> 00:10:04,160
+Most home laptops and gaming consoles skip error-correcting
+
+220
+00:10:04,010 --> 00:10:06,080
+memory to save a few dollars and a
+
+221
+00:10:05,930 --> 00:10:07,260
+bit of battery life.
+
+222
+00:10:07,270 --> 00:10:10,910
+Which means the microscopic buckets inside the machine
+
+223
+00:10:10,920 --> 00:10:14,390
+you're watching this on right now are completely
+
+224
+00:10:14,690 --> 00:10:16,860
+unshielded against the cosmos.
+
+225
+00:10:16,920 --> 00:10:18,880
+Most of the time, a flipped bit just
+
+226
+00:10:18,730 --> 00:10:20,950
+changes the color of a single pixel for
+
+227
+00:10:20,800 --> 00:10:23,690
+a sixtieth of a second, and you never
+
+228
+00:10:23,540 --> 00:10:24,430
+notice.
+
+229
+00:10:24,520 --> 00:10:27,420
+Once in a million times, it crashes your
+
+230
+00:10:27,270 --> 00:10:28,030
+program.
+
+231
+00:10:27,880 --> 00:10:31,080
+And once in gaming history, it teleports an
+
+232
+00:10:30,930 --> 00:10:34,200
+Italian plumber through a solid ceiling.
+
+233
+00:10:34,265 --> 00:10:37,520
+It's a humbling thought: we built machines so
+
+234
+00:10:37,370 --> 00:10:40,640
+small and so sensitive that they feel the
+
+235
+00:10:40,490 --> 00:10:44,050
+echo of stars that died millions of years
+
+236
+00:10:43,900 --> 00:10:44,750
+ago.
+
+237
+00:10:44,760 --> 00:10:48,160
+This was Episode Two of Physics Bugs.
+
+238
+00:10:48,280 --> 00:10:51,590
+Next time: the day one extra second crashed
+
+239
+00:10:51,440 --> 00:10:53,050
+half the internet.
+
+240
+00:10:52,960 --> 00:10:54,350
+Subscribe so you don't miss it.
