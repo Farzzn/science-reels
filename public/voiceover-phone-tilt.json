@@ -1,0 +1,1087 @@
+[
+  {
+    "text": "Your",
+    "startMs": 60,
+    "endMs": 330,
+    "timestampMs": 140,
+    "confidence": 0.773206
+  },
+  {
+    "text": " phone",
+    "startMs": 330,
+    "endMs": 650,
+    "timestampMs": 400,
+    "confidence": 0.998515
+  },
+  {
+    "text": " has",
+    "startMs": 650,
+    "endMs": 870,
+    "timestampMs": 680,
+    "confidence": 0.996073
+  },
+  {
+    "text": " zero",
+    "startMs": 870,
+    "endMs": 1160,
+    "timestampMs": 1160,
+    "confidence": 0.976278
+  },
+  {
+    "text": " spinning",
+    "startMs": 1160,
+    "endMs": 1740,
+    "timestampMs": 1600,
+    "confidence": 0.99582
+  },
+  {
+    "text": " gears",
+    "startMs": 1740,
+    "endMs": 2100,
+    "timestampMs": 1900,
+    "confidence": 0.997624
+  },
+  {
+    "text": " inside",
+    "startMs": 2100,
+    "endMs": 2540,
+    "timestampMs": 2380,
+    "confidence": 0.991244
+  },
+  {
+    "text": " it.",
+    "startMs": 2540,
+    "endMs": 2720,
+    "timestampMs": 2580,
+    "confidence": 0.99386
+  },
+  {
+    "text": " So",
+    "startMs": 2720,
+    "endMs": 2870,
+    "timestampMs": 2920,
+    "confidence": 0.998075
+  },
+  {
+    "text": " how",
+    "startMs": 2870,
+    "endMs": 3140,
+    "timestampMs": 3340,
+    "confidence": 0.783606
+  },
+  {
+    "text": " does",
+    "startMs": 3140,
+    "endMs": 3410,
+    "timestampMs": 3520,
+    "confidence": 0.998302
+  },
+  {
+    "text": " it",
+    "startMs": 3410,
+    "endMs": 3590,
+    "timestampMs": 3640,
+    "confidence": 0.997048
+  },
+  {
+    "text": " instantly",
+    "startMs": 3590,
+    "endMs": 4300,
+    "timestampMs": 4060,
+    "confidence": 0.997638
+  },
+  {
+    "text": " know",
+    "startMs": 4300,
+    "endMs": 4560,
+    "timestampMs": 4460,
+    "confidence": 0.935892
+  },
+  {
+    "text": " the",
+    "startMs": 4560,
+    "endMs": 4830,
+    "timestampMs": 4660,
+    "confidence": 0.853221
+  },
+  {
+    "text": " exact",
+    "startMs": 4830,
+    "endMs": 5290,
+    "timestampMs": 4860,
+    "confidence": 0.990567
+  },
+  {
+    "text": " angle",
+    "startMs": 5290,
+    "endMs": 5760,
+    "timestampMs": 5680,
+    "confidence": 0.992498
+  },
+  {
+    "text": " you",
+    "startMs": 5760,
+    "endMs": 5970,
+    "timestampMs": 5880,
+    "confidence": 0.995575
+  },
+  {
+    "text": " tilt",
+    "startMs": 5970,
+    "endMs": 6170,
+    "timestampMs": 6040,
+    "confidence": 0.998687
+  },
+  {
+    "text": " your",
+    "startMs": 6170,
+    "endMs": 6390,
+    "timestampMs": 6260,
+    "confidence": 0.996698
+  },
+  {
+    "text": " screen",
+    "startMs": 6390,
+    "endMs": 6740,
+    "timestampMs": 6600,
+    "confidence": 0.998708
+  },
+  {
+    "text": " in",
+    "startMs": 6740,
+    "endMs": 6850,
+    "timestampMs": 6760,
+    "confidence": 0.990883
+  },
+  {
+    "text": " the",
+    "startMs": 6850,
+    "endMs": 7020,
+    "timestampMs": 6860,
+    "confidence": 0.999026
+  },
+  {
+    "text": " dark?",
+    "startMs": 7020,
+    "endMs": 7280,
+    "timestampMs": 7120,
+    "confidence": 0.994759
+  },
+  {
+    "text": " Because",
+    "startMs": 7280,
+    "endMs": 7660,
+    "timestampMs": 7500,
+    "confidence": 0.998471
+  },
+  {
+    "text": " hidden",
+    "startMs": 7660,
+    "endMs": 7990,
+    "timestampMs": 7800,
+    "confidence": 0.992246
+  },
+  {
+    "text": " inside",
+    "startMs": 7990,
+    "endMs": 8320,
+    "timestampMs": 8180,
+    "confidence": 0.999491
+  },
+  {
+    "text": " your",
+    "startMs": 8320,
+    "endMs": 8540,
+    "timestampMs": 8420,
+    "confidence": 0.997217
+  },
+  {
+    "text": " motherboard",
+    "startMs": 8540,
+    "endMs": 9160,
+    "timestampMs": 8760,
+    "confidence": 0.996586
+  },
+  {
+    "text": " is",
+    "startMs": 9160,
+    "endMs": 9310,
+    "timestampMs": 9280,
+    "confidence": 0.998868
+  },
+  {
+    "text": " a",
+    "startMs": 9310,
+    "endMs": 9380,
+    "timestampMs": 9340,
+    "confidence": 0.998603
+  },
+  {
+    "text": " microscopic",
+    "startMs": 9380,
+    "endMs": 10230,
+    "timestampMs": 9820,
+    "confidence": 0.992492
+  },
+  {
+    "text": " machine",
+    "startMs": 10230,
+    "endMs": 10800,
+    "timestampMs": 10640,
+    "confidence": 0.999342
+  },
+  {
+    "text": " with",
+    "startMs": 10800,
+    "endMs": 11090,
+    "timestampMs": 10920,
+    "confidence": 0.886864
+  },
+  {
+    "text": " actual",
+    "startMs": 11090,
+    "endMs": 11520,
+    "timestampMs": 11300,
+    "confidence": 0.997402
+  },
+  {
+    "text": " moving",
+    "startMs": 11520,
+    "endMs": 11960,
+    "timestampMs": 11700,
+    "confidence": 0.989856
+  },
+  {
+    "text": " parts,",
+    "startMs": 11960,
+    "endMs": 12520,
+    "timestampMs": 12200,
+    "confidence": 0.986974
+  },
+  {
+    "text": " smaller",
+    "startMs": 12520,
+    "endMs": 13020,
+    "timestampMs": 12840,
+    "confidence": 0.999085
+  },
+  {
+    "text": " than",
+    "startMs": 13020,
+    "endMs": 13300,
+    "timestampMs": 13220,
+    "confidence": 0.998788
+  },
+  {
+    "text": " a",
+    "startMs": 13300,
+    "endMs": 13430,
+    "timestampMs": 13320,
+    "confidence": 0.999009
+  },
+  {
+    "text": " grain",
+    "startMs": 13430,
+    "endMs": 13730,
+    "timestampMs": 13600,
+    "confidence": 0.998677
+  },
+  {
+    "text": " of",
+    "startMs": 13730,
+    "endMs": 13850,
+    "timestampMs": 13800,
+    "confidence": 0.999399
+  },
+  {
+    "text": " salt.",
+    "startMs": 13850,
+    "endMs": 14400,
+    "timestampMs": 14120,
+    "confidence": 0.999497
+  },
+  {
+    "text": " It's",
+    "startMs": 14400,
+    "endMs": 14700,
+    "timestampMs": 14500,
+    "confidence": 0.997699
+  },
+  {
+    "text": " called",
+    "startMs": 14700,
+    "endMs": 15070,
+    "timestampMs": 14820,
+    "confidence": 0.999222
+  },
+  {
+    "text": " a",
+    "startMs": 15070,
+    "endMs": 15140,
+    "timestampMs": 15080,
+    "confidence": 0.991951
+  },
+  {
+    "text": " MEMS",
+    "startMs": 15140,
+    "endMs": 15400,
+    "timestampMs": 15320,
+    "confidence": 0.764306
+  },
+  {
+    "text": " gyroscope.",
+    "startMs": 15400,
+    "endMs": 16280,
+    "timestampMs": 15680,
+    "confidence": 0.939656
+  },
+  {
+    "text": " Etched",
+    "startMs": 16280,
+    "endMs": 16710,
+    "timestampMs": 16400,
+    "confidence": 0.44731
+  },
+  {
+    "text": " out",
+    "startMs": 16710,
+    "endMs": 16910,
+    "timestampMs": 16680,
+    "confidence": 0.993475
+  },
+  {
+    "text": " of",
+    "startMs": 16910,
+    "endMs": 17060,
+    "timestampMs": 16800,
+    "confidence": 0.996884
+  },
+  {
+    "text": " pure",
+    "startMs": 17060,
+    "endMs": 17350,
+    "timestampMs": 17060,
+    "confidence": 0.995484
+  },
+  {
+    "text": " silicon",
+    "startMs": 17350,
+    "endMs": 17880,
+    "timestampMs": 17420,
+    "confidence": 0.861855
+  },
+  {
+    "text": " is",
+    "startMs": 17880,
+    "endMs": 18050,
+    "timestampMs": 18000,
+    "confidence": 0.874801
+  },
+  {
+    "text": " a",
+    "startMs": 18050,
+    "endMs": 18120,
+    "timestampMs": 18120,
+    "confidence": 0.991938
+  },
+  {
+    "text": " tiny",
+    "startMs": 18120,
+    "endMs": 18440,
+    "timestampMs": 18440,
+    "confidence": 0.997596
+  },
+  {
+    "text": " suspended",
+    "startMs": 18440,
+    "endMs": 19150,
+    "timestampMs": 18860,
+    "confidence": 0.884625
+  },
+  {
+    "text": " weight",
+    "startMs": 19150,
+    "endMs": 19640,
+    "timestampMs": 19440,
+    "confidence": 0.975328
+  },
+  {
+    "text": " that",
+    "startMs": 19640,
+    "endMs": 19900,
+    "timestampMs": 19700,
+    "confidence": 0.999664
+  },
+  {
+    "text": " vibrates",
+    "startMs": 19900,
+    "endMs": 20460,
+    "timestampMs": 19960,
+    "confidence": 0.997975
+  },
+  {
+    "text": " back",
+    "startMs": 20460,
+    "endMs": 20670,
+    "timestampMs": 20520,
+    "confidence": 0.999376
+  },
+  {
+    "text": " and",
+    "startMs": 20670,
+    "endMs": 20920,
+    "timestampMs": 20740,
+    "confidence": 0.992858
+  },
+  {
+    "text": " forth",
+    "startMs": 20920,
+    "endMs": 21200,
+    "timestampMs": 21020,
+    "confidence": 0.995653
+  },
+  {
+    "text": " tens",
+    "startMs": 21200,
+    "endMs": 21500,
+    "timestampMs": 21400,
+    "confidence": 0.985742
+  },
+  {
+    "text": " of",
+    "startMs": 21500,
+    "endMs": 21650,
+    "timestampMs": 21700,
+    "confidence": 0.999413
+  },
+  {
+    "text": " thousands",
+    "startMs": 21650,
+    "endMs": 22370,
+    "timestampMs": 21960,
+    "confidence": 0.990297
+  },
+  {
+    "text": " of",
+    "startMs": 22370,
+    "endMs": 22480,
+    "timestampMs": 22300,
+    "confidence": 0.999047
+  },
+  {
+    "text": " times",
+    "startMs": 22480,
+    "endMs": 22880,
+    "timestampMs": 22580,
+    "confidence": 0.998559
+  },
+  {
+    "text": " every",
+    "startMs": 22880,
+    "endMs": 23270,
+    "timestampMs": 23040,
+    "confidence": 0.986807
+  },
+  {
+    "text": " second,",
+    "startMs": 23270,
+    "endMs": 23720,
+    "timestampMs": 23500,
+    "confidence": 0.999474
+  },
+  {
+    "text": " like",
+    "startMs": 23720,
+    "endMs": 23960,
+    "timestampMs": 23840,
+    "confidence": 0.999638
+  },
+  {
+    "text": " a",
+    "startMs": 23960,
+    "endMs": 24020,
+    "timestampMs": 23980,
+    "confidence": 0.998511
+  },
+  {
+    "text": " microscopic",
+    "startMs": 24020,
+    "endMs": 24700,
+    "timestampMs": 24400,
+    "confidence": 0.998154
+  },
+  {
+    "text": " tuning",
+    "startMs": 24700,
+    "endMs": 25070,
+    "timestampMs": 25000,
+    "confidence": 0.979484
+  },
+  {
+    "text": " fork.",
+    "startMs": 25070,
+    "endMs": 25520,
+    "timestampMs": 25340,
+    "confidence": 0.977204
+  },
+  {
+    "text": " As",
+    "startMs": 25520,
+    "endMs": 25640,
+    "timestampMs": 25600,
+    "confidence": 0.998889
+  },
+  {
+    "text": " long",
+    "startMs": 25640,
+    "endMs": 25890,
+    "timestampMs": 25780,
+    "confidence": 0.999611
+  },
+  {
+    "text": " as",
+    "startMs": 25890,
+    "endMs": 26000,
+    "timestampMs": 25960,
+    "confidence": 0.998517
+  },
+  {
+    "text": " you",
+    "startMs": 26000,
+    "endMs": 26180,
+    "timestampMs": 26060,
+    "confidence": 0.999668
+  },
+  {
+    "text": " hold",
+    "startMs": 26180,
+    "endMs": 26420,
+    "timestampMs": 26260,
+    "confidence": 0.999672
+  },
+  {
+    "text": " your",
+    "startMs": 26420,
+    "endMs": 26660,
+    "timestampMs": 26400,
+    "confidence": 0.997543
+  },
+  {
+    "text": " phone",
+    "startMs": 26660,
+    "endMs": 26960,
+    "timestampMs": 26640,
+    "confidence": 0.984097
+  },
+  {
+    "text": " still,",
+    "startMs": 26960,
+    "endMs": 27280,
+    "timestampMs": 27000,
+    "confidence": 0.993235
+  },
+  {
+    "text": " it",
+    "startMs": 27280,
+    "endMs": 27410,
+    "timestampMs": 27400,
+    "confidence": 0.943648
+  },
+  {
+    "text": " vibrates",
+    "startMs": 27410,
+    "endMs": 28010,
+    "timestampMs": 27580,
+    "confidence": 0.99861
+  },
+  {
+    "text": " in",
+    "startMs": 28010,
+    "endMs": 28060,
+    "timestampMs": 28100,
+    "confidence": 0.99923
+  },
+  {
+    "text": " a",
+    "startMs": 28060,
+    "endMs": 28120,
+    "timestampMs": 28180,
+    "confidence": 0.999058
+  },
+  {
+    "text": " straight",
+    "startMs": 28120,
+    "endMs": 28640,
+    "timestampMs": 28400,
+    "confidence": 0.999647
+  },
+  {
+    "text": " line.",
+    "startMs": 28640,
+    "endMs": 28960,
+    "timestampMs": 28720,
+    "confidence": 0.995797
+  },
+  {
+    "text": " But",
+    "startMs": 29010,
+    "endMs": 29140,
+    "timestampMs": 29060,
+    "confidence": 0.997758
+  },
+  {
+    "text": " the",
+    "startMs": 29140,
+    "endMs": 29320,
+    "timestampMs": 29180,
+    "confidence": 0.996164
+  },
+  {
+    "text": " millisecond",
+    "startMs": 29320,
+    "endMs": 29990,
+    "timestampMs": 29520,
+    "confidence": 0.987263
+  },
+  {
+    "text": " you",
+    "startMs": 29990,
+    "endMs": 30160,
+    "timestampMs": 30060,
+    "confidence": 0.980079
+  },
+  {
+    "text": " twist",
+    "startMs": 30160,
+    "endMs": 30480,
+    "timestampMs": 30260,
+    "confidence": 0.998673
+  },
+  {
+    "text": " your",
+    "startMs": 30480,
+    "endMs": 30720,
+    "timestampMs": 30500,
+    "confidence": 0.991106
+  },
+  {
+    "text": " wrist,",
+    "startMs": 30720,
+    "endMs": 31080,
+    "timestampMs": 30760,
+    "confidence": 0.999302
+  },
+  {
+    "text": " the",
+    "startMs": 31080,
+    "endMs": 31290,
+    "timestampMs": 31120,
+    "confidence": 0.996748
+  },
+  {
+    "text": " Coriolis",
+    "startMs": 31290,
+    "endMs": 31790,
+    "timestampMs": 31280,
+    "confidence": 0.311838
+  },
+  {
+    "text": " effect",
+    "startMs": 31790,
+    "endMs": 32160,
+    "timestampMs": 32000,
+    "confidence": 0.992935
+  },
+  {
+    "text": " kicks",
+    "startMs": 32160,
+    "endMs": 32460,
+    "timestampMs": 32320,
+    "confidence": 0.998228
+  },
+  {
+    "text": " in.",
+    "startMs": 32460,
+    "endMs": 32800,
+    "timestampMs": 32600,
+    "confidence": 0.998214
+  },
+  {
+    "text": " The",
+    "startMs": 32800,
+    "endMs": 33000,
+    "timestampMs": 32880,
+    "confidence": 0.99914
+  },
+  {
+    "text": " exact",
+    "startMs": 33000,
+    "endMs": 33470,
+    "timestampMs": 33160,
+    "confidence": 0.999298
+  },
+  {
+    "text": " same",
+    "startMs": 33470,
+    "endMs": 33610,
+    "timestampMs": 33560,
+    "confidence": 0.999601
+  },
+  {
+    "text": " physics",
+    "startMs": 33610,
+    "endMs": 34160,
+    "timestampMs": 33860,
+    "confidence": 0.997193
+  },
+  {
+    "text": " that",
+    "startMs": 34160,
+    "endMs": 34280,
+    "timestampMs": 34200,
+    "confidence": 0.833327
+  },
+  {
+    "text": " makes",
+    "startMs": 34280,
+    "endMs": 34590,
+    "timestampMs": 34400,
+    "confidence": 0.987279
+  },
+  {
+    "text": " hurricanes",
+    "startMs": 34590,
+    "endMs": 35260,
+    "timestampMs": 34740,
+    "confidence": 0.856553
+  },
+  {
+    "text": " spin",
+    "startMs": 35260,
+    "endMs": 35480,
+    "timestampMs": 35300,
+    "confidence": 0.608875
+  },
+  {
+    "text": " on",
+    "startMs": 35480,
+    "endMs": 35590,
+    "timestampMs": 35560,
+    "confidence": 0.999767
+  },
+  {
+    "text": " a",
+    "startMs": 35590,
+    "endMs": 35640,
+    "timestampMs": 35640,
+    "confidence": 0.998751
+  },
+  {
+    "text": " rotating",
+    "startMs": 35640,
+    "endMs": 36110,
+    "timestampMs": 35960,
+    "confidence": 0.999245
+  },
+  {
+    "text": " Earth.",
+    "startMs": 36110,
+    "endMs": 36600,
+    "timestampMs": 36420,
+    "confidence": 0.519858
+  },
+  {
+    "text": " That",
+    "startMs": 36600,
+    "endMs": 36850,
+    "timestampMs": 36740,
+    "confidence": 0.999033
+  },
+  {
+    "text": " rotation",
+    "startMs": 36850,
+    "endMs": 37350,
+    "timestampMs": 37060,
+    "confidence": 0.998993
+  },
+  {
+    "text": " shoves",
+    "startMs": 37350,
+    "endMs": 37720,
+    "timestampMs": 37640,
+    "confidence": 0.88592
+  },
+  {
+    "text": " the",
+    "startMs": 37720,
+    "endMs": 37910,
+    "timestampMs": 38040,
+    "confidence": 0.997326
+  },
+  {
+    "text": " vibrating",
+    "startMs": 37910,
+    "endMs": 38470,
+    "timestampMs": 38240,
+    "confidence": 0.998515
+  },
+  {
+    "text": " weight",
+    "startMs": 38470,
+    "endMs": 38910,
+    "timestampMs": 38760,
+    "confidence": 0.815476
+  },
+  {
+    "text": " sideways",
+    "startMs": 38910,
+    "endMs": 39680,
+    "timestampMs": 39040,
+    "confidence": 0.883207
+  },
+  {
+    "text": " against",
+    "startMs": 39680,
+    "endMs": 40140,
+    "timestampMs": 39860,
+    "confidence": 0.999882
+  },
+  {
+    "text": " microscopic",
+    "startMs": 40140,
+    "endMs": 40940,
+    "timestampMs": 40380,
+    "confidence": 0.999193
+  },
+  {
+    "text": " silicon",
+    "startMs": 40940,
+    "endMs": 41320,
+    "timestampMs": 41020,
+    "confidence": 0.941645
+  },
+  {
+    "text": " springs.",
+    "startMs": 41320,
+    "endMs": 42000,
+    "timestampMs": 41580,
+    "confidence": 0.996881
+  },
+  {
+    "text": " Surrounding",
+    "startMs": 42000,
+    "endMs": 42530,
+    "timestampMs": 42120,
+    "confidence": 0.97036
+  },
+  {
+    "text": " the",
+    "startMs": 42530,
+    "endMs": 42680,
+    "timestampMs": 42580,
+    "confidence": 0.998852
+  },
+  {
+    "text": " weight",
+    "startMs": 42680,
+    "endMs": 43000,
+    "timestampMs": 42780,
+    "confidence": 0.999502
+  },
+  {
+    "text": " are",
+    "startMs": 43000,
+    "endMs": 43240,
+    "timestampMs": 43040,
+    "confidence": 0.865723
+  },
+  {
+    "text": " tiny",
+    "startMs": 43240,
+    "endMs": 43560,
+    "timestampMs": 43380,
+    "confidence": 0.99756
+  },
+  {
+    "text": " metal",
+    "startMs": 43560,
+    "endMs": 44000,
+    "timestampMs": 43800,
+    "confidence": 0.974939
+  },
+  {
+    "text": " teeth",
+    "startMs": 44000,
+    "endMs": 44400,
+    "timestampMs": 44160,
+    "confidence": 0.997387
+  },
+  {
+    "text": " that",
+    "startMs": 44400,
+    "endMs": 44640,
+    "timestampMs": 44440,
+    "confidence": 0.999676
+  },
+  {
+    "text": " measure",
+    "startMs": 44640,
+    "endMs": 45060,
+    "timestampMs": 44740,
+    "confidence": 0.999003
+  },
+  {
+    "text": " that",
+    "startMs": 45060,
+    "endMs": 45300,
+    "timestampMs": 45040,
+    "confidence": 0.998015
+  },
+  {
+    "text": " sideways",
+    "startMs": 45300,
+    "endMs": 45790,
+    "timestampMs": 45460,
+    "confidence": 0.990577
+  },
+  {
+    "text": " shift",
+    "startMs": 45790,
+    "endMs": 46120,
+    "timestampMs": 45820,
+    "confidence": 0.997607
+  },
+  {
+    "text": " down",
+    "startMs": 46120,
+    "endMs": 46410,
+    "timestampMs": 46240,
+    "confidence": 0.999783
+  },
+  {
+    "text": " to",
+    "startMs": 46410,
+    "endMs": 46560,
+    "timestampMs": 46440,
+    "confidence": 0.999009
+  },
+  {
+    "text": " a",
+    "startMs": 46560,
+    "endMs": 46740,
+    "timestampMs": 46560,
+    "confidence": 0.946084
+  },
+  {
+    "text": " billionth",
+    "startMs": 46740,
+    "endMs": 47290,
+    "timestampMs": 46880,
+    "confidence": 0.984267
+  },
+  {
+    "text": " of",
+    "startMs": 47290,
+    "endMs": 47440,
+    "timestampMs": 47260,
+    "confidence": 0.995915
+  },
+  {
+    "text": " a",
+    "startMs": 47440,
+    "endMs": 47510,
+    "timestampMs": 47380,
+    "confidence": 0.998312
+  },
+  {
+    "text": " meter,",
+    "startMs": 47510,
+    "endMs": 47920,
+    "timestampMs": 47620,
+    "confidence": 0.94178
+  },
+  {
+    "text": " translating",
+    "startMs": 47920,
+    "endMs": 48650,
+    "timestampMs": 48300,
+    "confidence": 0.998818
+  },
+  {
+    "text": " it",
+    "startMs": 48650,
+    "endMs": 48780,
+    "timestampMs": 48620,
+    "confidence": 0.996234
+  },
+  {
+    "text": " into",
+    "startMs": 48780,
+    "endMs": 49040,
+    "timestampMs": 48880,
+    "confidence": 0.995349
+  },
+  {
+    "text": " screen",
+    "startMs": 49040,
+    "endMs": 49440,
+    "timestampMs": 49200,
+    "confidence": 0.977745
+  },
+  {
+    "text": " rotation",
+    "startMs": 49440,
+    "endMs": 50060,
+    "timestampMs": 49540,
+    "confidence": 0.998372
+  },
+  {
+    "text": " in",
+    "startMs": 50060,
+    "endMs": 50140,
+    "timestampMs": 50120,
+    "confidence": 0.9854
+  },
+  {
+    "text": " milliseconds.",
+    "startMs": 50140,
+    "endMs": 51200,
+    "timestampMs": 50440,
+    "confidence": 0.996043
+  },
+  {
+    "text": " Which",
+    "startMs": 51200,
+    "endMs": 51610,
+    "timestampMs": 51300,
+    "confidence": 0.99482
+  },
+  {
+    "text": " is",
+    "startMs": 51610,
+    "endMs": 51770,
+    "timestampMs": 51460,
+    "confidence": 0.999272
+  },
+  {
+    "text": " the",
+    "startMs": 51770,
+    "endMs": 52020,
+    "timestampMs": 51640,
+    "confidence": 0.998971
+  },
+  {
+    "text": " exact",
+    "startMs": 52020,
+    "endMs": 52430,
+    "timestampMs": 51880,
+    "confidence": 0.999237
+  },
+  {
+    "text": " reason...",
+    "startMs": 52430,
+    "endMs": 52960,
+    "timestampMs": 52540,
+    "confidence": 0.999239
+  }
+]

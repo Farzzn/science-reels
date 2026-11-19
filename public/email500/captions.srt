@@ -1,0 +1,1079 @@
+1
+00:00:00,615 --> 00:00:04,790
+Sometime in the mid nineteen-nineties, a system administrator
+
+2
+00:00:04,640 --> 00:00:07,080
+at a university got a phone call he
+
+3
+00:00:06,930 --> 00:00:09,330
+would never forget.
+
+4
+00:00:09,220 --> 00:00:11,950
+The head of the statistics department was on
+
+5
+00:00:11,800 --> 00:00:14,470
+the line, and he had a strange complaint.
+
+6
+00:00:15,500 --> 00:00:18,730
+"We can't send email more than five hundred
+
+7
+00:00:18,580 --> 00:00:19,700
+miles."
+
+8
+00:00:19,800 --> 00:00:21,760
+Not "email is broken."
+
+9
+00:00:21,800 --> 00:00:24,070
+Not "the server is down."
+
+10
+00:00:24,180 --> 00:00:28,650
+Email worked perfectly, to anywhere within about five
+
+11
+00:00:28,775 --> 00:00:29,230
+hundred miles.
+
+12
+00:00:29,660 --> 00:00:32,810
+Beyond that, it simply failed.
+
+13
+00:00:32,820 --> 00:00:34,640
+That sounds impossible.
+
+14
+00:00:34,640 --> 00:00:37,220
+Email doesn't care about distance...
+
+15
+00:00:37,230 --> 00:00:38,130
+does it?
+
+16
+00:00:38,080 --> 00:00:40,050
+But the department was right.
+
+17
+00:00:40,270 --> 00:00:42,350
+And the reason turned out to be one
+
+18
+00:00:42,200 --> 00:00:45,770
+of the strangest bugs in computing history.
+
+19
+00:00:45,620 --> 00:00:48,920
+A bug caused not by bad code, but
+
+20
+00:00:48,770 --> 00:00:50,994
+by the speed of light itself.
+
+21
+00:00:51,900 --> 00:00:54,830
+The sysadmin's name was Trey Harris, and he
+
+22
+00:00:54,680 --> 00:00:57,620
+worked at the University of North Carolina at
+
+23
+00:00:57,470 --> 00:00:58,870
+Chapel Hill.
+
+24
+00:00:59,100 --> 00:01:02,510
+His first reaction was probably the same as
+
+25
+00:01:02,360 --> 00:01:05,210
+yours: that's not how email works.
+
+26
+00:01:05,340 --> 00:01:08,570
+Email isn't a paper plane that runs out
+
+27
+00:01:08,420 --> 00:01:09,250
+of fuel.
+
+28
+00:01:09,340 --> 00:01:12,040
+Once a message leaves your computer, it travels
+
+29
+00:01:11,890 --> 00:01:14,850
+through cables and routers, and it doesn't really
+
+30
+00:01:14,700 --> 00:01:18,220
+matter whether it's going across the street or
+
+31
+00:01:18,070 --> 00:01:19,770
+across the planet.
+
+32
+00:01:19,700 --> 00:01:22,840
+So he asked a simple question: how do
+
+33
+00:01:22,690 --> 00:01:25,550
+you know it's five hundred miles?
+
+34
+00:01:25,500 --> 00:01:27,510
+And this is where it gets good.
+
+35
+00:01:27,500 --> 00:01:29,670
+Remember, these were statisticians.
+
+36
+00:01:30,040 --> 00:01:32,510
+They had been watching the problem for a
+
+37
+00:01:32,360 --> 00:01:35,770
+few days, and instead of just complaining, they
+
+38
+00:01:35,620 --> 00:01:36,940
+collected data.
+
+39
+00:01:36,860 --> 00:01:39,480
+They sent test emails to colleagues all over
+
+40
+00:01:39,330 --> 00:01:41,730
+the country and marked every result on a
+
+41
+00:01:41,580 --> 00:01:42,560
+map.
+
+42
+00:01:42,420 --> 00:01:44,170
+Green for delivered.
+
+43
+00:01:44,250 --> 00:01:45,690
+Red for failed.
+
+44
+00:01:45,660 --> 00:01:49,420
+When they stepped back, the pattern was impossible
+
+45
+00:01:49,270 --> 00:01:50,120
+to ignore.
+
+46
+00:01:50,220 --> 00:01:53,960
+Every success sat inside a circle centered on
+
+47
+00:01:53,810 --> 00:01:55,050
+Chapel Hill.
+
+48
+00:01:55,155 --> 00:01:57,510
+Every failure sat outside it.
+
+49
+00:01:57,560 --> 00:02:00,490
+And the radius of that circle was...
+
+50
+00:02:00,340 --> 00:02:03,280
+a little over five hundred miles.
+
+51
+00:02:03,340 --> 00:02:04,700
+Data doesn't lie.
+
+52
+00:02:04,640 --> 00:02:07,510
+But to understand why that's so strange, we
+
+53
+00:02:07,360 --> 00:02:10,230
+need to look at what actually happens when
+
+54
+00:02:10,080 --> 00:02:10,812
+you hit send.
+
+55
+00:02:11,780 --> 00:02:14,550
+When you send an email, your computer doesn't
+
+56
+00:02:14,510 --> 00:02:16,010
+deliver it directly.
+
+57
+00:02:15,980 --> 00:02:18,600
+It hands the message to a mail server,
+
+58
+00:02:18,610 --> 00:02:21,750
+a computer whose whole job is moving mail.
+
+59
+00:02:21,840 --> 00:02:25,720
+Back then, on most university systems, that program
+
+60
+00:02:25,570 --> 00:02:27,080
+was called Sendmail.
+
+61
+00:02:27,340 --> 00:02:30,360
+Sendmail looks at the address, say, someone at
+
+62
+00:02:30,210 --> 00:02:32,130
+a university in California.
+
+63
+00:02:32,060 --> 00:02:35,170
+It asks the internet's phone book, the Domain
+
+64
+00:02:35,020 --> 00:02:38,640
+Name System, which computer accepts mail for that
+
+65
+00:02:38,490 --> 00:02:39,370
+university.
+
+66
+00:02:39,380 --> 00:02:42,860
+Then it does something important: it tries to
+
+67
+00:02:42,710 --> 00:02:45,560
+open a connection to that computer.
+
+68
+00:02:45,540 --> 00:02:48,560
+That connection is built using a protocol called
+
+69
+00:02:48,410 --> 00:02:50,490
+TCP, and it starts with a kind of
+
+70
+00:02:50,340 --> 00:02:52,010
+digital handshake.
+
+71
+00:02:52,020 --> 00:02:54,640
+Your server sends a tiny packet that basically
+
+72
+00:02:54,490 --> 00:02:56,490
+says, "Hello, are you there?"
+
+73
+00:02:56,420 --> 00:02:58,900
+The other server replies, "Yes, I'm here.
+
+74
+00:02:58,820 --> 00:02:59,800
+Are you?"
+
+75
+00:02:59,820 --> 00:03:01,720
+And your server answers, "Yes.
+
+76
+00:03:01,785 --> 00:03:02,810
+Let's talk."
+
+77
+00:03:02,660 --> 00:03:05,780
+Only after this handshake does the actual email
+
+78
+00:03:05,630 --> 00:03:09,410
+get sent: sender, recipient, subject, message.
+
+79
+00:03:09,740 --> 00:03:12,280
+Now here's the key detail.
+
+80
+00:03:12,260 --> 00:03:15,640
+Your server can't wait forever for a reply.
+
+81
+00:03:15,540 --> 00:03:18,320
+The other machine might be switched off, or
+
+82
+00:03:18,170 --> 00:03:20,480
+broken, or a cable might be cut.
+
+83
+00:03:20,420 --> 00:03:23,500
+So every mail server has a timer, called
+
+84
+00:03:23,350 --> 00:03:24,380
+a timeout.
+
+85
+00:03:24,360 --> 00:03:26,960
+If the "yes, I'm here" doesn't come back
+
+86
+00:03:26,810 --> 00:03:29,190
+in time, the server gives up and tries
+
+87
+00:03:29,040 --> 00:03:30,060
+again later.
+
+88
+00:03:30,260 --> 00:03:32,640
+Normally that timeout is generous.
+
+89
+00:03:32,630 --> 00:03:34,850
+Seconds, sometimes minutes.
+
+90
+00:03:34,700 --> 00:03:37,490
+A round trip across the internet usually takes
+
+91
+00:03:37,340 --> 00:03:39,600
+just a fraction of a second, so with
+
+92
+00:03:39,450 --> 00:03:42,700
+a timeout of a few seconds, distance never
+
+93
+00:03:42,550 --> 00:03:43,470
+matters.
+
+94
+00:03:43,460 --> 00:03:45,180
+Keep that timer in mind.
+
+95
+00:03:45,180 --> 00:03:48,129
+Because in Chapel Hill, something had happened to
+
+96
+00:03:47,979 --> 00:03:48,129
+it.
+
+97
+00:03:49,339 --> 00:03:53,100
+Trey still didn't fully believe the five-hundred-mile story.
+
+98
+00:03:53,310 --> 00:03:56,390
+So he did what any good engineer does:
+
+99
+00:03:56,260 --> 00:03:58,280
+he tested it himself.
+
+100
+00:03:58,180 --> 00:04:00,700
+He logged into the mail server and started
+
+101
+00:04:00,550 --> 00:04:03,450
+connecting to other mail servers by hand, one
+
+102
+00:04:03,300 --> 00:04:04,330
+at a time.
+
+103
+00:04:04,180 --> 00:04:07,690
+A server close by: connected instantly.
+
+104
+00:04:07,540 --> 00:04:10,370
+A server a couple of hundred miles away:
+
+105
+00:04:10,370 --> 00:04:11,360
+connected.
+
+106
+00:04:11,440 --> 00:04:14,320
+Then he tried one much farther away, well
+
+107
+00:04:14,170 --> 00:04:15,890
+outside the circle.
+
+108
+00:04:15,740 --> 00:04:16,820
+Nothing.
+
+109
+00:04:16,780 --> 00:04:18,610
+The connection just failed.
+
+110
+00:04:18,610 --> 00:04:20,240
+Almost immediately.
+
+111
+00:04:20,120 --> 00:04:22,660
+He tried another distant server.
+
+112
+00:04:22,650 --> 00:04:23,790
+Same thing.
+
+113
+00:04:23,740 --> 00:04:27,550
+Then one just inside the five-hundred-mile mark.
+
+114
+00:04:27,610 --> 00:04:28,840
+It worked.
+
+115
+00:04:28,740 --> 00:04:30,720
+The statisticians were right.
+
+116
+00:04:30,780 --> 00:04:34,170
+Somehow, his mail server could only reach machines
+
+117
+00:04:34,020 --> 00:04:36,330
+that were physically close to it.
+
+118
+00:04:36,340 --> 00:04:38,600
+And that's when he remembered something.
+
+119
+00:04:38,460 --> 00:04:41,200
+A few days earlier, a consultant had installed
+
+120
+00:04:41,050 --> 00:04:44,520
+a routine update on that server's operating system.
+
+121
+00:04:44,540 --> 00:04:45,510
+Nothing special.
+
+122
+00:04:45,540 --> 00:04:47,760
+The kind of thing that happens all the
+
+123
+00:04:47,610 --> 00:04:48,160
+time.
+
+124
+00:04:48,010 --> 00:04:51,750
+Except this "routine" update had done something nobody
+
+125
+00:04:51,600 --> 00:04:52,022
+noticed.
+
+126
+00:04:52,900 --> 00:04:57,650
+The update replaced Sendmail with a different version.
+
+127
+00:04:57,700 --> 00:04:59,110
+Not a newer one.
+
+128
+00:04:59,100 --> 00:05:00,520
+An older one.
+
+129
+00:05:00,420 --> 00:05:03,740
+The server had been running Sendmail version 8,
+
+130
+00:05:03,700 --> 00:05:07,920
+and the update quietly swapped in Sendmail version
+
+131
+00:05:07,770 --> 00:05:08,900
+5.
+
+132
+00:05:08,820 --> 00:05:11,940
+But the configuration file, the instructions that tell
+
+133
+00:05:11,790 --> 00:05:14,930
+Sendmail how to behave, was still written for
+
+134
+00:05:14,780 --> 00:05:16,320
+version 8.
+
+135
+00:05:16,260 --> 00:05:19,340
+Imagine handing someone a manual written for a
+
+136
+00:05:19,190 --> 00:05:20,490
+newer machine.
+
+137
+00:05:20,380 --> 00:05:23,340
+They read it, they hit instructions they don't
+
+138
+00:05:23,190 --> 00:05:27,050
+understand, and instead of stopping, they just skip
+
+139
+00:05:26,900 --> 00:05:27,690
+them.
+
+140
+00:05:27,700 --> 00:05:29,870
+That's exactly what version 5 did.
+
+141
+00:05:29,780 --> 00:05:33,120
+It ignored every setting it didn't recognize.
+
+142
+00:05:33,060 --> 00:05:36,040
+And one of the settings it skipped was
+
+143
+00:05:35,890 --> 00:05:36,820
+the timeout.
+
+144
+00:05:36,780 --> 00:05:39,340
+With no timeout setting at all, the value
+
+145
+00:05:39,190 --> 00:05:40,890
+was effectively set to zero.
+
+146
+00:05:41,060 --> 00:05:43,650
+Zero seconds to wait for a reply.
+
+147
+00:05:43,580 --> 00:05:47,270
+Now, a computer can't actually do anything in
+
+148
+00:05:47,120 --> 00:05:48,050
+zero time.
+
+149
+00:05:48,180 --> 00:05:51,280
+Starting the connection, checking the clock, deciding to
+
+150
+00:05:51,130 --> 00:05:53,210
+give up: all of that takes a little
+
+151
+00:05:53,060 --> 00:05:53,810
+while.
+
+152
+00:05:53,740 --> 00:05:56,340
+On that machine, it worked out to roughly
+
+153
+00:05:56,190 --> 00:05:57,200
+three milliseconds.
+
+154
+00:05:57,670 --> 00:06:00,180
+Three thousandths of a second.
+
+155
+00:06:00,100 --> 00:06:02,760
+So the server would send out its "hello,"
+
+156
+00:06:02,910 --> 00:06:06,610
+wait about three milliseconds, and then give up.
+
+157
+00:06:06,540 --> 00:06:09,140
+If the reply arrived in time, the email
+
+158
+00:06:08,990 --> 00:06:10,170
+went through.
+
+159
+00:06:10,100 --> 00:06:12,870
+If it didn't, it failed.
+
+160
+00:06:12,840 --> 00:06:16,790
+Which raises the question: how far can anything
+
+161
+00:06:16,640 --> 00:06:17,990
+travel in three milliseconds?
+
+162
+00:06:19,140 --> 00:06:22,760
+Nothing in the universe moves faster than light.
+
+163
+00:06:22,660 --> 00:06:26,552
+In a vacuum, light travels about three hundred
+
+164
+00:06:26,631 --> 00:06:29,050
+thousand kilometers every second.
+
+165
+00:06:29,060 --> 00:06:32,260
+That's fast enough to circle the Earth more
+
+166
+00:06:32,110 --> 00:06:34,560
+than seven times in one second.
+
+167
+00:06:34,580 --> 00:06:38,300
+But a millisecond is very short.
+
+168
+00:06:38,220 --> 00:06:42,050
+In one millisecond, light travels about three hundred
+
+169
+00:06:41,900 --> 00:06:44,690
+kilometers, roughly a hundred and eighty-six miles.
+
+170
+00:06:44,660 --> 00:06:47,040
+So Trey opened a terminal and used a
+
+171
+00:06:46,890 --> 00:06:50,500
+little Unix tool called "units," which converts between
+
+172
+00:06:50,350 --> 00:06:52,470
+almost any units you like.
+
+173
+00:06:52,340 --> 00:06:54,770
+He typed: three millilightseconds.
+
+174
+00:06:56,550 --> 00:06:58,840
+Convert to miles.
+
+175
+00:06:58,780 --> 00:07:02,655
+And the answer came back: five hundred and
+
+176
+00:07:02,638 --> 00:07:04,000
+fifty-eight point eight four miles.
+
+177
+00:07:04,350 --> 00:07:05,810
+Five hundred miles.
+
+178
+00:07:05,880 --> 00:07:07,790
+Or a little bit more.
+
+179
+00:07:08,340 --> 00:07:11,270
+The circle on the statisticians' map wasn't a
+
+180
+00:07:11,120 --> 00:07:12,350
+coincidence.
+
+181
+00:07:12,260 --> 00:07:15,000
+It was the distance light could travel before
+
+182
+00:07:14,850 --> 00:07:16,670
+the server gave up waiting.
+
+183
+00:07:16,660 --> 00:07:19,900
+Any mail server inside that circle could answer
+
+184
+00:07:19,750 --> 00:07:20,650
+in time.
+
+185
+00:07:20,580 --> 00:07:24,680
+Anything outside was, physically, too far away to
+
+186
+00:07:24,530 --> 00:07:25,470
+reply.
+
+187
+00:07:25,380 --> 00:07:27,890
+The bug didn't just break email.
+
+188
+00:07:27,820 --> 00:07:31,230
+It turned a software timer into a measuring
+
+189
+00:07:31,080 --> 00:07:32,416
+stick for the speed of light.
+
+190
+00:07:33,190 --> 00:07:35,700
+Now, if you're the kind of person who
+
+191
+00:07:35,550 --> 00:07:38,340
+checks the math, you might be feeling a
+
+192
+00:07:38,190 --> 00:07:40,350
+little uneasy.
+
+193
+00:07:40,300 --> 00:07:41,740
+And you'd be right.
+
+194
+00:07:41,660 --> 00:07:45,080
+First, signals in a network don't travel at
+
+195
+00:07:44,930 --> 00:07:46,710
+the full speed of light.
+
+196
+00:07:46,900 --> 00:07:50,140
+Inside glass fiber, light slows down to about
+
+197
+00:07:49,990 --> 00:07:52,330
+two-thirds of its vacuum speed.
+
+198
+00:07:52,180 --> 00:07:55,650
+Second, the handshake is a round trip.
+
+199
+00:07:55,620 --> 00:07:58,350
+The "hello" has to go out, and the
+
+200
+00:07:58,200 --> 00:08:00,260
+reply has to come back.
+
+201
+00:08:00,220 --> 00:08:02,700
+So in three milliseconds, a signal in fiber
+
+202
+00:08:02,550 --> 00:08:05,796
+could really only reach a server around a
+
+203
+00:08:05,769 --> 00:08:08,330
+hundred and eighty miles away and return.
+
+204
+00:08:08,180 --> 00:08:09,932
+Not five hundred.
+
+205
+00:08:09,860 --> 00:08:12,750
+And on top of that, every router along
+
+206
+00:08:12,600 --> 00:08:15,070
+the way adds its own tiny delay.
+
+207
+00:08:15,060 --> 00:08:17,970
+So the numbers in the story don't line
+
+208
+00:08:17,820 --> 00:08:19,160
+up perfectly.
+
+209
+00:08:19,100 --> 00:08:21,780
+Trey Harris himself has said that he simplified
+
+210
+00:08:21,630 --> 00:08:23,540
+and rounded details when he wrote it up
+
+211
+00:08:23,390 --> 00:08:24,860
+years later.
+
+212
+00:08:24,900 --> 00:08:27,690
+The exact timing was never measured in a
+
+213
+00:08:27,540 --> 00:08:28,070
+lab.
+
+214
+00:08:28,100 --> 00:08:30,690
+But the core of the story is real.
+
+215
+00:08:30,540 --> 00:08:33,210
+A timeout of zero really did turn a
+
+216
+00:08:33,060 --> 00:08:35,940
+time limit into a distance limit.
+
+217
+00:08:35,860 --> 00:08:38,200
+And the deeper idea, that the speed of
+
+218
+00:08:38,050 --> 00:08:40,240
+light puts a hard floor on how fast
+
+219
+00:08:40,090 --> 00:08:44,170
+information can travel, isn't a story at all.
+
+220
+00:08:44,265 --> 00:08:45,530
+It's physics.
+
+221
+00:08:45,460 --> 00:08:47,980
+And it's shaping your internet right now.
+
+222
+00:08:48,940 --> 00:08:51,910
+Take a trip from Mumbai to New York.
+
+223
+00:08:51,900 --> 00:08:54,990
+That's about twelve and a half thousand kilometers
+
+224
+00:08:54,840 --> 00:08:56,210
+in a straight line.
+
+225
+00:08:56,300 --> 00:08:58,800
+Even if we laid a perfectly straight fiber
+
+226
+00:08:58,650 --> 00:09:01,800
+cable between them, light inside that glass would
+
+227
+00:09:01,650 --> 00:09:04,780
+need about sixty milliseconds to get there, and
+
+228
+00:09:04,630 --> 00:09:06,700
+another sixty to come back.
+
+229
+00:09:06,620 --> 00:09:09,350
+So no matter how good the technology gets,
+
+230
+00:09:09,350 --> 00:09:12,040
+a reply from New York can never arrive
+
+231
+00:09:11,890 --> 00:09:14,370
+in less than about a hundred and twenty-five
+
+232
+00:09:14,220 --> 00:09:15,810
+milliseconds.
+
+233
+00:09:15,820 --> 00:09:18,970
+Real cables don't run in straight lines, so
+
+234
+00:09:18,820 --> 00:09:22,130
+actual ping is usually closer to two hundred.
+
+235
+00:09:21,980 --> 00:09:24,440
+That's why gamers in India get high ping
+
+236
+00:09:24,290 --> 00:09:26,910
+on American servers, and why no amount of
+
+237
+00:09:26,760 --> 00:09:29,200
+faster Wi-Fi can fix it.
+
+238
+00:09:29,125 --> 00:09:31,780
+It's why Netflix and YouTube keep copies of
+
+239
+00:09:31,630 --> 00:09:34,030
+videos on servers near your city.
+
+240
+00:09:34,050 --> 00:09:36,530
+It's why stock traders once spent hundreds of
+
+241
+00:09:36,380 --> 00:09:39,910
+millions of dollars on straighter cables and microwave
+
+242
+00:09:39,760 --> 00:09:43,070
+towers between Chicago and New York, just to
+
+243
+00:09:42,920 --> 00:09:45,450
+shave off a few milliseconds.
+
+244
+00:09:45,380 --> 00:09:48,060
+And it's why driving a rover on Mars
+
+245
+00:09:47,910 --> 00:09:50,180
+in real time is impossible.
+
+246
+00:09:50,220 --> 00:09:52,730
+Depending on where the planets are, a radio
+
+247
+00:09:52,580 --> 00:09:55,410
+signal takes between about three and twenty-two minutes
+
+248
+00:09:55,260 --> 00:09:56,410
+to get there.
+
+249
+00:09:56,260 --> 00:09:59,550
+Engineers can't steer it like a remote-control car.
+
+250
+00:09:59,420 --> 00:10:01,602
+They send instructions, and wait.
+
+251
+00:10:02,540 --> 00:10:05,520
+So the next time a page loads slowly
+
+252
+00:10:05,370 --> 00:10:09,570
+or a video call lags, remember that statistics
+
+253
+00:10:09,420 --> 00:10:11,830
+department and their map.
+
+254
+00:10:11,860 --> 00:10:15,660
+Somewhere underneath all our software, there's a speed
+
+255
+00:10:15,510 --> 00:10:18,890
+limit that no update can change.
+
+256
+00:10:18,860 --> 00:10:21,720
+Back in Chapel Hill, the fix was simple:
+
+257
+00:10:21,700 --> 00:10:24,090
+put the right version of Sendmail back, and
+
+258
+00:10:23,940 --> 00:10:25,680
+the timeout returned to normal.
+
+259
+00:10:25,820 --> 00:10:28,820
+Emails flew to California again.
+
+260
+00:10:28,760 --> 00:10:31,560
+But the story stuck around for decades, because
+
+261
+00:10:31,540 --> 00:10:34,230
+it's a reminder that computers don't live in
+
+262
+00:10:34,080 --> 00:10:36,620
+some magical digital world.
+
+263
+00:10:36,520 --> 00:10:40,220
+They live in ours, made of glass, copper,
+
+264
+00:10:40,320 --> 00:10:41,420
+and light.
+
+265
+00:10:41,420 --> 00:10:44,150
+This is the first episode of Physics Bugs:
+
+266
+00:10:44,220 --> 00:10:46,920
+real moments when the laws of the universe
+
+267
+00:10:46,770 --> 00:10:48,200
+broke our computers.
+
+268
+00:10:48,320 --> 00:10:51,690
+Next time: the day one extra second crashed
+
+269
+00:10:51,540 --> 00:10:53,310
+half the internet.
+
+270
+00:10:53,220 --> 00:10:54,520
+Subscribe so you don't miss it.

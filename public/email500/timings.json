@@ -1,0 +1,59 @@
+{
+  "total": 656.19,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "Cold Open",
+      "start": 0.4,
+      "end": 50.844
+    },
+    {
+      "id": "ch1",
+      "title": "An Impossible Complaint",
+      "start": 51.744,
+      "end": 130.662
+    },
+    {
+      "id": "ch2",
+      "title": "How an Email Actually Travels",
+      "start": 131.562,
+      "end": 227.979
+    },
+    {
+      "id": "ch3",
+      "title": "The Experiment",
+      "start": 228.879,
+      "end": 291.872
+    },
+    {
+      "id": "ch4",
+      "title": "The Culprit",
+      "start": 292.772,
+      "end": 377.84
+    },
+    {
+      "id": "ch5",
+      "title": "The Physics",
+      "start": 378.74,
+      "end": 452.266
+    },
+    {
+      "id": "ch6",
+      "title": "The Nitpick",
+      "start": 453.166,
+      "end": 527.83
+    },
+    {
+      "id": "ch7",
+      "title": "Why It Matters to You",
+      "start": 528.73,
+      "end": 601.452
+    },
+    {
+      "id": "ch8",
+      "title": "Outro",
+      "start": 602.352,
+      "end": 654.69
+    }
+  ]
+}

@@ -63,7 +63,9 @@ const processVideo = async (fullPath, entry, directory) => {
     !fullPath.endsWith(".mp4") &&
     !fullPath.endsWith(".webm") &&
     !fullPath.endsWith(".mkv") &&
-    !fullPath.endsWith(".mov")
+    !fullPath.endsWith(".mov") &&
+    !fullPath.endsWith(".mp3") &&
+    !fullPath.endsWith(".wav")
   ) {
     return;
   }
@@ -74,6 +76,8 @@ const processVideo = async (fullPath, entry, directory) => {
       .replace(/.mkv$/, ".json")
       .replace(/.mov$/, ".json")
       .replace(/.webm$/, ".json")
+      .replace(/.mp3$/, ".json")
+      .replace(/.wav$/, ".json")
       .replace("webcam", "subs"),
   );
   if (isTranscribed) {

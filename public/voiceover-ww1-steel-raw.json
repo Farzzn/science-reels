@@ -1,0 +1,1087 @@
+[
+  {
+    "text": "Why",
+    "startMs": 80,
+    "endMs": 240,
+    "timestampMs": 260,
+    "confidence": 0.947614
+  },
+  {
+    "text": " do",
+    "startMs": 240,
+    "endMs": 400,
+    "timestampMs": 400,
+    "confidence": 0.998334
+  },
+  {
+    "text": " NASA",
+    "startMs": 400,
+    "endMs": 720,
+    "timestampMs": 720,
+    "confidence": 0.99893
+  },
+  {
+    "text": " and",
+    "startMs": 720,
+    "endMs": 960,
+    "timestampMs": 1220,
+    "confidence": 0.993809
+  },
+  {
+    "text": " hospital",
+    "startMs": 960,
+    "endMs": 1650,
+    "timestampMs": 1480,
+    "confidence": 0.962154
+  },
+  {
+    "text": " scanner",
+    "startMs": 1650,
+    "endMs": 2160,
+    "timestampMs": 1980,
+    "confidence": 0.981434
+  },
+  {
+    "text": " engineers",
+    "startMs": 2160,
+    "endMs": 2930,
+    "timestampMs": 2640,
+    "confidence": 0.995618
+  },
+  {
+    "text": " have",
+    "startMs": 2930,
+    "endMs": 3180,
+    "timestampMs": 3060,
+    "confidence": 0.848042
+  },
+  {
+    "text": " to",
+    "startMs": 3180,
+    "endMs": 3280,
+    "timestampMs": 3240,
+    "confidence": 0.9258
+  },
+  {
+    "text": " scavenge",
+    "startMs": 3280,
+    "endMs": 3870,
+    "timestampMs": 3560,
+    "confidence": 0.96601
+  },
+  {
+    "text": " sunken",
+    "startMs": 3870,
+    "endMs": 4400,
+    "timestampMs": 4140,
+    "confidence": 0.836692
+  },
+  {
+    "text": " World",
+    "startMs": 4400,
+    "endMs": 4720,
+    "timestampMs": 4600,
+    "confidence": 0.923014
+  },
+  {
+    "text": " War",
+    "startMs": 4720,
+    "endMs": 5130,
+    "timestampMs": 4940,
+    "confidence": 0.975964
+  },
+  {
+    "text": " I",
+    "startMs": 5130,
+    "endMs": 5280,
+    "timestampMs": 5220,
+    "confidence": 0.514176
+  },
+  {
+    "text": " warships",
+    "startMs": 5280,
+    "endMs": 5920,
+    "timestampMs": 5620,
+    "confidence": 0.898485
+  },
+  {
+    "text": " from",
+    "startMs": 5920,
+    "endMs": 6220,
+    "timestampMs": 6080,
+    "confidence": 0.999241
+  },
+  {
+    "text": " the",
+    "startMs": 6220,
+    "endMs": 6440,
+    "timestampMs": 6180,
+    "confidence": 0.997938
+  },
+  {
+    "text": " bottom",
+    "startMs": 6440,
+    "endMs": 6940,
+    "timestampMs": 6520,
+    "confidence": 0.997404
+  },
+  {
+    "text": " of",
+    "startMs": 6940,
+    "endMs": 7040,
+    "timestampMs": 6700,
+    "confidence": 0.998616
+  },
+  {
+    "text": " the",
+    "startMs": 7040,
+    "endMs": 7260,
+    "timestampMs": 6820,
+    "confidence": 0.995049
+  },
+  {
+    "text": " ocean",
+    "startMs": 7260,
+    "endMs": 7620,
+    "timestampMs": 7200,
+    "confidence": 0.997347
+  },
+  {
+    "text": " just",
+    "startMs": 7620,
+    "endMs": 7930,
+    "timestampMs": 7740,
+    "confidence": 0.882891
+  },
+  {
+    "text": " to",
+    "startMs": 7930,
+    "endMs": 8080,
+    "timestampMs": 7940,
+    "confidence": 0.998908
+  },
+  {
+    "text": " build",
+    "startMs": 8080,
+    "endMs": 8450,
+    "timestampMs": 8120,
+    "confidence": 0.998837
+  },
+  {
+    "text": " modern",
+    "startMs": 8450,
+    "endMs": 8920,
+    "timestampMs": 8400,
+    "confidence": 0.998134
+  },
+  {
+    "text": " sensors?",
+    "startMs": 8920,
+    "endMs": 9680,
+    "timestampMs": 8980,
+    "confidence": 0.958504
+  },
+  {
+    "text": " Because",
+    "startMs": 9680,
+    "endMs": 10330,
+    "timestampMs": 10200,
+    "confidence": 0.985985
+  },
+  {
+    "text": " on",
+    "startMs": 10330,
+    "endMs": 10510,
+    "timestampMs": 10380,
+    "confidence": 0.897969
+  },
+  {
+    "text": " July",
+    "startMs": 10510,
+    "endMs": 10910,
+    "timestampMs": 10520,
+    "confidence": 0.992778
+  },
+  {
+    "text": " 16,",
+    "startMs": 10910,
+    "endMs": 11620,
+    "timestampMs": 11040,
+    "confidence": 0.995563
+  },
+  {
+    "text": " 1945,",
+    "startMs": 11620,
+    "endMs": 13120,
+    "timestampMs": 12280,
+    "confidence": 0.991637
+  },
+  {
+    "text": " humanity",
+    "startMs": 13120,
+    "endMs": 13690,
+    "timestampMs": 13520,
+    "confidence": 0.918025
+  },
+  {
+    "text": " detonated",
+    "startMs": 13690,
+    "endMs": 14680,
+    "timestampMs": 13920,
+    "confidence": 0.992921
+  },
+  {
+    "text": " the",
+    "startMs": 14680,
+    "endMs": 14780,
+    "timestampMs": 14440,
+    "confidence": 0.992731
+  },
+  {
+    "text": " first",
+    "startMs": 14780,
+    "endMs": 15230,
+    "timestampMs": 14780,
+    "confidence": 0.987545
+  },
+  {
+    "text": " atomic",
+    "startMs": 15230,
+    "endMs": 15750,
+    "timestampMs": 15100,
+    "confidence": 0.993663
+  },
+  {
+    "text": " bomb",
+    "startMs": 15750,
+    "endMs": 16290,
+    "timestampMs": 15640,
+    "confidence": 0.998872
+  },
+  {
+    "text": " and",
+    "startMs": 16290,
+    "endMs": 16360,
+    "timestampMs": 16340,
+    "confidence": 0.297647
+  },
+  {
+    "text": " followed",
+    "startMs": 16360,
+    "endMs": 16900,
+    "timestampMs": 16720,
+    "confidence": 0.989312
+  },
+  {
+    "text": " it",
+    "startMs": 16900,
+    "endMs": 17100,
+    "timestampMs": 16940,
+    "confidence": 0.984895
+  },
+  {
+    "text": " with",
+    "startMs": 17100,
+    "endMs": 17240,
+    "timestampMs": 17160,
+    "confidence": 0.953819
+  },
+  {
+    "text": " over",
+    "startMs": 17240,
+    "endMs": 17740,
+    "timestampMs": 17440,
+    "confidence": 0.996921
+  },
+  {
+    "text": " 500",
+    "startMs": 17740,
+    "endMs": 18280,
+    "timestampMs": 17980,
+    "confidence": 0.977573
+  },
+  {
+    "text": " atmospheric",
+    "startMs": 18280,
+    "endMs": 19160,
+    "timestampMs": 18960,
+    "confidence": 0.986061
+  },
+  {
+    "text": " nuclear",
+    "startMs": 19160,
+    "endMs": 19720,
+    "timestampMs": 19400,
+    "confidence": 0.994594
+  },
+  {
+    "text": " tests",
+    "startMs": 19720,
+    "endMs": 20130,
+    "timestampMs": 20120,
+    "confidence": 0.99113
+  },
+  {
+    "text": " that",
+    "startMs": 20130,
+    "endMs": 20550,
+    "timestampMs": 20600,
+    "confidence": 0.989519
+  },
+  {
+    "text": " wrapped",
+    "startMs": 20550,
+    "endMs": 21060,
+    "timestampMs": 20800,
+    "confidence": 0.993689
+  },
+  {
+    "text": " the",
+    "startMs": 21060,
+    "endMs": 21240,
+    "timestampMs": 21120,
+    "confidence": 0.993735
+  },
+  {
+    "text": " entire",
+    "startMs": 21240,
+    "endMs": 21720,
+    "timestampMs": 21460,
+    "confidence": 0.993996
+  },
+  {
+    "text": " planet",
+    "startMs": 21720,
+    "endMs": 22200,
+    "timestampMs": 22140,
+    "confidence": 0.998759
+  },
+  {
+    "text": " in",
+    "startMs": 22200,
+    "endMs": 22400,
+    "timestampMs": 22440,
+    "confidence": 0.988108
+  },
+  {
+    "text": " microscopic",
+    "startMs": 22400,
+    "endMs": 23250,
+    "timestampMs": 22940,
+    "confidence": 0.991424
+  },
+  {
+    "text": " radioactive",
+    "startMs": 23250,
+    "endMs": 24160,
+    "timestampMs": 23720,
+    "confidence": 0.853251
+  },
+  {
+    "text": " fallout.",
+    "startMs": 24160,
+    "endMs": 25160,
+    "timestampMs": 24380,
+    "confidence": 0.563329
+  },
+  {
+    "text": " Here's",
+    "startMs": 25160,
+    "endMs": 25830,
+    "timestampMs": 25640,
+    "confidence": 0.821856
+  },
+  {
+    "text": " the",
+    "startMs": 25830,
+    "endMs": 26080,
+    "timestampMs": 25880,
+    "confidence": 0.997265
+  },
+  {
+    "text": " catch.",
+    "startMs": 26080,
+    "endMs": 26920,
+    "timestampMs": 26100,
+    "confidence": 0.997012
+  },
+  {
+    "text": " To",
+    "startMs": 26920,
+    "endMs": 27100,
+    "timestampMs": 26960,
+    "confidence": 0.996255
+  },
+  {
+    "text": " forge",
+    "startMs": 27100,
+    "endMs": 27560,
+    "timestampMs": 27220,
+    "confidence": 0.982718
+  },
+  {
+    "text": " steel,",
+    "startMs": 27560,
+    "endMs": 28240,
+    "timestampMs": 27640,
+    "confidence": 0.993957
+  },
+  {
+    "text": " giant",
+    "startMs": 28240,
+    "endMs": 28360,
+    "timestampMs": 28420,
+    "confidence": 0.997626
+  },
+  {
+    "text": " foundries",
+    "startMs": 28360,
+    "endMs": 29040,
+    "timestampMs": 28820,
+    "confidence": 0.956125
+  },
+  {
+    "text": " blast",
+    "startMs": 29040,
+    "endMs": 29420,
+    "timestampMs": 29320,
+    "confidence": 0.970516
+  },
+  {
+    "text": " tons",
+    "startMs": 29420,
+    "endMs": 29720,
+    "timestampMs": 29820,
+    "confidence": 0.997115
+  },
+  {
+    "text": " of",
+    "startMs": 29720,
+    "endMs": 29870,
+    "timestampMs": 30140,
+    "confidence": 0.998159
+  },
+  {
+    "text": " outside",
+    "startMs": 29870,
+    "endMs": 30420,
+    "timestampMs": 30360,
+    "confidence": 0.995085
+  },
+  {
+    "text": " air",
+    "startMs": 30420,
+    "endMs": 30630,
+    "timestampMs": 30860,
+    "confidence": 0.998125
+  },
+  {
+    "text": " directly",
+    "startMs": 30630,
+    "endMs": 31240,
+    "timestampMs": 31400,
+    "confidence": 0.989725
+  },
+  {
+    "text": " through",
+    "startMs": 31240,
+    "endMs": 31830,
+    "timestampMs": 31880,
+    "confidence": 0.996375
+  },
+  {
+    "text": " molten",
+    "startMs": 31830,
+    "endMs": 32320,
+    "timestampMs": 32120,
+    "confidence": 0.998592
+  },
+  {
+    "text": " iron.",
+    "startMs": 32320,
+    "endMs": 33640,
+    "timestampMs": 32620,
+    "confidence": 0.969922
+  },
+  {
+    "text": " Since",
+    "startMs": 33640,
+    "endMs": 34020,
+    "timestampMs": 33540,
+    "confidence": 0.999563
+  },
+  {
+    "text": " 1945,",
+    "startMs": 34020,
+    "endMs": 35090,
+    "timestampMs": 34220,
+    "confidence": 0.997044
+  },
+  {
+    "text": " that",
+    "startMs": 35090,
+    "endMs": 35380,
+    "timestampMs": 35160,
+    "confidence": 0.995452
+  },
+  {
+    "text": " air",
+    "startMs": 35380,
+    "endMs": 35600,
+    "timestampMs": 35520,
+    "confidence": 0.994156
+  },
+  {
+    "text": " has",
+    "startMs": 35600,
+    "endMs": 35820,
+    "timestampMs": 35840,
+    "confidence": 0.998321
+  },
+  {
+    "text": " trapped",
+    "startMs": 35820,
+    "endMs": 36350,
+    "timestampMs": 36080,
+    "confidence": 0.996278
+  },
+  {
+    "text": " radioactive",
+    "startMs": 36350,
+    "endMs": 37180,
+    "timestampMs": 36680,
+    "confidence": 0.995638
+  },
+  {
+    "text": " cobalt-60",
+    "startMs": 37180,
+    "endMs": 38140,
+    "timestampMs": 37300,
+    "confidence": 0.86264
+  },
+  {
+    "text": " atoms",
+    "startMs": 38140,
+    "endMs": 38590,
+    "timestampMs": 38300,
+    "confidence": 0.998738
+  },
+  {
+    "text": " inside",
+    "startMs": 38590,
+    "endMs": 38970,
+    "timestampMs": 38860,
+    "confidence": 0.996922
+  },
+  {
+    "text": " every",
+    "startMs": 38970,
+    "endMs": 39350,
+    "timestampMs": 39460,
+    "confidence": 0.996805
+  },
+  {
+    "text": " single",
+    "startMs": 39350,
+    "endMs": 39800,
+    "timestampMs": 39800,
+    "confidence": 0.991745
+  },
+  {
+    "text": " piece",
+    "startMs": 39800,
+    "endMs": 40280,
+    "timestampMs": 40200,
+    "confidence": 0.998841
+  },
+  {
+    "text": " of",
+    "startMs": 40280,
+    "endMs": 40490,
+    "timestampMs": 40460,
+    "confidence": 0.999485
+  },
+  {
+    "text": " new",
+    "startMs": 40490,
+    "endMs": 40810,
+    "timestampMs": 40640,
+    "confidence": 0.97169
+  },
+  {
+    "text": " steel",
+    "startMs": 40810,
+    "endMs": 41350,
+    "timestampMs": 40980,
+    "confidence": 0.996845
+  },
+  {
+    "text": " on",
+    "startMs": 41350,
+    "endMs": 41560,
+    "timestampMs": 41320,
+    "confidence": 0.995995
+  },
+  {
+    "text": " Earth.",
+    "startMs": 41560,
+    "endMs": 42460,
+    "timestampMs": 41540,
+    "confidence": 0.720896
+  },
+  {
+    "text": " For",
+    "startMs": 42460,
+    "endMs": 42740,
+    "timestampMs": 42480,
+    "confidence": 0.999255
+  },
+  {
+    "text": " your",
+    "startMs": 42740,
+    "endMs": 43020,
+    "timestampMs": 42600,
+    "confidence": 0.996003
+  },
+  {
+    "text": " car",
+    "startMs": 43020,
+    "endMs": 43260,
+    "timestampMs": 42880,
+    "confidence": 0.997584
+  },
+  {
+    "text": " or",
+    "startMs": 43260,
+    "endMs": 43520,
+    "timestampMs": 43300,
+    "confidence": 0.885022
+  },
+  {
+    "text": " fork,",
+    "startMs": 43520,
+    "endMs": 43890,
+    "timestampMs": 43540,
+    "confidence": 0.980785
+  },
+  {
+    "text": " that",
+    "startMs": 43890,
+    "endMs": 44220,
+    "timestampMs": 44240,
+    "confidence": 0.992349
+  },
+  {
+    "text": " tiny",
+    "startMs": 44220,
+    "endMs": 44540,
+    "timestampMs": 44540,
+    "confidence": 0.998131
+  },
+  {
+    "text": " radiation",
+    "startMs": 44540,
+    "endMs": 45260,
+    "timestampMs": 45120,
+    "confidence": 0.999033
+  },
+  {
+    "text": " is",
+    "startMs": 45260,
+    "endMs": 45420,
+    "timestampMs": 45620,
+    "confidence": 0.99819
+  },
+  {
+    "text": " completely",
+    "startMs": 45420,
+    "endMs": 46220,
+    "timestampMs": 46080,
+    "confidence": 0.9766
+  },
+  {
+    "text": " harmless.",
+    "startMs": 46220,
+    "endMs": 47160,
+    "timestampMs": 46480,
+    "confidence": 0.998929
+  },
+  {
+    "text": " But,",
+    "startMs": 47160,
+    "endMs": 47540,
+    "timestampMs": 47520,
+    "confidence": 0.997166
+  },
+  {
+    "text": " if",
+    "startMs": 47540,
+    "endMs": 47880,
+    "timestampMs": 47980,
+    "confidence": 0.995951
+  },
+  {
+    "text": " you",
+    "startMs": 47880,
+    "endMs": 47920,
+    "timestampMs": 48100,
+    "confidence": 0.999531
+  },
+  {
+    "text": " use",
+    "startMs": 47920,
+    "endMs": 48150,
+    "timestampMs": 48400,
+    "confidence": 0.987924
+  },
+  {
+    "text": " modern",
+    "startMs": 48150,
+    "endMs": 48610,
+    "timestampMs": 48660,
+    "confidence": 0.991161
+  },
+  {
+    "text": " steel",
+    "startMs": 48610,
+    "endMs": 49020,
+    "timestampMs": 49060,
+    "confidence": 0.99866
+  },
+  {
+    "text": " to",
+    "startMs": 49020,
+    "endMs": 49140,
+    "timestampMs": 49400,
+    "confidence": 0.999327
+  },
+  {
+    "text": " shield",
+    "startMs": 49140,
+    "endMs": 49600,
+    "timestampMs": 49660,
+    "confidence": 0.99756
+  },
+  {
+    "text": " a",
+    "startMs": 49600,
+    "endMs": 49670,
+    "timestampMs": 49860,
+    "confidence": 0.996204
+  },
+  {
+    "text": " dark",
+    "startMs": 49670,
+    "endMs": 49990,
+    "timestampMs": 50100,
+    "confidence": 0.972485
+  },
+  {
+    "text": " matter",
+    "startMs": 49990,
+    "endMs": 50440,
+    "timestampMs": 50300,
+    "confidence": 0.805892
+  },
+  {
+    "text": " detector",
+    "startMs": 50440,
+    "endMs": 51060,
+    "timestampMs": 50740,
+    "confidence": 0.994651
+  },
+  {
+    "text": " or",
+    "startMs": 51060,
+    "endMs": 51210,
+    "timestampMs": 51400,
+    "confidence": 0.908075
+  },
+  {
+    "text": " a",
+    "startMs": 51210,
+    "endMs": 51310,
+    "timestampMs": 51560,
+    "confidence": 0.976003
+  },
+  {
+    "text": " hospital",
+    "startMs": 51310,
+    "endMs": 51920,
+    "timestampMs": 51900,
+    "confidence": 0.992226
+  },
+  {
+    "text": " radiation",
+    "startMs": 51920,
+    "endMs": 52680,
+    "timestampMs": 52320,
+    "confidence": 0.988715
+  },
+  {
+    "text": " scanner,",
+    "startMs": 52680,
+    "endMs": 53680,
+    "timestampMs": 52880,
+    "confidence": 0.876537
+  },
+  {
+    "text": " the",
+    "startMs": 53680,
+    "endMs": 53930,
+    "timestampMs": 53680,
+    "confidence": 0.991072
+  },
+  {
+    "text": " metal's",
+    "startMs": 53930,
+    "endMs": 54510,
+    "timestampMs": 53900,
+    "confidence": 0.422936
+  },
+  {
+    "text": " own",
+    "startMs": 54510,
+    "endMs": 54760,
+    "timestampMs": 54440,
+    "confidence": 0.998224
+  },
+  {
+    "text": " radioactive",
+    "startMs": 54760,
+    "endMs": 55910,
+    "timestampMs": 54800,
+    "confidence": 0.997183
+  },
+  {
+    "text": " static",
+    "startMs": 55910,
+    "endMs": 56180,
+    "timestampMs": 55520,
+    "confidence": 0.992034
+  },
+  {
+    "text": " blinds",
+    "startMs": 56180,
+    "endMs": 56680,
+    "timestampMs": 56040,
+    "confidence": 0.952717
+  },
+  {
+    "text": " the",
+    "startMs": 56680,
+    "endMs": 56920,
+    "timestampMs": 56420,
+    "confidence": 0.996997
+  },
+  {
+    "text": " sensor.",
+    "startMs": 56920,
+    "endMs": 57720,
+    "timestampMs": 56760,
+    "confidence": 0.994641
+  },
+  {
+    "text": " To",
+    "startMs": 57720,
+    "endMs": 57870,
+    "timestampMs": 57720,
+    "confidence": 0.999399
+  },
+  {
+    "text": " get",
+    "startMs": 57870,
+    "endMs": 58090,
+    "timestampMs": 57880,
+    "confidence": 0.999449
+  },
+  {
+    "text": " pure",
+    "startMs": 58090,
+    "endMs": 58390,
+    "timestampMs": 58260,
+    "confidence": 0.983399
+  },
+  {
+    "text": " uncontaminated",
+    "startMs": 58390,
+    "endMs": 59440,
+    "timestampMs": 58880,
+    "confidence": 0.50767
+  },
+  {
+    "text": " metal,",
+    "startMs": 59440,
+    "endMs": 59950,
+    "timestampMs": 59780,
+    "confidence": 0.998165
+  },
+  {
+    "text": " called",
+    "startMs": 59950,
+    "endMs": 60410,
+    "timestampMs": 60440,
+    "confidence": 0.996757
+  },
+  {
+    "text": " low",
+    "startMs": 60410,
+    "endMs": 60630,
+    "timestampMs": 60720,
+    "confidence": 0.810634
+  },
+  {
+    "text": " background",
+    "startMs": 60630,
+    "endMs": 61390,
+    "timestampMs": 61100,
+    "confidence": 0.405677
+  },
+  {
+    "text": " steel,",
+    "startMs": 61390,
+    "endMs": 62290,
+    "timestampMs": 61600,
+    "confidence": 0.995564
+  },
+  {
+    "text": " scientists",
+    "startMs": 62290,
+    "endMs": 62650,
+    "timestampMs": 62640,
+    "confidence": 0.985065
+  },
+  {
+    "text": " salvaged",
+    "startMs": 62650,
+    "endMs": 63340,
+    "timestampMs": 63040,
+    "confidence": 0.52039
+  },
+  {
+    "text": " battleships",
+    "startMs": 63340,
+    "endMs": 63880,
+    "timestampMs": 63460,
+    "confidence": 0.725879
+  },
+  {
+    "text": " that",
+    "startMs": 63880,
+    "endMs": 64220,
+    "timestampMs": 64040,
+    "confidence": 0.999306
+  },
+  {
+    "text": " sank",
+    "startMs": 64220,
+    "endMs": 64560,
+    "timestampMs": 64280,
+    "confidence": 0.99124
+  },
+  {
+    "text": " before",
+    "startMs": 64560,
+    "endMs": 65070,
+    "timestampMs": 64780,
+    "confidence": 0.995687
+  },
+  {
+    "text": " 1945,",
+    "startMs": 65070,
+    "endMs": 66530,
+    "timestampMs": 66000,
+    "confidence": 0.998687
+  },
+  {
+    "text": " trapped",
+    "startMs": 66530,
+    "endMs": 66970,
+    "timestampMs": 66620,
+    "confidence": 0.991291
+  },
+  {
+    "text": " safely",
+    "startMs": 66970,
+    "endMs": 67380,
+    "timestampMs": 67040,
+    "confidence": 0.998161
+  },
+  {
+    "text": " underwater",
+    "startMs": 67380,
+    "endMs": 68380,
+    "timestampMs": 67520,
+    "confidence": 0.934759
+  },
+  {
+    "text": " before",
+    "startMs": 68380,
+    "endMs": 68750,
+    "timestampMs": 68380,
+    "confidence": 0.989149
+  },
+  {
+    "text": " the",
+    "startMs": 68750,
+    "endMs": 69000,
+    "timestampMs": 68660,
+    "confidence": 0.99608
+  },
+  {
+    "text": " nuclear",
+    "startMs": 69000,
+    "endMs": 69600,
+    "timestampMs": 68860,
+    "confidence": 0.995235
+  },
+  {
+    "text": " age",
+    "startMs": 69600,
+    "endMs": 69850,
+    "timestampMs": 69320,
+    "confidence": 0.983793
+  },
+  {
+    "text": " began.",
+    "startMs": 69850,
+    "endMs": 70600,
+    "timestampMs": 69620,
+    "confidence": 0.996919
+  },
+  {
+    "text": " Which",
+    "startMs": 70600,
+    "endMs": 70940,
+    "timestampMs": 70600,
+    "confidence": 0.940867
+  },
+  {
+    "text": " is",
+    "startMs": 70940,
+    "endMs": 71070,
+    "timestampMs": 70760,
+    "confidence": 0.998721
+  },
+  {
+    "text": " the",
+    "startMs": 71070,
+    "endMs": 71270,
+    "timestampMs": 70920,
+    "confidence": 0.994237
+  },
+  {
+    "text": " exact",
+    "startMs": 71270,
+    "endMs": 71610,
+    "timestampMs": 71180,
+    "confidence": 0.983139
+  },
+  {
+    "text": " reason!",
+    "startMs": 71610,
+    "endMs": 72120,
+    "timestampMs": 71820,
+    "confidence": 0.99747
+  }
+]

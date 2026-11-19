@@ -6,3 +6,21 @@ dist
 # Ignore the output video from Git but not videos you import into src/.
 out
 whisper.cpp
+temp
+temp_audio
+.agents
+.claude
+*.zip
+
+# Ignore large unused public media & intermediate TTS folders for Colab render
+public/*.mp4
+public/*.mp3
+public/*.jpg
+!public/sample-video.mp4
+public/Led's working/
+public/feymann-light-path/
+public/how-number's think/
+public/email500/chapters/
+public/email500/chapters-raw/
+public/email500/voice-tests/
+
