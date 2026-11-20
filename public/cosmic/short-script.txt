@@ -1,0 +1,9 @@
+In September twenty thirteen, a Super Mario Sixty-Four speedrunner was racing through Tick Tock Clock when his character suddenly teleported straight through a solid ceiling without pressing jump.
+
+A famous analyst offered a one-thousand-dollar bounty to anyone who could repeat it on a real Nintendo console. Thousands tried. Not a single person succeeded.
+
+When programmers worked backward from the console's memory, they found that flipping just one single bit in Mario's height byte, changing hexadecimal C-five into C-four, recreated the teleport frame for frame.
+
+Nothing in the game's code could write that number. Instead, a subatomic particle from an exploding star in deep space had crashed through the roof and physically flipped a single microscopic memory bucket inside the chip.
+
+Wait till you see how the exact same cosmic bit-flip added four thousand and ninety-six votes to an election in Belgium and nearly crashed a passenger jet at thirty-seven thousand feet. To watch the full eleven-minute video, visit the channel and look for this video right here.

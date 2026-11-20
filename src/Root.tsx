@@ -58,6 +58,10 @@ import {
   COSMIC_MARIO_FRAMES,
   CosmicMarioBitFlip,
 } from "./CosmicMario";
+import {
+  COSMIC_MARIO_SHORT_FRAMES,
+  CosmicMarioShort,
+} from "./CosmicMario/Short";
 import { CosmicThumbnail } from "./CosmicMario/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
@@ -65,6 +69,14 @@ import { CosmicThumbnail } from "./CosmicMario/Thumbnail";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="CosmicMarioShort"
+        component={CosmicMarioShort}
+        durationInFrames={COSMIC_MARIO_SHORT_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
       <Composition
         id="CosmicMarioBitFlip"
         component={CosmicMarioBitFlip}

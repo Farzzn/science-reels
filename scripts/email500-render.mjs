@@ -18,7 +18,8 @@ const CONCURRENCY = Number(process.env.CONCURRENCY || (isColabDrive ? 10 : 2));
 const testMode = process.argv.includes('--test') || process.env.TEST_SLICE === '1';
 const isShort = process.argv.includes('--short') || process.env.COMP_ID === 'FiveHundredMileShort';
 const isCosmic = process.argv.includes('--cosmic') || process.env.COMP_ID === 'CosmicMarioBitFlip';
-const COMP_ID = process.env.COMP_ID || (isCosmic ? 'CosmicMarioBitFlip' : isShort ? 'FiveHundredMileShort' : 'FiveHundredMileEmail');
+const isCosmicShort = process.argv.includes('--cosmic-short') || process.env.COMP_ID === 'CosmicMarioShort';
+const COMP_ID = process.env.COMP_ID || (isCosmicShort ? 'CosmicMarioShort' : isCosmic ? 'CosmicMarioBitFlip' : isShort ? 'FiveHundredMileShort' : 'FiveHundredMileEmail');
 
 const chunksDir = path.join(outRoot, `chunks-${COMP_ID}`);
 const minPublic = path.resolve('temp/public-slim');
@@ -35,11 +36,13 @@ const copyIfNewer = (src, dst) => {
   }
 };
 copyIfNewer('public/theboldfont.ttf', path.join(minPublic, 'theboldfont.ttf'));
-if (COMP_ID === 'CosmicMarioBitFlip') {
+if (COMP_ID === 'CosmicMarioBitFlip' || COMP_ID === 'CosmicMarioShort') {
   copyIfNewer('public/cosmic/voiceover.wav', path.join(minPublic, 'cosmic/voiceover.wav'));
+  copyIfNewer('public/cosmic/short-voiceover.wav', path.join(minPublic, 'cosmic/short-voiceover.wav'));
   copyIfNewer('public/cosmic/mario-upwarp.png', path.join(minPublic, 'cosmic/mario-upwarp.png'));
   copyIfNewer('public/cosmic/supernova-ray.png', path.join(minPublic, 'cosmic/supernova-ray.png'));
   copyIfNewer('public/cosmic/qantas-a330.png', path.join(minPublic, 'cosmic/qantas-a330.png'));
+  copyIfNewer('public/cosmic/yt-video-card.png', path.join(minPublic, 'cosmic/yt-video-card.png'));
 } else {
   copyIfNewer('public/email500/voiceover.wav', path.join(minPublic, 'email500/voiceover.wav'));
   copyIfNewer('public/email500/short-voiceover.wav', path.join(minPublic, 'email500/short-voiceover.wav'));
