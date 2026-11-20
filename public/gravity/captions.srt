@@ -1,0 +1,871 @@
+1
+00:00:00,440 --> 00:00:03,460
+Right now, Earth is pulling on the Moon
+
+2
+00:00:03,310 --> 00:00:06,945
+with a force of two hundred quintillion Newtons.
+
+3
+00:00:07,360 --> 00:00:11,240
+That's roughly the thrust of ten trillion rocket
+
+4
+00:00:11,090 --> 00:00:13,290
+engines firing at full power.
+
+5
+00:00:13,440 --> 00:00:17,158
+And Earth has been pulling like that, nonstop,
+
+6
+00:00:17,332 --> 00:00:20,220
+twenty-four hours a day, for four and a
+
+7
+00:00:20,070 --> 00:00:21,540
+half billion years.
+
+8
+00:00:21,840 --> 00:00:24,550
+Yet Earth doesn't burn a single drop of
+
+9
+00:00:24,400 --> 00:00:25,050
+fuel.
+
+10
+00:00:24,910 --> 00:00:26,650
+It doesn't plug into a wall.
+
+11
+00:00:26,890 --> 00:00:28,670
+It doesn't even lose mass.
+
+12
+00:00:29,230 --> 00:00:31,670
+Meanwhile, if you hold a heavy dumbbell out
+
+13
+00:00:31,520 --> 00:00:34,250
+at arm's length for just two minutes, your
+
+14
+00:00:34,100 --> 00:00:37,590
+muscles burn, your arm shakes, and you run
+
+15
+00:00:37,440 --> 00:00:38,640
+out of energy.
+
+16
+00:00:38,740 --> 00:00:41,630
+So how can gravity pull on the entire
+
+17
+00:00:41,480 --> 00:00:45,250
+universe forever without ever running out of fuel?
+
+18
+00:00:45,360 --> 00:00:48,260
+Doesn't that break the law of conservation of
+
+19
+00:00:48,110 --> 00:00:48,500
+energy?
+
+20
+00:00:48,820 --> 00:00:53,080
+No, and the real answer completely changes how
+
+21
+00:00:52,930 --> 00:00:54,210
+you see reality.
+
+22
+00:00:54,860 --> 00:00:58,550
+First, we'll separate two ideas our brains constantly
+
+23
+00:00:58,400 --> 00:01:00,800
+mix up: force and work.
+
+24
+00:01:01,040 --> 00:01:04,030
+Then, we'll see why a falling apple and
+
+25
+00:01:03,880 --> 00:01:06,860
+an orbiting Moon never create new energy.
+
+26
+00:01:07,160 --> 00:01:11,310
+And finally, we'll jump to Einstein's twist: that
+
+27
+00:01:11,160 --> 00:01:14,313
+gravity isn't even a pulling force at all.
+
+28
+00:01:15,013 --> 00:01:18,280
+Our intuition gets tricked by our own bodies.
+
+29
+00:01:18,560 --> 00:01:20,980
+When you hold a heavy box still in
+
+30
+00:01:20,830 --> 00:01:23,060
+the air, you feel exhausted.
+
+31
+00:01:23,080 --> 00:01:26,140
+So your brain assumes that pushing or pulling
+
+32
+00:01:25,990 --> 00:01:29,420
+on something must always cost energy.
+
+33
+00:01:29,820 --> 00:01:33,230
+But look closer at what's happening inside your
+
+34
+00:01:33,080 --> 00:01:33,460
+arm.
+
+35
+00:01:33,620 --> 00:01:36,730
+Human muscle fibers can't just lock into place
+
+36
+00:01:36,580 --> 00:01:37,660
+like a steel beam.
+
+37
+00:01:37,920 --> 00:01:41,580
+To hold a weight steady, millions of microscopic
+
+38
+00:01:41,430 --> 00:01:46,200
+protein filaments have to fire, release, and re-grab
+
+39
+00:01:46,050 --> 00:01:49,450
+over and over again, dozens of times every
+
+40
+00:01:49,300 --> 00:01:50,220
+second.
+
+41
+00:01:50,230 --> 00:01:54,400
+Every single microscopic twitch burns chemical energy from
+
+42
+00:01:54,250 --> 00:01:56,900
+your food and turns it into body heat.
+
+43
+00:01:57,220 --> 00:02:00,430
+You aren't spending energy on the box; you're
+
+44
+00:02:00,280 --> 00:02:03,630
+spending energy just to keep your own biological
+
+45
+00:02:03,480 --> 00:02:05,470
+machinery contracted.
+
+46
+00:02:05,320 --> 00:02:07,610
+Now put that exact same box on a
+
+47
+00:02:07,460 --> 00:02:08,870
+wooden table.
+
+48
+00:02:08,720 --> 00:02:11,610
+The table pushes upward with the exact same
+
+49
+00:02:11,460 --> 00:02:13,270
+force as your arm did.
+
+50
+00:02:13,120 --> 00:02:15,227
+It can hold that box up for a
+
+51
+00:02:15,168 --> 00:02:18,570
+hundred years without eating lunch, without heating up,
+
+52
+00:02:18,470 --> 00:02:22,170
+and without burning a single Joule of energy.
+
+53
+00:02:22,020 --> 00:02:25,230
+That's our first big clue: applying a force
+
+54
+00:02:25,080 --> 00:02:26,356
+is completely free.
+
+55
+00:02:27,120 --> 00:02:30,570
+In physics, energy is only transferred when a
+
+56
+00:02:30,420 --> 00:02:34,170
+force actually moves something across a distance.
+
+57
+00:02:34,020 --> 00:02:37,360
+Scientists call that work, and the formula is
+
+58
+00:02:37,210 --> 00:02:43,270
+beautifully simple: Work equals Force multiplied by Distance.
+
+59
+00:02:43,120 --> 00:02:46,790
+Multiply any force, no matter how gigantic, by
+
+60
+00:02:46,640 --> 00:02:51,070
+zero distance, and the answer is always zero.
+
+61
+00:02:51,020 --> 00:02:53,770
+Think of a magnet stuck to your refrigerator.
+
+62
+00:02:53,620 --> 00:02:57,380
+It pulls against gravity for decades without a
+
+63
+00:02:57,230 --> 00:02:58,370
+battery.
+
+64
+00:02:58,220 --> 00:02:59,170
+Why?
+
+65
+00:02:59,020 --> 00:03:01,680
+Because once the magnet snaps onto the steel
+
+66
+00:03:01,530 --> 00:03:03,570
+door, nothing is moving.
+
+67
+00:03:03,420 --> 00:03:06,870
+The distance is zero, so the work done
+
+68
+00:03:06,720 --> 00:03:07,540
+is zero.
+
+69
+00:03:07,720 --> 00:03:10,400
+The exact same rule holds you in your
+
+70
+00:03:10,250 --> 00:03:11,370
+chair right now.
+
+71
+00:03:11,620 --> 00:03:14,300
+Gravity pulls down on you, the chair pushes
+
+72
+00:03:14,150 --> 00:03:16,390
+back up with an equal force, and you
+
+73
+00:03:16,435 --> 00:03:17,550
+don't move an inch.
+
+74
+00:03:17,820 --> 00:03:21,750
+Zero motion means zero work, which means Earth
+
+75
+00:03:21,600 --> 00:03:25,070
+spends zero energy keeping your feet on the
+
+76
+00:03:24,920 --> 00:03:25,550
+floor.
+
+77
+00:03:25,720 --> 00:03:26,850
+Wait a second, though.
+
+78
+00:03:27,120 --> 00:03:29,940
+What happens when you let go of an
+
+79
+00:03:29,790 --> 00:03:33,390
+apple, and gravity actually does move it across
+
+80
+00:03:33,240 --> 00:03:33,703
+a distance?
+
+81
+00:03:34,403 --> 00:03:36,490
+Drop an apple from a tree, and it
+
+82
+00:03:36,340 --> 00:03:38,330
+accelerates toward the ground.
+
+83
+00:03:38,740 --> 00:03:42,090
+Now it's moving across a distance, so gravity
+
+84
+00:03:41,940 --> 00:03:45,630
+really is doing work, giving the apple kinetic
+
+85
+00:03:45,480 --> 00:03:45,940
+energy.
+
+86
+00:03:46,320 --> 00:03:48,490
+Where did that energy come from?
+
+87
+00:03:48,620 --> 00:03:50,610
+It wasn't created by Earth.
+
+88
+00:03:50,820 --> 00:03:54,000
+It was borrowed from a cosmic bank account
+
+89
+00:03:53,850 --> 00:03:56,750
+called gravitational potential energy.
+
+90
+00:03:57,120 --> 00:03:59,850
+Remember: the apple didn't teleport to the top
+
+91
+00:03:59,700 --> 00:04:00,300
+of the tree.
+
+92
+00:04:00,640 --> 00:04:04,180
+Something, sunlight powering the tree's growth, or your
+
+93
+00:04:04,030 --> 00:04:06,470
+own hand lifting the apple off the floor,
+
+94
+00:04:06,800 --> 00:04:10,080
+had to do work against gravity first to
+
+95
+00:04:09,930 --> 00:04:11,010
+raise it up.
+
+96
+00:04:11,220 --> 00:04:14,450
+That work didn't disappear; it got stored inside
+
+97
+00:04:14,300 --> 00:04:17,870
+the gravitational field between the apple and the
+
+98
+00:04:17,720 --> 00:04:21,580
+Earth, like stretching a giant invisible rubber band.
+
+99
+00:04:21,720 --> 00:04:24,330
+When you let go, the rubber band simply
+
+100
+00:04:24,180 --> 00:04:25,270
+snaps back.
+
+101
+00:04:25,360 --> 00:04:29,630
+Stored potential energy converts smoothly into kinetic energy
+
+102
+00:04:29,480 --> 00:04:30,150
+of motion.
+
+103
+00:04:30,420 --> 00:04:33,130
+Earth didn't pay a single penny; it just
+
+104
+00:04:32,980 --> 00:04:35,610
+gave you back the exact energy that was
+
+105
+00:04:35,460 --> 00:04:36,600
+deposited earlier.
+
+106
+00:04:37,020 --> 00:04:39,470
+If this way of seeing physics clicks with
+
+107
+00:04:39,320 --> 00:04:41,830
+you, take a second to hit subscribe; it
+
+108
+00:04:41,680 --> 00:04:45,006
+really helps this new channel reach more curious
+
+109
+00:04:44,856 --> 00:04:45,006
+minds.
+
+110
+00:04:45,706 --> 00:04:49,070
+Okay, an apple hits the ground and stops.
+
+111
+00:04:49,030 --> 00:04:54,970
+What about the Moon?
+
+112
+00:04:55,380 --> 00:04:56,290
+It's moving at over three thousand six hundred
+
+113
+00:04:56,140 --> 00:04:56,660
+kilometers per hour, every single second, for billions
+
+114
+00:04:56,510 --> 00:04:56,710
+of years.
+
+115
+00:04:56,720 --> 00:04:59,480
+Why doesn't that drain Earth's energy?
+
+116
+00:04:59,620 --> 00:05:03,530
+In sixteen eighty-seven, Isaac Newton explained orbits with
+
+117
+00:05:03,380 --> 00:05:05,360
+a brilliant thought experiment.
+
+118
+00:05:05,720 --> 00:05:08,690
+Imagine firing a cannonball from the top of
+
+119
+00:05:08,540 --> 00:05:10,320
+an impossibly tall mountain.
+
+120
+00:05:10,620 --> 00:05:13,330
+Fire it slowly, and gravity pulls it down
+
+121
+00:05:13,180 --> 00:05:14,340
+to the ground.
+
+122
+00:05:14,320 --> 00:05:17,600
+Fire it faster, and it travels farther before
+
+123
+00:05:17,450 --> 00:05:18,190
+landing.
+
+124
+00:05:18,470 --> 00:05:21,100
+Fire it fast enough, about seven point eight
+
+125
+00:05:20,950 --> 00:05:24,970
+kilometers per second, and the cannonball still falls
+
+126
+00:05:24,820 --> 00:05:28,210
+toward Earth, but the curved planet drops away
+
+127
+00:05:28,060 --> 00:05:30,380
+beneath it at the exact same rate.
+
+128
+00:05:30,720 --> 00:05:34,150
+It falls forever, and keeps missing the ground.
+
+129
+00:05:34,320 --> 00:05:36,730
+Now look at the geometry of a circular
+
+130
+00:05:36,580 --> 00:05:37,100
+orbit.
+
+131
+00:05:37,220 --> 00:05:40,510
+The Moon's motion points straight ahead, while Earth's
+
+132
+00:05:40,480 --> 00:05:44,280
+gravity pulls straight inward at a perfect ninety-degree
+
+133
+00:05:44,130 --> 00:05:44,870
+angle.
+
+134
+00:05:44,830 --> 00:05:47,490
+Because gravity pulls sideways to the motion, it
+
+135
+00:05:47,340 --> 00:05:50,500
+changes the Moon's direction, never its speed.
+
+136
+00:05:50,820 --> 00:05:54,430
+Zero change in speed means zero net energy
+
+137
+00:05:54,280 --> 00:05:56,157
+added, and zero fuel burned.
+
+138
+00:05:56,857 --> 00:06:00,380
+For more than two hundred years, Newton's picture
+
+139
+00:06:00,230 --> 00:06:02,990
+worked so well that we sent rockets into
+
+140
+00:06:02,840 --> 00:06:04,170
+space with it.
+
+141
+00:06:04,020 --> 00:06:07,480
+Yet Newton himself admitted he had no idea
+
+142
+00:06:07,330 --> 00:06:10,720
+how Earth reached across empty space to yank
+
+143
+00:06:10,570 --> 00:06:11,530
+on the Moon.
+
+144
+00:06:11,820 --> 00:06:16,100
+Then, in nineteen fifteen, Albert Einstein flipped the
+
+145
+00:06:15,950 --> 00:06:18,220
+entire mystery upside down.
+
+146
+00:06:18,420 --> 00:06:21,880
+Einstein realized that gravity doesn't need a power
+
+147
+00:06:21,730 --> 00:06:25,070
+source because gravity isn't a pulling force at
+
+148
+00:06:24,920 --> 00:06:25,670
+all.
+
+149
+00:06:25,520 --> 00:06:30,710
+Instead, mass and energy bend the four-dimensional fabric
+
+150
+00:06:30,560 --> 00:06:32,870
+of space and time itself.
+
+151
+00:06:32,920 --> 00:06:36,070
+Think of a marble rolling across a smooth,
+
+152
+00:06:35,920 --> 00:06:37,225
+curved bowl.
+
+153
+00:06:37,190 --> 00:06:39,860
+Nobody is pulling the marble with a string,
+
+154
+00:06:39,710 --> 00:06:42,160
+and no engine is pushing it around the
+
+155
+00:06:42,010 --> 00:06:42,670
+rim.
+
+156
+00:06:42,520 --> 00:06:45,850
+The marble is simply following the straightest possible
+
+157
+00:06:45,700 --> 00:06:49,870
+path, called a geodesic, through curved geometry.
+
+158
+00:06:50,020 --> 00:06:53,900
+Earth doesn't spend energy pulling the Moon, any
+
+159
+00:06:53,750 --> 00:06:56,290
+more than a hill spends energy making a
+
+160
+00:06:56,140 --> 00:06:57,270
+road curve.
+
+161
+00:06:57,120 --> 00:07:00,540
+Mass simply tells spacetime how to curve, and
+
+162
+00:07:00,390 --> 00:07:03,770
+curved spacetime tells matter how to move.
+
+163
+00:07:03,720 --> 00:07:07,390
+Once the shape is there, geometry takes zero
+
+164
+00:07:07,240 --> 00:07:08,001
+fuel to exist.
+
+165
+00:07:08,701 --> 00:07:11,720
+Now, if you're paying close attention, you might
+
+166
+00:07:11,570 --> 00:07:15,380
+ask a sharp question: doesn't gravity ever transfer
+
+167
+00:07:15,230 --> 00:07:16,470
+real energy?
+
+168
+00:07:16,320 --> 00:07:19,520
+After all, the Moon's gravity lifts billions of
+
+169
+00:07:19,370 --> 00:07:21,850
+tons of ocean water into high and low
+
+170
+00:07:21,700 --> 00:07:23,320
+tides twice every day.
+
+171
+00:07:23,620 --> 00:07:25,560
+Where does that energy come from?
+
+172
+00:07:25,620 --> 00:07:29,070
+That's the exact right question, and the answer
+
+173
+00:07:28,920 --> 00:07:31,190
+proves nature never cheats.
+
+174
+00:07:31,240 --> 00:07:34,080
+The Moon's gravity doesn't create tidal energy out
+
+175
+00:07:33,930 --> 00:07:34,530
+of thin air.
+
+176
+00:07:34,720 --> 00:07:38,390
+Instead, the friction of sloshing oceans acts like
+
+177
+00:07:38,240 --> 00:07:40,480
+a giant brake pad on Earth's rotation.
+
+178
+00:07:40,920 --> 00:07:44,380
+Every century, Earth's spin slows down by about
+
+179
+00:07:44,403 --> 00:07:47,690
+one point seven milliseconds, and that stolen rotational
+
+180
+00:07:47,670 --> 00:07:51,020
+energy pushes the Moon three point eight centimeters
+
+181
+00:07:50,870 --> 00:07:53,970
+farther away from us every single year.
+
+182
+00:07:53,820 --> 00:07:56,880
+Even in deep space, there's a tiny energy
+
+183
+00:07:56,730 --> 00:07:57,170
+leak.
+
+184
+00:07:57,430 --> 00:08:00,270
+When massive objects like two black holes orbit
+
+185
+00:08:00,120 --> 00:08:03,330
+each other, they stir ripples in spacetime called
+
+186
+00:08:03,180 --> 00:08:07,167
+gravitational waves, first detected by LIGO in twenty
+
+187
+00:08:07,318 --> 00:08:07,718
+fifteen.
+
+188
+00:08:07,620 --> 00:08:11,430
+Those waves carry energy away, causing the black
+
+189
+00:08:11,280 --> 00:08:13,640
+holes to spiral closer until they collide.
+
+190
+00:08:14,020 --> 00:08:17,490
+Even for Einstein, the energy bill is always
+
+191
+00:08:17,340 --> 00:08:17,896
+paid in full.
+
+192
+00:08:18,596 --> 00:08:21,770
+So whenever you see gravity doing real work,
+
+193
+00:08:21,690 --> 00:08:24,870
+whether it's water crashing through a hydroelectric dam
+
+194
+00:08:24,720 --> 00:08:27,590
+to light up a city, or an asteroid
+
+195
+00:08:27,440 --> 00:08:31,560
+slamming into a planet, someone always paid the
+
+196
+00:08:31,410 --> 00:08:33,120
+energy bill up front.
+
+197
+00:08:33,220 --> 00:08:36,100
+In a hydroelectric dam, the Sun paid the
+
+198
+00:08:35,950 --> 00:08:38,890
+bill by heating the oceans and lifting water
+
+199
+00:08:38,740 --> 00:08:40,430
+vapor up into mountain clouds.
+
+200
+00:08:40,720 --> 00:08:43,630
+Gravity simply cashed the check on the way
+
+201
+00:08:43,480 --> 00:08:44,670
+back down.
+
+202
+00:08:44,520 --> 00:08:47,480
+And the deep spacetime bowl around Earth?
+
+203
+00:08:47,820 --> 00:08:49,740
+That was paid for four and a half
+
+204
+00:08:49,590 --> 00:08:52,590
+billion years ago, when a vast cloud of
+
+205
+00:08:52,440 --> 00:08:58,040
+ancient stardust collapsed inward, turning its gravitational potential
+
+206
+00:08:57,890 --> 00:09:00,856
+energy into the blazing heat that forged our
+
+207
+00:09:00,706 --> 00:09:00,856
+planet.
+
+208
+00:09:01,556 --> 00:09:03,770
+So the next time you drop your keys,
+
+209
+00:09:03,970 --> 00:09:06,710
+or look up at the Moon hanging silently
+
+210
+00:09:06,560 --> 00:09:09,550
+in the night sky, remember why it never
+
+211
+00:09:09,400 --> 00:09:11,170
+runs out of battery.
+
+212
+00:09:11,020 --> 00:09:14,120
+Gravity doesn't need fuel to hold the universe
+
+213
+00:09:13,970 --> 00:09:18,520
+together, because holding still does zero work, and
+
+214
+00:09:18,370 --> 00:09:22,070
+bending spacetime isn't an engine burning energy.
+
+215
+00:09:22,210 --> 00:09:25,220
+It's simply the shape of the universe itself.
+
+216
+00:09:25,620 --> 00:09:28,190
+If you love breaking down deep physics into
+
+217
+00:09:28,040 --> 00:09:31,390
+clear, visual intuition, hit subscribe so you don't
+
+218
+00:09:31,240 --> 00:09:32,433
+miss the next deep dive.

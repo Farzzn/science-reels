@@ -1,0 +1,59 @@
+{
+  "total": 573.683,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "Cold Open",
+      "start": 0.4,
+      "end": 74.163
+    },
+    {
+      "id": "ch1",
+      "title": "Why Your Arm Gets Tired",
+      "start": 75.013,
+      "end": 146.206
+    },
+    {
+      "id": "ch2",
+      "title": "Force vs. Work",
+      "start": 147.056,
+      "end": 213.553
+    },
+    {
+      "id": "ch3",
+      "title": "The Bank Account of the Universe",
+      "start": 214.403,
+      "end": 284.856
+    },
+    {
+      "id": "ch4",
+      "title": "Why Orbits Never Fall Down",
+      "start": 285.706,
+      "end": 356.007
+    },
+    {
+      "id": "ch5",
+      "title": "Einstein's Twist",
+      "start": 356.857,
+      "end": 427.851
+    },
+    {
+      "id": "ch6",
+      "title": "When Gravity Does Drain Energy",
+      "start": 428.701,
+      "end": 497.746
+    },
+    {
+      "id": "ch7",
+      "title": "Who Paid the Energy Bill",
+      "start": 498.596,
+      "end": 540.706
+    },
+    {
+      "id": "ch8",
+      "title": "The Shape of Reality",
+      "start": 541.556,
+      "end": 572.283
+    }
+  ]
+}

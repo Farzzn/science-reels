@@ -19,13 +19,15 @@ const testMode = process.argv.includes('--test') || process.env.TEST_SLICE === '
 const isShort = process.argv.includes('--short') || process.env.COMP_ID === 'FiveHundredMileShort';
 const isCosmic = process.argv.includes('--cosmic') || process.env.COMP_ID === 'CosmicMarioBitFlip';
 const isCosmicShort = process.argv.includes('--cosmic-short') || process.env.COMP_ID === 'CosmicMarioShort';
-const COMP_ID = process.env.COMP_ID || (isCosmicShort ? 'CosmicMarioShort' : isCosmic ? 'CosmicMarioBitFlip' : isShort ? 'FiveHundredMileShort' : 'FiveHundredMileEmail');
+const isGravity = process.argv.includes('--gravity') || process.env.COMP_ID === 'GravityEnergy';
+const COMP_ID = process.env.COMP_ID || (isGravity ? 'GravityEnergy' : isCosmicShort ? 'CosmicMarioShort' : isCosmic ? 'CosmicMarioBitFlip' : isShort ? 'FiveHundredMileShort' : 'FiveHundredMileEmail');
 
 const chunksDir = path.join(outRoot, `chunks-${COMP_ID}`);
 const minPublic = path.resolve('temp/public-slim');
 fs.mkdirSync(chunksDir, { recursive: true });
 fs.mkdirSync(path.join(minPublic, 'email500'), { recursive: true });
 fs.mkdirSync(path.join(minPublic, 'cosmic'), { recursive: true });
+fs.mkdirSync(path.join(minPublic, 'gravity'), { recursive: true });
 console.log(`Composition: ${COMP_ID} | Output root: ${outRoot} | Concurrency: ${CONCURRENCY} | Chunk size: ${CHUNK_SIZE || 'SINGLE-PASS (no chunks)'}`);
 
 // Copy only the assets needed by the active composition (~65 MB instead of 880 MB)
@@ -36,7 +38,12 @@ const copyIfNewer = (src, dst) => {
   }
 };
 copyIfNewer('public/theboldfont.ttf', path.join(minPublic, 'theboldfont.ttf'));
-if (COMP_ID === 'CosmicMarioBitFlip' || COMP_ID === 'CosmicMarioShort') {
+if (COMP_ID === 'GravityEnergy') {
+  copyIfNewer('public/gravity/voiceover.wav', path.join(minPublic, 'gravity/voiceover.wav'));
+  copyIfNewer('public/gravity/spacetime-well.jpg', path.join(minPublic, 'gravity/spacetime-well.jpg'));
+  copyIfNewer('public/gravity/blackhole-waves.jpg', path.join(minPublic, 'gravity/blackhole-waves.jpg'));
+  copyIfNewer('public/gravity/nebula-collapse.jpg', path.join(minPublic, 'gravity/nebula-collapse.jpg'));
+} else if (COMP_ID === 'CosmicMarioBitFlip' || COMP_ID === 'CosmicMarioShort') {
   copyIfNewer('public/cosmic/voiceover.wav', path.join(minPublic, 'cosmic/voiceover.wav'));
   copyIfNewer('public/cosmic/short-voiceover.wav', path.join(minPublic, 'cosmic/short-voiceover.wav'));
   copyIfNewer('public/cosmic/mario-upwarp.png', path.join(minPublic, 'cosmic/mario-upwarp.png'));
