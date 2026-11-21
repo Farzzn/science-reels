@@ -64,6 +64,7 @@ import {
 } from "./CosmicMario/Short";
 import { CosmicThumbnail } from "./CosmicMario/Thumbnail";
 import { GRAVITY_ENERGY_FRAMES, GravityEnergy } from "./GravityEnergy";
+import { GRAVITY_SHORT_FRAMES, GravityEnergyShort } from "./GravityEnergy/Short";
 import { GravityThumbnail } from "./GravityEnergy/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
@@ -71,6 +72,14 @@ import { GravityThumbnail } from "./GravityEnergy/Thumbnail";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="GravityEnergyShort"
+        component={GravityEnergyShort}
+        durationInFrames={GRAVITY_SHORT_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
       <Composition
         id="GravityEnergy"
         component={GravityEnergy}
