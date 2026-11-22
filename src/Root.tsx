@@ -67,6 +67,7 @@ import { GRAVITY_ENERGY_FRAMES, GravityEnergy } from "./GravityEnergy";
 import { GRAVITY_SHORT_FRAMES, GravityEnergyShort } from "./GravityEnergy/Short";
 import { GravityThumbnail } from "./GravityEnergy/Thumbnail";
 import { CASIMIR_EFFECT_FRAMES, CasimirEffect } from "./CasimirEffect";
+import { CASIMIR_SHORT_FRAMES, CasimirEffectShort } from "./CasimirEffect/Short";
 import { CasimirThumbnail } from "./CasimirEffect/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
@@ -74,6 +75,14 @@ import { CasimirThumbnail } from "./CasimirEffect/Thumbnail";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="CasimirEffectShort"
+        component={CasimirEffectShort}
+        durationInFrames={CASIMIR_SHORT_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
       <Composition
         id="CasimirEffect"
         component={CasimirEffect}
