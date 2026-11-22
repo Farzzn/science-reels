@@ -1,0 +1,59 @@
+{
+  "total": 748.165,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "Cold Open",
+      "start": 0.4,
+      "end": 83.023
+    },
+    {
+      "id": "ch1",
+      "title": "The 1948 Paint-Lab Accident",
+      "start": 83.873,
+      "end": 155.021
+    },
+    {
+      "id": "ch2",
+      "title": "Why Empty Space Is Never Quiet",
+      "start": 155.871,
+      "end": 247.86
+    },
+    {
+      "id": "ch3",
+      "title": "Guitar Strings Between Two Mirrors",
+      "start": 248.71,
+      "end": 343.357
+    },
+    {
+      "id": "ch4",
+      "title": "Why Isn't the Force Infinite?",
+      "start": 344.207,
+      "end": 443.438
+    },
+    {
+      "id": "ch5",
+      "title": "Heat, Roughness, and the 1997 Breakthrough",
+      "start": 444.288,
+      "end": 541.042
+    },
+    {
+      "id": "ch6",
+      "title": "Vacuum Pressure or van der Waals?",
+      "start": 541.892,
+      "end": 634.222
+    },
+    {
+      "id": "ch7",
+      "title": "Sticking Microchips and Reverse Levitation",
+      "start": 635.072,
+      "end": 713.717
+    },
+    {
+      "id": "ch8",
+      "title": "The Rules of Empty Space",
+      "start": 714.567,
+      "end": 746.765
+    }
+  ]
+}
