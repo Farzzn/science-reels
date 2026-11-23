@@ -1,0 +1,13 @@
+Quantum tunneling is supposed to happen only inside invisible atoms.
+
+Yet the 2025 Nobel Prize in Physics honored a circuit big enough to hold in your hand.
+
+Cool a superconducting chip close to absolute zero, and billions of electrons lock into one synchronized quantum wave.
+
+Send current through a tiny barrier inside the chip, and that collective state gets trapped at strictly zero voltage — like a marble stuck behind a hill.
+
+Then, with zero added energy, the entire circuit tunnels straight through the hill and snaps into a live voltage spike.
+
+Even wilder: hit it with microwaves, and that hand-sized chip absorbs energy in uneven quantum rungs — the exact physics powering modern superconducting quantum computers.
+
+I broke down the full experiment — copper-powder shields, the magnetic-field proof, and how qubits work — in the full video on my channel.
