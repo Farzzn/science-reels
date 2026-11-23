@@ -69,12 +69,23 @@ import { GravityThumbnail } from "./GravityEnergy/Thumbnail";
 import { CASIMIR_EFFECT_FRAMES, CasimirEffect } from "./CasimirEffect";
 import { CASIMIR_SHORT_FRAMES, CasimirEffectShort } from "./CasimirEffect/Short";
 import { CasimirThumbnail } from "./CasimirEffect/Thumbnail";
+import { MACRO_TUNNEL_FRAMES, MacroscopicTunneling } from "./MacroscopicTunneling";
+import { MacroscopicThumbnail } from "./MacroscopicTunneling/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="MacroscopicTunneling"
+        component={MacroscopicTunneling}
+        durationInFrames={MACRO_TUNNEL_FRAMES}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Still id="MacroscopicThumbnail" component={MacroscopicThumbnail} width={1920} height={1080} />
       <Composition
         id="CasimirEffectShort"
         component={CasimirEffectShort}

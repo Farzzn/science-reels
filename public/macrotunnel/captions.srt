@@ -1,0 +1,991 @@
+1
+00:00:00,440 --> 00:00:02,910
+Throw a tennis ball at a brick wall,
+
+2
+00:00:02,770 --> 00:00:05,500
+and you already know how the story ends.
+
+3
+00:00:05,400 --> 00:00:08,610
+It bounces back, every single time.
+
+4
+00:00:08,520 --> 00:00:12,600
+In the subatomic world, though, those rules break.
+
+5
+00:00:12,480 --> 00:00:15,880
+An electron or a radioactive particle can act
+
+6
+00:00:15,730 --> 00:00:18,460
+like a wave and slip straight through a
+
+7
+00:00:18,310 --> 00:00:22,240
+solid energy barrier it has no business crossing
+
+8
+00:00:22,130 --> 00:00:24,600
+a phenomenon called quantum tunneling.
+
+9
+00:00:25,290 --> 00:00:29,630
+For decades, physicists assumed that trick belonged exclusively
+
+10
+00:00:29,480 --> 00:00:32,770
+to single atoms and invisible particles.
+
+11
+00:00:32,660 --> 00:00:36,300
+Then, the twenty twenty-five Nobel Prize in Physics
+
+12
+00:00:36,150 --> 00:00:39,950
+honored an experiment that shattered that boundary.
+
+13
+00:00:40,040 --> 00:00:42,900
+Using a superconducting electrical circuit on a chip
+
+14
+00:00:42,750 --> 00:00:44,510
+big enough to hold in the palm of
+
+15
+00:00:44,360 --> 00:00:48,470
+your hand, three physicists watched an entire circuit
+
+16
+00:00:48,370 --> 00:00:52,560
+sitting calmly at zero voltage suddenly tunnel straight
+
+17
+00:00:52,410 --> 00:00:55,140
+through a barrier and snap into a voltage
+
+18
+00:00:54,990 --> 00:00:58,540
+state behaving, all at once, like a single
+
+19
+00:00:58,390 --> 00:00:59,277
+giant atom.
+
+20
+00:00:59,977 --> 00:01:03,400
+Wait why can't a tennis ball tunnel through
+
+21
+00:01:03,250 --> 00:01:05,260
+a wall in the first place?
+
+22
+00:01:05,400 --> 00:01:09,370
+Because a tennis ball isn't one quantum object.
+
+23
+00:01:09,300 --> 00:01:12,240
+It is trillions of trillions of atoms all
+
+24
+00:01:12,090 --> 00:01:16,370
+vibrating, colliding, and jiggling out of sync.
+
+25
+00:01:16,400 --> 00:01:18,710
+Even if one atom tries to act like
+
+26
+00:01:18,560 --> 00:01:22,020
+a wave, its neighbors instantly scramble it.
+
+27
+00:01:21,900 --> 00:01:24,790
+To see quantum behavior at human scale, you
+
+28
+00:01:24,640 --> 00:01:28,090
+somehow need billions of particles to stop acting
+
+29
+00:01:27,940 --> 00:01:31,250
+like a chaotic crowd and start moving like
+
+30
+00:01:31,100 --> 00:01:33,590
+a single synchronized dancer.
+
+31
+00:01:33,720 --> 00:01:36,060
+That is what happens inside a superconductor.
+
+32
+00:01:36,880 --> 00:01:39,790
+Cool a metal like niobium close to absolute
+
+33
+00:01:39,640 --> 00:01:44,860
+zero, and electrons stop bouncing off the crystal
+
+34
+00:01:44,710 --> 00:01:45,770
+lattice.
+
+35
+00:01:47,050 --> 00:01:47,850
+Instead, they bind together into Cooper pairs.
+
+36
+00:01:47,760 --> 00:01:51,320
+And here is the magic: unlike ordinary electrons
+
+37
+00:01:51,170 --> 00:01:54,070
+that refuse to share the same state, billions
+
+38
+00:01:53,920 --> 00:01:56,830
+of Cooper pairs drop into the exact same
+
+39
+00:01:56,680 --> 00:02:00,550
+quantum wave, marching in total lockstep across the
+
+40
+00:02:00,400 --> 00:02:01,160
+whole chip.
+
+41
+00:02:01,480 --> 00:02:05,310
+Now, back in nineteen sixty-two, Brian Josephson already
+
+42
+00:02:05,160 --> 00:02:09,060
+proved that individual Cooper pairs can tunnel across
+
+43
+00:02:08,910 --> 00:02:12,230
+a razor-thin insulating gap between two superconductors.
+
+44
+00:02:13,140 --> 00:02:16,540
+That was microscopic tunneling one pair at a
+
+45
+00:02:16,390 --> 00:02:17,120
+time.
+
+46
+00:02:17,040 --> 00:02:21,740
+In nineteen eighty, theorist Anthony Leggett asked something
+
+47
+00:02:21,590 --> 00:02:25,080
+far bolder: could the entire electrical state of
+
+48
+00:02:24,930 --> 00:02:28,030
+the whole circuit billions of pairs locked together
+
+49
+00:02:27,880 --> 00:02:31,810
+as one single variable tunnel straight through a
+
+50
+00:02:31,660 --> 00:02:32,586
+barrier all at once?
+
+51
+00:02:33,400 --> 00:02:36,610
+To test Leggett's challenge, you need a way
+
+52
+00:02:36,460 --> 00:02:39,410
+to trap that collective wave and watch it
+
+53
+00:02:39,260 --> 00:02:40,950
+escape.
+
+54
+00:02:40,840 --> 00:02:44,980
+The centerpiece is a Josephson junction: two superconducting
+
+55
+00:02:45,200 --> 00:02:49,440
+metal strips crossing over an insulating oxide sheet
+
+56
+00:02:49,830 --> 00:02:52,660
+only a few atoms thick, forming a tiny
+
+57
+00:02:52,510 --> 00:02:56,550
+square about a tenth the width of a
+
+58
+00:02:56,400 --> 00:02:57,150
+human hair.
+
+59
+00:02:57,440 --> 00:03:00,810
+Inside that junction, the billions of synchronized Cooper
+
+60
+00:03:00,660 --> 00:03:05,280
+pairs share one single electrical property the phase
+
+61
+00:03:05,130 --> 00:03:07,720
+difference across the gap.
+
+62
+00:03:07,720 --> 00:03:10,190
+And here is the clearest way to picture
+
+63
+00:03:10,040 --> 00:03:13,860
+how that phase behaves: imagine a marble sitting
+
+64
+00:03:13,710 --> 00:03:17,750
+inside a bumpy washboard of hills and valleys.
+
+65
+00:03:17,680 --> 00:03:20,890
+When no current flows, the washboard lies flat,
+
+66
+00:03:21,060 --> 00:03:23,630
+and the marble sits peacefully at the bottom
+
+67
+00:03:23,480 --> 00:03:24,160
+of a valley.
+
+68
+00:03:24,400 --> 00:03:28,550
+Now slowly dial up a steady electric current
+
+69
+00:03:28,400 --> 00:03:30,330
+through the circuit.
+
+70
+00:03:30,280 --> 00:03:34,160
+As the current climbs up toward just under
+
+71
+00:03:34,460 --> 00:03:38,145
+ten microamps the entire washboard tilts.
+
+72
+00:03:38,440 --> 00:03:41,080
+Look closely at what happens to the valley:
+
+73
+00:03:41,000 --> 00:03:43,740
+the hill in front of the marble gets
+
+74
+00:03:43,590 --> 00:03:46,790
+shorter and thinner, but it is still a
+
+75
+00:03:46,640 --> 00:03:48,110
+real barrier.
+
+76
+00:03:48,040 --> 00:03:50,270
+As long as the marble stays trapped inside
+
+77
+00:03:50,120 --> 00:03:53,190
+that pocket, the phase cannot move, and the
+
+78
+00:03:53,040 --> 00:03:56,700
+voltage across the chip stays strictly zero.
+
+79
+00:03:56,833 --> 00:04:00,730
+Current glides right through with zero voltage drop.
+
+80
+00:04:00,640 --> 00:04:03,900
+But the exact microsecond that marble escapes its
+
+81
+00:04:03,750 --> 00:04:07,480
+pocket, it starts tumbling rapidly down the tilted
+
+82
+00:04:07,330 --> 00:04:11,350
+hills and suddenly, a sharp measurable voltage snaps
+
+83
+00:04:11,200 --> 00:04:12,247
+onto the wires.
+
+84
+00:04:13,040 --> 00:04:16,550
+Sounds clean on paper so why didn't anyone
+
+85
+00:04:16,400 --> 00:04:18,510
+prove it immediately?
+
+86
+00:04:18,560 --> 00:04:22,270
+Actually, in nineteen eighty-one, researchers at IBM saw
+
+87
+00:04:22,120 --> 00:04:26,180
+tantalizing hints that a junction kept switching even
+
+88
+00:04:26,030 --> 00:04:28,120
+at ultra-low temperatures.
+
+89
+00:04:28,270 --> 00:04:30,860
+But skeptics had a brutal objection.
+
+90
+00:04:30,880 --> 00:04:33,880
+Your chip might be sitting near absolute zero,
+
+91
+00:04:33,800 --> 00:04:36,710
+yet metal wires still have to run down
+
+92
+00:04:36,560 --> 00:04:39,970
+from your room-temperature laboratory to measure it.
+
+93
+00:04:40,080 --> 00:04:44,520
+Every warm wire radiates invisible room-temperature microwaves.
+
+94
+00:04:44,640 --> 00:04:46,910
+Those stray ripples can race straight down the
+
+95
+00:04:46,760 --> 00:04:49,830
+cable and violently kick the marble right over
+
+96
+00:04:49,680 --> 00:04:52,890
+the top of the hill perfectly mimicking quantum
+
+97
+00:04:52,740 --> 00:04:56,570
+tunneling when nothing quantum happened at all.
+
+98
+00:04:56,480 --> 00:04:59,810
+In nineteen eighty-four at UC Berkeley, professor John
+
+99
+00:04:59,660 --> 00:05:03,500
+Clarke, postdoc Michel Devoret, and PhD student John
+
+100
+00:05:03,655 --> 00:05:06,960
+Martinis decided to eliminate every possible excuse.
+
+101
+00:05:07,450 --> 00:05:10,690
+First, they built an ingenious shield right into
+
+102
+00:05:10,540 --> 00:05:13,910
+the cold wiring: tiny tubes packed solid with
+
+103
+00:05:13,760 --> 00:05:16,300
+microscopic insulated copper powder.
+
+104
+00:05:16,750 --> 00:05:20,440
+Smooth direct current glided right through, while stray
+
+105
+00:05:20,290 --> 00:05:24,440
+high-frequency microwaves smashed into millions of conductive copper
+
+106
+00:05:24,290 --> 00:05:26,670
+grains and died out completely.
+
+107
+00:05:26,590 --> 00:05:30,080
+Second, before cooling into the quantum zone, they
+
+108
+00:05:29,930 --> 00:05:33,660
+measured every single electrical property of their junction
+
+109
+00:05:33,510 --> 00:05:36,220
+right inside the warm classical regime.
+
+110
+00:05:36,240 --> 00:05:39,110
+That left zero adjustable fudge factors.
+
+111
+00:05:39,130 --> 00:05:41,710
+Once the chip got cold, quantum theory made
+
+112
+00:05:41,560 --> 00:05:46,710
+one rigid, unchangeable prediction either nature hit the
+
+113
+00:05:46,560 --> 00:05:47,424
+bullseye, or it didn't.
+
+114
+00:05:48,440 --> 00:05:51,700
+Then they fired up the dilution refrigerator and
+
+115
+00:05:51,550 --> 00:05:55,340
+watched the marble escape, thousands of times in
+
+116
+00:05:55,190 --> 00:05:56,370
+a row.
+
+117
+00:05:56,320 --> 00:05:59,337
+When the chip was relatively warm around a
+
+118
+00:05:59,278 --> 00:06:02,860
+hundred millikelvin heat energy rattled the marble until
+
+119
+00:06:02,710 --> 00:06:05,180
+it hopped over the top of the hill.
+
+120
+00:06:05,110 --> 00:06:08,523
+Cool the fridge down, and the thermal rattle
+
+121
+00:06:08,722 --> 00:06:11,870
+shrinks, so escapes get dramatically rarer.
+
+122
+00:06:12,160 --> 00:06:14,460
+On a chart of the circuit's effective escape
+
+123
+00:06:14,310 --> 00:06:17,940
+temperature against the fridge's actual temperature, the data
+
+124
+00:06:17,790 --> 00:06:21,430
+marched cleanly down a straight diagonal line.
+
+125
+00:06:21,280 --> 00:06:22,920
+Until thirty millikelvin.
+
+126
+00:06:23,760 --> 00:06:26,590
+Right there, the curve broke away and went
+
+127
+00:06:26,440 --> 00:06:27,580
+completely flat.
+
+128
+00:06:27,640 --> 00:06:30,460
+Even as they chilled the refrigerator all the
+
+129
+00:06:30,310 --> 00:06:33,747
+way down to nineteen millikelvin more than a
+
+130
+00:06:33,718 --> 00:06:36,930
+hundred times colder than deep space the circuit
+
+131
+00:06:36,780 --> 00:06:39,680
+kept escaping as if stuck at thirty-seven millikelvin,
+
+132
+00:06:40,190 --> 00:06:45,020
+landing squarely on the zero-parameter quantum tunneling prediction.
+
+133
+00:06:45,240 --> 00:06:50,410
+Still, a great experimentalist never stops there.
+
+134
+00:06:50,320 --> 00:06:53,160
+What if the thermometer was lying, or stray
+
+135
+00:06:53,010 --> 00:06:56,000
+noise was still heating the chip to thirty-seven
+
+136
+00:06:55,850 --> 00:06:56,390
+millikelvin?
+
+137
+00:06:56,570 --> 00:07:00,010
+In nineteen eighty-five, the Berkeley team pulled off
+
+138
+00:06:59,860 --> 00:07:01,350
+a checkmate control test.
+
+139
+00:07:01,300 --> 00:07:04,200
+They turned on a gentle magnetic field across
+
+140
+00:07:04,050 --> 00:07:04,610
+the chip.
+
+141
+00:07:04,660 --> 00:07:08,160
+That magnetic field lowered the junction's critical current,
+
+142
+00:07:08,390 --> 00:07:11,850
+pushing the predicted quantum crossover below nineteen millikelvin.
+
+143
+00:07:12,600 --> 00:07:16,430
+Instantly, the flat plateau vanished and the escape
+
+144
+00:07:16,280 --> 00:07:19,190
+rate dropped straight back down to nineteen millikelvin,
+
+145
+00:07:19,680 --> 00:07:20,980
+matching the thermometer.
+
+146
+00:07:21,560 --> 00:07:23,340
+There was no hidden noise floor.
+
+147
+00:07:23,400 --> 00:07:28,070
+The entire macroscopic circuit was genuinely tunneling straight
+
+148
+00:07:27,920 --> 00:07:28,974
+through the barrier.
+
+149
+00:07:29,674 --> 00:07:33,870
+Yet Clarke, Devoret, and Martinis went one giant
+
+150
+00:07:33,720 --> 00:07:35,140
+step further.
+
+151
+00:07:35,180 --> 00:07:37,780
+If billions of Cooper pairs trapped in that
+
+152
+00:07:37,630 --> 00:07:41,390
+valley truly behave as one quantum particle, tunneling
+
+153
+00:07:41,560 --> 00:07:44,730
+isn't the only signature you should see.
+
+154
+00:07:44,880 --> 00:07:47,650
+Inside an atom, an electron cannot hold just
+
+155
+00:07:47,500 --> 00:07:51,120
+any arbitrary amount of energy it can only
+
+156
+00:07:50,970 --> 00:07:55,220
+occupy discrete, quantized rungs on an energy ladder.
+
+157
+00:07:55,200 --> 00:07:58,450
+So in a companion nineteen eighty-five experiment, the
+
+158
+00:07:58,300 --> 00:08:02,235
+Berkeley team aimed gentle microwaves at two gigahertz
+
+159
+00:08:02,360 --> 00:08:04,220
+directly at the trapped circuit.
+
+160
+00:08:04,270 --> 00:08:07,150
+If the circuit were classical, it would absorb
+
+161
+00:08:07,000 --> 00:08:10,310
+energy smoothly across a broad smudge.
+
+162
+00:08:10,530 --> 00:08:14,310
+Instead, as they slowly swept the bias current,
+
+163
+00:08:14,200 --> 00:08:17,810
+the tunnel escape rate stayed quiet… and then
+
+164
+00:08:17,660 --> 00:08:21,520
+erupted in three razor-sharp resonant peaks.
+
+165
+00:08:21,640 --> 00:08:24,180
+One peak where a microwave photon kicked the
+
+166
+00:08:24,030 --> 00:08:26,320
+circuit from the ground state up to rung
+
+167
+00:08:26,170 --> 00:08:26,510
+one.
+
+168
+00:08:27,180 --> 00:08:29,810
+A second peak from rung one to rung
+
+169
+00:08:29,660 --> 00:08:30,250
+two.
+
+170
+00:08:30,160 --> 00:08:32,910
+And a third from rung two to rung
+
+171
+00:08:32,760 --> 00:08:33,640
+three.
+
+172
+00:08:33,680 --> 00:08:35,700
+Because higher rungs sit closer to the top
+
+173
+00:08:35,550 --> 00:08:38,500
+of the hill where the barrier is drastically
+
+174
+00:08:38,350 --> 00:08:41,510
+thinner, every jump made the circuit tunnel out
+
+175
+00:08:41,360 --> 00:08:45,200
+dramatically faster letting the team actually see each
+
+176
+00:08:45,050 --> 00:08:46,830
+discrete quantum level.
+
+177
+00:08:46,980 --> 00:08:51,620
+A centimeter-sized electrical circuit, etched onto silicon by
+
+178
+00:08:51,470 --> 00:08:55,780
+human hands, was absorbing light in discrete quantum
+
+179
+00:08:55,630 --> 00:08:58,640
+packets just like a single hydrogen atom.
+
+180
+00:08:58,840 --> 00:09:02,890
+Humanity had built its first macroscopic artificial atom.
+
+181
+00:09:02,900 --> 00:09:05,340
+If watching a hand-sized chip act like a
+
+182
+00:09:05,190 --> 00:09:08,000
+single giant atom just blew your mind, take
+
+183
+00:09:07,850 --> 00:09:10,150
+a second to hit that like button because
+
+184
+00:09:10,060 --> 00:09:13,110
+hidden inside those three peaks is the exact
+
+185
+00:09:12,960 --> 00:09:16,399
+reason modern quantum computers exist at all.
+
+186
+00:09:17,280 --> 00:09:20,130
+Look back closely at those three peaks from
+
+187
+00:09:20,340 --> 00:09:23,390
+nineteen eighty-five, because hidden inside them is the
+
+188
+00:09:23,240 --> 00:09:28,890
+exact reason modern superconducting quantum computers exist at
+
+189
+00:09:28,740 --> 00:09:29,080
+all.
+
+190
+00:09:29,160 --> 00:09:31,100
+Suppose you tried to build a quantum bit
+
+191
+00:09:30,950 --> 00:09:35,200
+out of an ordinary superconducting coil and capacitor
+
+192
+00:09:35,140 --> 00:09:37,190
+a classic linear circuit.
+
+193
+00:09:37,280 --> 00:09:39,900
+Even if you cooled it near absolute zero,
+
+194
+00:09:39,780 --> 00:09:42,840
+its energy valley is a perfectly symmetric bowl,
+
+195
+00:09:43,210 --> 00:09:46,000
+which means every single rung on its ladder
+
+196
+00:09:45,850 --> 00:09:48,380
+is spaced by the exact same energy gap.
+
+197
+00:09:48,730 --> 00:09:51,790
+Try sending a microwave pulse to flip your
+
+198
+00:09:51,640 --> 00:09:54,550
+bit cleanly from zero to one, and that
+
+199
+00:09:54,400 --> 00:09:57,680
+exact same pulse will immediately kick it from
+
+200
+00:09:57,530 --> 00:09:59,770
+one to two, and two to three.
+
+201
+00:09:59,680 --> 00:10:03,775
+You can never isolate a clean two-level qubit.
+
+202
+00:10:03,880 --> 00:10:07,050
+A Josephson junction breaks that symmetry.
+
+203
+00:10:07,120 --> 00:10:10,400
+Because its energy valley curves unevenly, the spacing
+
+204
+00:10:10,250 --> 00:10:12,610
+between rungs shrinks as you climb.
+
+205
+00:10:12,770 --> 00:10:15,270
+The jump from zero to one takes a
+
+206
+00:10:15,120 --> 00:10:18,600
+slightly different microwave frequency than the jump from
+
+207
+00:10:18,450 --> 00:10:19,280
+one to two.
+
+208
+00:10:19,430 --> 00:10:23,030
+That tiny mismatch is pure gold: it lets
+
+209
+00:10:22,880 --> 00:10:26,780
+engineers tune a microwave pulse that talks exclusively
+
+210
+00:10:26,630 --> 00:10:29,510
+to zero and one while ignoring every higher
+
+211
+00:10:29,360 --> 00:10:30,570
+state completely.
+
+212
+00:10:31,870 --> 00:10:35,770
+Over the next decades, physicists turned that Berkeley
+
+213
+00:10:35,620 --> 00:10:39,490
+artificial atom into full quantum bits from early
+
+214
+00:10:39,340 --> 00:10:43,170
+Cooper-pair boxes in nineteen ninety-nine, to John Martinis's
+
+215
+00:10:43,200 --> 00:10:47,700
+phase qubits, to the transmon architecture Michel Devoret
+
+216
+00:10:47,560 --> 00:10:50,430
+helped pioneer at Yale in two thousand seven,
+
+217
+00:10:50,280 --> 00:10:53,910
+which powers today's leading superconducting quantum processors.
+
+218
+00:10:54,780 --> 00:10:57,890
+There is one last crucial twist that keeps
+
+219
+00:10:57,740 --> 00:11:00,000
+this physics grounded in reality.
+
+220
+00:11:00,000 --> 00:11:04,365
+In their follow-up tests, Clarke, Devoret, and Martinis
+
+221
+00:11:04,440 --> 00:11:08,325
+also verified a haunting prediction by Amir Caldeira
+
+222
+00:11:08,210 --> 00:11:11,980
+and Anthony Leggett: connect even a tiny trace
+
+223
+00:11:11,830 --> 00:11:15,790
+of electrical friction ordinary resistance to the junction,
+
+224
+00:11:15,790 --> 00:11:19,730
+and the environment continuously eavesdrops on the phase
+
+225
+00:11:19,580 --> 00:11:20,100
+state.
+
+226
+00:11:20,200 --> 00:11:23,800
+Like dragging that marble through thick honey, dissipation
+
+227
+00:11:24,160 --> 00:11:27,800
+chokes off macroscopic tunneling exponentially.
+
+228
+00:11:27,710 --> 00:11:30,780
+That is why the quantum world feels invisible
+
+229
+00:11:30,630 --> 00:11:34,140
+in everyday life, and why modern quantum computers
+
+230
+00:11:33,990 --> 00:11:38,310
+still hang inside massive golden dilution refrigerators cooled
+
+231
+00:11:38,160 --> 00:11:42,950
+below fifteen millikelvin, fighting every stray photon, magnetic
+
+232
+00:11:42,800 --> 00:11:45,480
+ripple, and microscopic chip defect.
+
+233
+00:11:45,480 --> 00:11:49,600
+The nineteen eighty-five Berkeley experiment didn't magically put
+
+234
+00:11:49,450 --> 00:11:52,800
+a baseball in two places at once later
+
+235
+00:11:52,650 --> 00:11:55,840
+experiments in two thousand pushed even further into
+
+236
+00:11:55,690 --> 00:11:58,690
+macroscopic superpositions of opposing currents.
+
+237
+00:11:58,690 --> 00:12:02,400
+What Clarke, Devoret, and Martinis proved and what
+
+238
+00:12:02,250 --> 00:12:05,090
+earned the twenty twenty-five Nobel Prize in Physics
+
+239
+00:12:05,080 --> 00:12:06,420
+is something deeper.
+
+240
+00:12:07,000 --> 00:12:09,670
+Quantum mechanics does not expire at the edge
+
+241
+00:12:09,520 --> 00:12:10,250
+of an atom.
+
+242
+00:12:10,400 --> 00:12:14,130
+The wall separating the quantum world from objects
+
+243
+00:12:13,980 --> 00:12:16,010
+you can hold in your hand was never
+
+244
+00:12:15,860 --> 00:12:17,430
+a law of nature.
+
+245
+00:12:17,390 --> 00:12:18,540
+It was just noise.
+
+246
+00:12:18,610 --> 00:12:22,150
+If you enjoy deep, visual physics breakdowns like
+
+247
+00:12:22,000 --> 00:12:24,350
+this, hit subscribe so you don't miss the
+
+248
+00:12:24,200 --> 00:12:25,740
+next one I'll see you there.

@@ -1,0 +1,53 @@
+{
+  "total": 747.168,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "Cold Open",
+      "start": 0.4,
+      "end": 59.127
+    },
+    {
+      "id": "ch1",
+      "title": "Billions Moving as One",
+      "start": 59.977,
+      "end": 152.436
+    },
+    {
+      "id": "ch2",
+      "title": "The Tilted Washboard",
+      "start": 153.286,
+      "end": 252.097
+    },
+    {
+      "id": "ch3",
+      "title": "The Saboteur in the Wires",
+      "start": 252.947,
+      "end": 347.274
+    },
+    {
+      "id": "ch4",
+      "title": "Tunneling Through the Hill",
+      "start": 348.124,
+      "end": 448.824
+    },
+    {
+      "id": "ch5",
+      "title": "The First Artificial Atom",
+      "start": 449.674,
+      "end": 556.249
+    },
+    {
+      "id": "ch6",
+      "title": "Why Uneven Rungs Built Qubits",
+      "start": 557.099,
+      "end": 653.93
+    },
+    {
+      "id": "ch7",
+      "title": "The Fragile Edge of Reality",
+      "start": 654.78,
+      "end": 745.768
+    }
+  ]
+}
