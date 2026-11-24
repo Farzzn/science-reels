@@ -72,12 +72,23 @@ import { CasimirThumbnail } from "./CasimirEffect/Thumbnail";
 import { MACRO_TUNNEL_FRAMES, MacroscopicTunneling } from "./MacroscopicTunneling";
 import { MACRO_TUNNEL_SHORT_FRAMES, MacroscopicTunnelingShort } from "./MacroscopicTunneling/Short";
 import { MacroscopicThumbnail } from "./MacroscopicTunneling/Thumbnail";
+import { REL_BONDS_FRAMES, RelativityChemicalBonds } from "./RelativityBonds";
+import { RelativityBondsThumbnail } from "./RelativityBonds/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="RelativityChemicalBonds"
+        component={RelativityChemicalBonds}
+        durationInFrames={REL_BONDS_FRAMES}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Still id="RelativityBondsThumbnail" component={RelativityBondsThumbnail} width={1920} height={1080} />
       <Composition
         id="MacroscopicTunnelingShort"
         component={MacroscopicTunnelingShort}

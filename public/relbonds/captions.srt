@@ -1,0 +1,871 @@
+1
+00:00:00,400 --> 00:00:03,590
+Open any chemistry textbook on Earth, and you'll
+
+2
+00:00:03,440 --> 00:00:06,750
+find one rule treated like sacred law: a
+
+3
+00:00:06,600 --> 00:00:09,480
+triple chemical bond is always built out of
+
+4
+00:00:09,330 --> 00:00:13,110
+one head-on sigma bond, and two side-by-side pi
+
+5
+00:00:12,960 --> 00:00:14,150
+bonds.
+
+6
+00:00:14,000 --> 00:00:16,870
+Simple, tidy, and completely separate.
+
+7
+00:00:17,000 --> 00:00:20,890
+Yet in twenty twenty-six, a breakthrough study published
+
+8
+00:00:20,740 --> 00:00:23,830
+in the journal Science caught a real molecule
+
+9
+00:00:23,680 --> 00:00:25,820
+flat-out breaking that rule.
+
+10
+00:00:26,000 --> 00:00:29,560
+When chemists replaced a light atom inside a
+
+11
+00:00:29,410 --> 00:00:33,760
+classic triple bond with super-heavy bismuth, the clean
+
+12
+00:00:33,610 --> 00:00:36,600
+boundary between sigma and pi bonds didn't just
+
+13
+00:00:36,450 --> 00:00:38,870
+bend it collapsed completely.
+
+14
+00:00:39,000 --> 00:00:42,010
+And the culprit wasn't some exotic new force
+
+15
+00:00:41,860 --> 00:00:42,850
+of chemistry.
+
+16
+00:00:43,000 --> 00:00:47,150
+It was Albert Einstein's theory of special relativity
+
+17
+00:00:47,000 --> 00:00:50,690
+quietly reaching right inside a laboratory molecule and
+
+18
+00:00:50,540 --> 00:00:53,379
+rewriting the rules of chemical bonding.
+
+19
+00:00:54,170 --> 00:00:58,670
+Wait why on Earth would Einstein's relativity show
+
+20
+00:00:58,520 --> 00:01:00,830
+up inside a tiny molecule?
+
+21
+00:01:01,000 --> 00:01:04,650
+We usually associate relativity with GPS satellites, black
+
+22
+00:01:04,500 --> 00:01:08,620
+holes, or spaceships blasting through the cosmos.
+
+23
+00:01:09,000 --> 00:01:11,920
+Inside a light atom like carbon, which has
+
+24
+00:01:11,770 --> 00:01:15,910
+only six protons, that intuition is completely fine.
+
+25
+00:01:16,000 --> 00:01:18,890
+Its innermost electrons cruise at barely four percent
+
+26
+00:01:18,740 --> 00:01:21,280
+the speed of light way too slow for
+
+27
+00:01:21,130 --> 00:01:22,840
+relativity to matter.
+
+28
+00:01:23,000 --> 00:01:25,780
+Now march down toward the bottom of the
+
+29
+00:01:25,630 --> 00:01:27,150
+periodic table.
+
+30
+00:01:27,030 --> 00:01:31,480
+Pack seventy-nine protons into a gold nucleus, or
+
+31
+00:01:31,507 --> 00:01:32,975
+eighty-three into bismuth.
+
+32
+00:01:33,000 --> 00:01:37,690
+That gigantic positive charge yanks the inner electrons
+
+33
+00:01:37,540 --> 00:01:39,940
+inward with ferocious electrical force.
+
+34
+00:01:40,000 --> 00:01:43,580
+To avoid plunging straight into the core, those
+
+35
+00:01:43,430 --> 00:01:46,460
+inner electrons whip around at roughly sixty percent
+
+36
+00:01:46,310 --> 00:01:47,850
+of the speed of light.
+
+37
+00:01:48,180 --> 00:01:51,470
+At sixty percent of light speed, Einstein takes
+
+38
+00:01:51,320 --> 00:01:52,020
+over.
+
+39
+00:01:52,000 --> 00:01:57,270
+Fast-moving electrons behave significantly heavier, pulling the innermost
+
+40
+00:01:57,420 --> 00:02:01,150
+spherical s orbitals tightly inward toward the nucleus.
+
+41
+00:02:01,000 --> 00:02:02,950
+And that triggers a domino effect.
+
+42
+00:02:03,000 --> 00:02:06,000
+Those shrunken inner shells now shield the nucleus
+
+43
+00:02:05,850 --> 00:02:09,450
+more effectively, weakening its pull on the outer
+
+44
+00:02:09,300 --> 00:02:13,430
+d and f orbitals which puff outward and
+
+45
+00:02:13,280 --> 00:02:14,060
+loosen up.
+
+46
+00:02:14,000 --> 00:02:17,050
+Back in nineteen twenty-eight, physicist Paul Dirac fused
+
+47
+00:02:16,900 --> 00:02:20,630
+quantum mechanics with special relativity into a single
+
+48
+00:02:20,480 --> 00:02:21,760
+electron equation.
+
+49
+00:02:22,000 --> 00:02:25,740
+For decades, most chemists assumed those relativistic quirks
+
+50
+00:02:25,590 --> 00:02:26,580
+were tiny footnotes.
+
+51
+00:02:27,500 --> 00:02:28,260
+They weren't.
+
+52
+00:02:29,000 --> 00:02:31,310
+Before we even get to the twenty twenty-six
+
+53
+00:02:31,160 --> 00:02:33,820
+discovery, look around the everyday world.
+
+54
+00:02:34,000 --> 00:02:37,390
+You have already seen Einstein's relativity with your
+
+55
+00:02:37,240 --> 00:02:37,870
+own eyes.
+
+56
+00:02:38,540 --> 00:02:39,900
+Take gold.
+
+57
+00:02:39,945 --> 00:02:43,030
+Gold sits directly beneath silver on the periodic
+
+58
+00:02:42,880 --> 00:02:46,050
+table, with almost the exact same outer electron
+
+59
+00:02:45,900 --> 00:02:46,690
+arrangement.
+
+60
+00:02:47,000 --> 00:02:50,070
+If you switch relativity off in a physics
+
+61
+00:02:49,920 --> 00:02:53,960
+simulation, gold stops being yellow it turns into
+
+62
+00:02:53,810 --> 00:02:57,790
+a cold, silvery mirror, virtually indistinguishable from silver.
+
+63
+00:02:58,000 --> 00:03:01,610
+Switch relativity back on, and gold's contracted s
+
+64
+00:03:01,460 --> 00:03:06,380
+orbital and expanded d orbital pinch closer together
+
+65
+00:03:06,230 --> 00:03:08,990
+until the gap matches the exact energy of
+
+66
+00:03:08,840 --> 00:03:09,150
+blue light.
+
+67
+00:03:09,000 --> 00:03:12,750
+Gold swallows blue photons and bounces back warm
+
+68
+00:03:12,600 --> 00:03:13,800
+yellow and red.
+
+69
+00:03:14,000 --> 00:03:17,790
+Gold is golden purely because its electrons are
+
+70
+00:03:17,640 --> 00:03:18,220
+relativistic.
+
+71
+00:03:19,000 --> 00:03:23,710
+Move just one proton heavier to mercury, and
+
+72
+00:03:23,560 --> 00:03:26,610
+relativity clamps its paired outer electrons down so
+
+73
+00:03:26,460 --> 00:03:29,460
+tightly that mercury atoms refuse to share them
+
+74
+00:03:29,310 --> 00:03:29,880
+easily.
+
+75
+00:03:30,000 --> 00:03:33,630
+Instead of locking into a solid metal, mercury
+
+76
+00:03:33,480 --> 00:03:36,880
+melts at minus thirty-nine degrees Celsius flowing as
+
+77
+00:03:36,730 --> 00:03:38,860
+a liquid at room temperature.
+
+78
+00:03:39,000 --> 00:03:42,830
+Even wilder: in twenty eleven, chemist Pekka Pyykko
+
+79
+00:03:42,680 --> 00:03:46,250
+and his colleagues calculated that roughly eighty percent
+
+80
+00:03:46,100 --> 00:03:49,450
+of the voltage inside a standard lead-acid car
+
+81
+00:03:49,300 --> 00:03:53,770
+battery comes straight from Einstein's relativity acting on
+
+82
+00:03:53,620 --> 00:03:54,890
+heavy lead atoms.
+
+83
+00:03:55,000 --> 00:03:57,960
+Without relativity, your car wouldn't even start.
+
+84
+00:03:58,000 --> 00:04:01,670
+If learning that relativity makes gold yellow and
+
+85
+00:04:01,520 --> 00:04:04,430
+starts your car just blew your mind, take
+
+86
+00:04:04,280 --> 00:04:06,760
+a second to hit that like button because
+
+87
+00:04:06,610 --> 00:04:09,470
+what chemists caught in twenty twenty-six goes even
+
+88
+00:04:09,320 --> 00:04:10,150
+deeper.
+
+89
+00:04:10,000 --> 00:04:13,830
+It breaks the textbook structure of a chemical
+
+90
+00:04:13,680 --> 00:04:14,442
+bond itself.
+
+91
+00:04:15,142 --> 00:04:18,210
+To understand what broke, we need a quick
+
+92
+00:04:18,060 --> 00:04:20,730
+look at the textbook model of a triple
+
+93
+00:04:20,580 --> 00:04:24,090
+bond like the famous cyanide ion, one carbon
+
+94
+00:04:23,940 --> 00:04:26,810
+tightly locked to one nitrogen.
+
+95
+00:04:27,530 --> 00:04:30,890
+Carbon and nitrogen share three pairs of electrons,
+
+96
+00:04:31,210 --> 00:04:34,150
+and every chemistry class splits those three bonds
+
+97
+00:04:34,000 --> 00:04:38,150
+into two strictly separate categories based on shape.
+
+98
+00:04:38,000 --> 00:04:41,140
+First comes one sigma bond.
+
+99
+00:04:41,000 --> 00:04:45,440
+Its electron cloud overlaps head-on, forming a dense,
+
+100
+00:04:45,290 --> 00:04:49,180
+symmetrical bridge straight along the line connecting the
+
+101
+00:04:49,030 --> 00:04:49,860
+two nuclei.
+
+102
+00:04:50,180 --> 00:04:54,190
+Wrapped around that central bridge sit two pi
+
+103
+00:04:54,040 --> 00:04:54,760
+bonds.
+
+104
+00:04:55,270 --> 00:04:59,050
+Instead of meeting head-on, their dumbbell-shaped orbitals lean
+
+105
+00:04:58,900 --> 00:05:02,540
+over side-by-side one cloud floating above and below
+
+106
+00:05:02,390 --> 00:05:05,590
+the axis, and the second hugging the front
+
+107
+00:05:05,440 --> 00:05:06,150
+and back.
+
+108
+00:05:06,000 --> 00:05:07,800
+One sigma, two pi.
+
+109
+00:05:08,000 --> 00:05:12,590
+In light molecules, their shapes and symmetries never
+
+110
+00:05:12,440 --> 00:05:12,800
+mix.
+
+111
+00:05:13,000 --> 00:05:15,970
+Now look straight down nitrogen's column on the
+
+112
+00:05:15,820 --> 00:05:17,090
+periodic table.
+
+113
+00:05:17,000 --> 00:05:21,960
+Below nitrogen sit phosphorus, arsenic, antimony and finally,
+
+114
+00:05:22,010 --> 00:05:25,065
+at atomic number eighty-three, heavy bismuth.
+
+115
+00:05:25,000 --> 00:05:27,850
+Swap nitrogen out for bismuth to build a
+
+116
+00:05:27,700 --> 00:05:31,860
+carbon-bismuth ion, and textbook periodic-table logic predicts the
+
+117
+00:05:31,710 --> 00:05:35,350
+exact same blueprint: a heavier triple bond with
+
+118
+00:05:35,200 --> 00:05:37,690
+one clean sigma bond and two clean pi
+
+119
+00:05:37,540 --> 00:05:37,861
+bonds.
+
+120
+00:05:38,561 --> 00:05:42,520
+Except bismuth hides a second relativistic superpower one
+
+121
+00:05:42,370 --> 00:05:45,680
+even more disruptive to chemical bonds than shrinking
+
+122
+00:05:45,530 --> 00:05:45,880
+orbitals.
+
+123
+00:05:46,000 --> 00:05:48,830
+It is called spin-orbit coupling.
+
+124
+00:05:49,000 --> 00:05:53,680
+Every electron carries an intrinsic quantum spin, which
+
+125
+00:05:53,530 --> 00:05:56,400
+makes it act like a tiny microscopic bar
+
+126
+00:05:56,250 --> 00:05:56,910
+magnet.
+
+127
+00:05:57,000 --> 00:05:59,920
+At the same time, that electron is racing
+
+128
+00:05:59,770 --> 00:06:02,950
+around the nucleus inside an electric field.
+
+129
+00:06:03,000 --> 00:06:05,580
+Now pull an Einstein trick and hop into
+
+130
+00:06:05,430 --> 00:06:07,840
+the moving electron's own point of view.
+
+131
+00:06:08,000 --> 00:06:11,280
+From the electron's seat, it isn't the one
+
+132
+00:06:11,130 --> 00:06:15,160
+moving the massive positively charged bismuth nucleus is
+
+133
+00:06:15,010 --> 00:06:16,840
+whipping around it in a circle.
+
+134
+00:06:17,000 --> 00:06:20,720
+And in physics, a moving electric charge creates
+
+135
+00:06:20,570 --> 00:06:21,830
+a magnetic field.
+
+136
+00:06:22,000 --> 00:06:26,070
+Inside light carbon or nitrogen, that internal magnetic
+
+137
+00:06:25,920 --> 00:06:29,840
+field is tiny, barely nudging the electron's spin.
+
+138
+00:06:30,000 --> 00:06:33,030
+So orbital shape and electron spin live completely
+
+139
+00:06:32,880 --> 00:06:33,910
+separate lives.
+
+140
+00:06:34,010 --> 00:06:38,410
+Inside heavy bismuth, with eighty-three protons roaring past
+
+141
+00:06:38,260 --> 00:06:43,110
+at relativistic speeds, that magnetic coupling explodes in
+
+142
+00:06:42,960 --> 00:06:45,950
+strength growing furiously with nuclear charge.
+
+143
+00:06:46,000 --> 00:06:49,670
+The electron's spin locks violently onto its orbital
+
+144
+00:06:49,520 --> 00:06:50,150
+motion.
+
+145
+00:06:50,000 --> 00:06:52,670
+And once spin and shape fuse together like
+
+146
+00:06:52,520 --> 00:06:56,150
+that, the neat textbook labels of pure sigma
+
+147
+00:06:56,000 --> 00:06:58,630
+and pure pi start to dissolve.
+
+148
+00:06:59,820 --> 00:07:04,050
+Theorists had suspected this relativistic breakdown for years,
+
+149
+00:07:04,000 --> 00:07:07,990
+but catching it directly inside a real chemical
+
+150
+00:07:07,840 --> 00:07:09,800
+bond was brutally hard.
+
+151
+00:07:10,000 --> 00:07:13,090
+In twenty twenty-six, a team led by Professor
+
+152
+00:07:13,205 --> 00:07:17,450
+Lai-Sheng Wang and PhD students Deniz Kahraman and
+
+153
+00:07:17,560 --> 00:07:22,020
+Jie Hui at Brown University working alongside computational
+
+154
+00:07:21,870 --> 00:07:25,700
+chemist Kirk Peterson at Washington State University finally
+
+155
+00:07:25,550 --> 00:07:29,290
+captured it directly and published their findings in
+
+156
+00:07:29,140 --> 00:07:29,870
+Science.
+
+157
+00:07:30,000 --> 00:07:33,610
+Inside their lab, the team blasted a bismuth-carbon
+
+158
+00:07:33,460 --> 00:07:37,705
+target with a laser to forge individual carbon-bismuth
+
+159
+00:07:37,660 --> 00:07:40,370
+ions in the gas phase, then locked them
+
+160
+00:07:40,220 --> 00:07:44,150
+inside a cryogenic trap cooled near absolute zero
+
+161
+00:07:44,000 --> 00:07:47,840
+to freeze out every shred of thermal vibration.
+
+162
+00:07:48,000 --> 00:07:51,430
+Next, they fired a precision probe laser to
+
+163
+00:07:51,280 --> 00:07:55,130
+knock individual bonding electrons straight out of the
+
+164
+00:07:54,980 --> 00:07:58,420
+molecule and measured the exact energy each electron
+
+165
+00:07:58,270 --> 00:08:03,360
+carried away a technique called cryogenic photoelectron spectroscopy.
+
+166
+00:08:04,000 --> 00:08:06,840
+Every peak in that spectrum acts like an
+
+167
+00:08:06,690 --> 00:08:10,040
+X-ray fingerprint of the chemical bonds holding the
+
+168
+00:08:09,890 --> 00:08:10,830
+atoms together.
+
+169
+00:08:11,000 --> 00:08:15,150
+When Kirk Peterson compared the lab spectrum against
+
+170
+00:08:15,000 --> 00:08:20,790
+standard non-relativistic textbook calculations, the match failed completely.
+
+171
+00:08:21,380 --> 00:08:27,330
+Only full four-component relativistic Dirac calculations landed dead-on
+
+172
+00:08:27,180 --> 00:08:28,840
+every measured peak.
+
+173
+00:08:29,000 --> 00:08:30,490
+The verdict was unmistakable.
+
+174
+00:08:31,000 --> 00:08:36,090
+Inside carbon-bismuth, the classical triple bond collapses.
+
+175
+00:08:36,000 --> 00:08:38,940
+Instead of one pure sigma bond and two
+
+176
+00:08:38,790 --> 00:08:43,080
+pure pi bonds, strong spin-orbit coupling leaves just
+
+177
+00:08:42,930 --> 00:08:45,790
+one pure pi bond while the other two
+
+178
+00:08:45,640 --> 00:08:50,461
+smear together into deeply mixed sigma-pi relativistic hybrids.
+
+179
+00:08:51,161 --> 00:08:54,420
+Now, before anyone throws away their organic chemistry
+
+180
+00:08:54,270 --> 00:08:57,850
+textbook, let's keep the science completely honest.
+
+181
+00:08:58,000 --> 00:09:00,900
+For the light elements that build life carbon,
+
+182
+00:09:01,000 --> 00:09:05,750
+hydrogen, nitrogen, and oxygen electrons stay far below
+
+183
+00:09:05,600 --> 00:09:07,150
+the speed of light.
+
+184
+00:09:07,000 --> 00:09:11,010
+Inside water, proteins, and DNA, sigma and pi
+
+185
+00:09:10,860 --> 00:09:15,150
+bonds remain razor-sharp and wonderfully reliable.
+
+186
+00:09:15,455 --> 00:09:18,480
+Relativity quietly waits at the heavy end of
+
+187
+00:09:18,330 --> 00:09:20,080
+the periodic table.
+
+188
+00:09:20,000 --> 00:09:23,585
+Once you cross into gold, mercury, lead, bismuth,
+
+189
+00:09:23,570 --> 00:09:28,090
+uranium, and the superheavy elements, classical orbital rules
+
+190
+00:09:27,940 --> 00:09:30,100
+stop telling the truth.
+
+191
+00:09:30,000 --> 00:09:32,890
+And that isn't just an academic curiosity.
+
+192
+00:09:33,000 --> 00:09:35,530
+Heavy elements sit at the heart of industrial
+
+193
+00:09:35,380 --> 00:09:40,850
+catalysts, advanced medical compounds, nuclear-waste separation where chemists
+
+194
+00:09:41,010 --> 00:09:45,180
+must tease apart nearly identical actinides, and next-generation
+
+195
+00:09:45,030 --> 00:09:50,150
+quantum materials where bismuth's fierce spin-orbit coupling drives
+
+196
+00:09:50,000 --> 00:09:51,988
+exotic topological insulators.
+
+197
+00:09:52,000 --> 00:09:56,030
+By directly measuring how relativity scrambles a triple
+
+198
+00:09:55,880 --> 00:09:58,510
+bond in the lab, chemists now have an
+
+199
+00:09:58,360 --> 00:10:03,500
+ultra-sharp benchmark to calibrate relativistic quantum models letting
+
+200
+00:10:03,350 --> 00:10:07,150
+them design heavy-element molecules using Einstein's true rules
+
+201
+00:10:07,000 --> 00:10:09,251
+rather than classical guesses.
+
+202
+00:10:10,000 --> 00:10:12,930
+We love drawing neat walls between school subjects.
+
+203
+00:10:13,000 --> 00:10:16,690
+We put atoms and chemical bonds inside chemistry
+
+204
+00:10:16,540 --> 00:10:20,150
+class, and we lock Einstein's special relativity away
+
+205
+00:10:20,000 --> 00:10:23,120
+inside astrophysics and black holes.
+
+206
+00:10:23,000 --> 00:10:26,100
+Nature never signed off on that border.
+
+207
+00:10:26,000 --> 00:10:29,560
+The exact same speed-of-light laws that bend starlight
+
+208
+00:10:30,010 --> 00:10:31,940
+and slow down clocks in orbit are actively
+
+209
+00:10:31,790 --> 00:10:34,150
+glowing off a gold ring on your finger,
+
+210
+00:10:35,000 --> 00:10:38,720
+keeping mercury liquid in a thermometer, pushing electricity
+
+211
+00:10:38,570 --> 00:10:41,550
+out of a car battery, and scrambling triple
+
+212
+00:10:41,400 --> 00:10:43,750
+bonds inside a heavy bismuth molecule.
+
+213
+00:10:44,000 --> 00:10:46,660
+Go heavy enough on the periodic table, and
+
+214
+00:10:46,510 --> 00:10:50,860
+every chemical bond becomes a miniature relativistic laboratory.
+
+215
+00:10:51,000 --> 00:10:53,420
+If you enjoy deep, visual breakdowns at the
+
+216
+00:10:53,270 --> 00:10:55,670
+edge of physics and chemistry like this, hit
+
+217
+00:10:55,520 --> 00:10:58,120
+subscribe so you don't miss the next experiment
+
+218
+00:10:58,090 --> 00:10:58,785
+I'll see you there.

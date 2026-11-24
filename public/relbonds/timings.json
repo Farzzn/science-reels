@@ -1,0 +1,53 @@
+{
+  "total": 660.035,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "Cold Open",
+      "start": 0.4,
+      "end": 53.229
+    },
+    {
+      "id": "ch1",
+      "title": "Speed-of-Light Electrons",
+      "start": 54.079,
+      "end": 148.11
+    },
+    {
+      "id": "ch2",
+      "title": "Everyday Objects Built by Einstein",
+      "start": 148.96,
+      "end": 254.292
+    },
+    {
+      "id": "ch3",
+      "title": "The Sacred Rule: Sigma and Pi",
+      "start": 255.142,
+      "end": 337.711
+    },
+    {
+      "id": "ch4",
+      "title": "The Relativistic Wildcard: Spin-Orbit Coupling",
+      "start": 338.561,
+      "end": 418.812
+    },
+    {
+      "id": "ch5",
+      "title": "Catching the Collapse in the Lab",
+      "start": 419.662,
+      "end": 530.311
+    },
+    {
+      "id": "ch6",
+      "title": "What Textbooks Still Get Right",
+      "start": 531.161,
+      "end": 609.101
+    },
+    {
+      "id": "ch7",
+      "title": "The Hidden Unity of Physics and Chemistry",
+      "start": 609.951,
+      "end": 658.635
+    }
+  ]
+}
