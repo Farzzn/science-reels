@@ -73,6 +73,7 @@ import { MACRO_TUNNEL_FRAMES, MacroscopicTunneling } from "./MacroscopicTunnelin
 import { MACRO_TUNNEL_SHORT_FRAMES, MacroscopicTunnelingShort } from "./MacroscopicTunneling/Short";
 import { MacroscopicThumbnail } from "./MacroscopicTunneling/Thumbnail";
 import { REL_BONDS_FRAMES, RelativityChemicalBonds } from "./RelativityBonds";
+import { REL_BONDS_SHORT_FRAMES, RelativityBondsShort } from "./RelativityBonds/Short";
 import { RelativityBondsThumbnail } from "./RelativityBonds/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
@@ -80,6 +81,14 @@ import { RelativityBondsThumbnail } from "./RelativityBonds/Thumbnail";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="RelativityBondsShort"
+        component={RelativityBondsShort}
+        durationInFrames={REL_BONDS_SHORT_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
       <Composition
         id="RelativityChemicalBonds"
         component={RelativityChemicalBonds}
