@@ -76,6 +76,7 @@ import { REL_BONDS_FRAMES, RelativityChemicalBonds } from "./RelativityBonds";
 import { REL_BONDS_SHORT_FRAMES, RelativityBondsShort } from "./RelativityBonds/Short";
 import { RelativityBondsThumbnail } from "./RelativityBonds/Thumbnail";
 import { COSMIC_LIMIT_FRAMES, CosmicSpeedLimit } from "./CosmicSpeedLimit";
+import { COSMIC_LIMIT_SHORT_FRAMES, CosmicSpeedLimitShort } from "./CosmicSpeedLimit/Short";
 import { CosmicSpeedLimitThumbnail } from "./CosmicSpeedLimit/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
@@ -83,6 +84,14 @@ import { CosmicSpeedLimitThumbnail } from "./CosmicSpeedLimit/Thumbnail";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="CosmicSpeedLimitShort"
+        component={CosmicSpeedLimitShort}
+        durationInFrames={COSMIC_LIMIT_SHORT_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
       <Composition
         id="CosmicSpeedLimit"
         component={CosmicSpeedLimit}
