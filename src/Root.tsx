@@ -75,12 +75,23 @@ import { MacroscopicThumbnail } from "./MacroscopicTunneling/Thumbnail";
 import { REL_BONDS_FRAMES, RelativityChemicalBonds } from "./RelativityBonds";
 import { REL_BONDS_SHORT_FRAMES, RelativityBondsShort } from "./RelativityBonds/Short";
 import { RelativityBondsThumbnail } from "./RelativityBonds/Thumbnail";
+import { ATTO_WATER_FRAMES, AttosecondWater } from "./AttosecondWater";
+import { AttosecondWaterThumbnail } from "./AttosecondWater/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="AttosecondWater"
+        component={AttosecondWater}
+        durationInFrames={ATTO_WATER_FRAMES}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Still id="AttosecondWaterThumbnail" component={AttosecondWaterThumbnail} width={1920} height={1080} />
       <Composition
         id="RelativityBondsShort"
         component={RelativityBondsShort}

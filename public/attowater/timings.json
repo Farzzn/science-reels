@@ -1,0 +1,53 @@
+{
+  "total": 774.025,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "Cold Open",
+      "start": 0.4,
+      "end": 63.196
+    },
+    {
+      "id": "ch1",
+      "title": "How Fast Is an Attosecond?",
+      "start": 64.046,
+      "end": 187.118
+    },
+    {
+      "id": "ch2",
+      "title": "The 1927 Pillar: Born and Oppenheimer",
+      "start": 187.968,
+      "end": 290.898
+    },
+    {
+      "id": "ch3",
+      "title": "The 4-Femtosecond Quantum Stopwatch",
+      "start": 291.748,
+      "end": 398.051
+    },
+    {
+      "id": "ch4",
+      "title": "November 2026: Both Bonds Snap First",
+      "start": 398.901,
+      "end": 509.289
+    },
+    {
+      "id": "ch5",
+      "title": "Freezing Atoms With Attosecond X-Rays",
+      "start": 510.139,
+      "end": 604.638
+    },
+    {
+      "id": "ch6",
+      "title": "Why This Matters: Radiotherapy and Space",
+      "start": 605.488,
+      "end": 704.916
+    },
+    {
+      "id": "ch7",
+      "title": "Beyond Frozen Chemistry",
+      "start": 705.766,
+      "end": 772.625
+    }
+  ]
+}
