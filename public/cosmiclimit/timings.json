@@ -1,0 +1,47 @@
+{
+  "total": 665.223,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "The Impossible Observation",
+      "start": 0.4,
+      "end": 66.311
+    },
+    {
+      "id": "ch1",
+      "title": "What Einstein Actually Forbade",
+      "start": 67.161,
+      "end": 156.994
+    },
+    {
+      "id": "ch2",
+      "title": "The Expanding Grid & The Rubber Band",
+      "start": 157.844,
+      "end": 271.983
+    },
+    {
+      "id": "ch3",
+      "title": "How Light Swims Upstream",
+      "start": 272.833,
+      "end": 392.225
+    },
+    {
+      "id": "ch4",
+      "title": "The Real Point of No Return",
+      "start": 393.075,
+      "end": 499.973
+    },
+    {
+      "id": "ch5",
+      "title": "Why We Can Still See 46.5 Billion Light-Years",
+      "start": 500.823,
+      "end": 589.383
+    },
+    {
+      "id": "ch6",
+      "title": "The Lonely Cosmic Future",
+      "start": 590.233,
+      "end": 663.823
+    }
+  ]
+}

@@ -1,0 +1,951 @@
+1
+00:00:00,400 --> 00:00:04,355
+Albert Einstein built modern physics on one unbreakable
+
+2
+00:00:04,560 --> 00:00:07,830
+rule: nothing in the universe can travel faster
+
+3
+00:00:07,680 --> 00:00:09,510
+than the speed of light.
+
+4
+00:00:09,360 --> 00:00:12,130
+Not a rocket, not a radio signal, not
+
+5
+00:00:11,980 --> 00:00:14,860
+even a single subatomic particle.
+
+6
+00:00:14,720 --> 00:00:18,370
+Yet right now, the James Webb Space Telescope
+
+7
+00:00:18,220 --> 00:00:22,030
+is staring straight at a real galaxy known
+
+8
+00:00:21,880 --> 00:00:29,030
+as JADES-GS-z14-0 that is racing away from Earth
+
+9
+00:00:28,880 --> 00:00:31,550
+at more than twice the speed of light.
+
+10
+00:00:31,400 --> 00:00:33,420
+And it isn't some rare glitch.
+
+11
+00:00:33,280 --> 00:00:36,310
+Most of the galaxies visible in our night
+
+12
+00:00:36,160 --> 00:00:38,830
+sky are receding faster than light right this
+
+13
+00:00:38,680 --> 00:00:39,550
+second.
+
+14
+00:00:39,400 --> 00:00:43,020
+So how can entire galaxies outrun light without
+
+15
+00:00:42,870 --> 00:00:45,630
+shattering Einstein's most famous law?
+
+16
+00:00:45,480 --> 00:00:48,380
+And even stranger: if they are moving away
+
+17
+00:00:48,230 --> 00:00:50,700
+faster than light, how did their light ever
+
+18
+00:00:50,550 --> 00:00:53,430
+reach our telescopes in the first place?
+
+19
+00:00:53,310 --> 00:00:56,230
+The answer forces you to separate two completely
+
+20
+00:00:56,080 --> 00:00:58,470
+different kinds of motion and once you see
+
+21
+00:00:58,320 --> 00:01:01,910
+the difference, you'll realize why roughly ninety-five percent
+
+22
+00:01:01,760 --> 00:01:04,070
+of the galaxies we can see tonight are
+
+23
+00:01:03,920 --> 00:01:06,290
+already gone from our reach forever.
+
+24
+00:01:07,231 --> 00:01:09,941
+To solve the paradox, we have to look
+
+25
+00:01:09,791 --> 00:01:13,651
+closely at what Einstein's nineteen-oh-five theory of special
+
+26
+00:01:13,501 --> 00:01:16,661
+relativity actually bans.
+
+27
+00:01:16,681 --> 00:01:19,571
+Picture a spacecraft firing its engines in empty
+
+28
+00:01:19,421 --> 00:01:20,401
+space.
+
+29
+00:01:20,741 --> 00:01:23,827
+As it pushes faster and faster toward three
+
+30
+00:01:23,961 --> 00:01:27,391
+hundred thousand kilometers per second, special relativity says
+
+31
+00:01:27,241 --> 00:01:30,541
+the energy needed to speed it up climbs
+
+32
+00:01:30,391 --> 00:01:32,671
+toward infinity.
+
+33
+00:01:32,561 --> 00:01:35,121
+The fabric of space itself acts like an
+
+34
+00:01:35,311 --> 00:01:39,771
+unbreakable speed limit for anything traveling through space.
+
+35
+00:01:39,721 --> 00:01:43,011
+So if no engine, explosion, or force can
+
+36
+00:01:42,861 --> 00:01:45,171
+push a galaxy past the speed of light,
+
+37
+00:01:45,651 --> 00:01:49,291
+what on Earth is accelerating distant galaxies past
+
+38
+00:01:49,141 --> 00:01:50,251
+it?
+
+39
+00:01:50,141 --> 00:01:53,151
+The surprising answer is: nothing is pushing them
+
+40
+00:01:53,001 --> 00:01:55,091
+through space at all.
+
+41
+00:01:55,101 --> 00:01:58,981
+Ten years after special relativity, Einstein published general
+
+42
+00:01:58,831 --> 00:02:02,611
+relativity a far bigger theory where space isn't
+
+43
+00:02:02,461 --> 00:02:04,411
+a rigid, fixed stage.
+
+44
+00:02:04,541 --> 00:02:08,861
+Space itself can bend, curve, and stretch.
+
+45
+00:02:08,781 --> 00:02:12,501
+And in nineteen twenty-seven, physicist Georges Lemaître realized
+
+46
+00:02:12,351 --> 00:02:16,851
+Einstein's equations predicted an expanding universe a prediction
+
+47
+00:02:16,701 --> 00:02:19,331
+Edwin Hubble confirmed just two years later in
+
+48
+00:02:19,404 --> 00:02:23,211
+nineteen twenty-nine when he measured distant galaxies drifting
+
+49
+00:02:23,061 --> 00:02:25,681
+away from us in every direction.
+
+50
+00:02:25,621 --> 00:02:29,021
+Those galaxies aren't rocketing through space faster than
+
+51
+00:02:28,871 --> 00:02:29,361
+light.
+
+52
+00:02:29,421 --> 00:02:32,601
+Instead, the space between us and them is
+
+53
+00:02:32,451 --> 00:02:36,701
+stretching creating brand-new space every single second.
+
+54
+00:02:37,854 --> 00:02:41,114
+To see how stretching space breaks the light-speed
+
+55
+00:02:40,964 --> 00:02:45,444
+barrier without breaking Einstein, imagine placing galaxies on
+
+56
+00:02:45,294 --> 00:02:48,844
+the grid lines of a giant elastic sheet.
+
+57
+00:02:48,704 --> 00:02:51,704
+Pin our Milky Way to one intersection, and
+
+58
+00:02:51,554 --> 00:02:54,214
+pin a chain of distant galaxies down the
+
+59
+00:02:54,064 --> 00:02:54,774
+line.
+
+60
+00:02:54,664 --> 00:02:58,074
+Notice that every galaxy stays parked right on
+
+61
+00:02:57,924 --> 00:02:59,514
+its own grid point.
+
+62
+00:02:59,744 --> 00:03:02,384
+Locally, none of them are racing through space
+
+63
+00:03:02,234 --> 00:03:03,284
+at all.
+
+64
+00:03:03,164 --> 00:03:06,074
+Now stretch the grid uniformly.
+
+65
+00:03:05,944 --> 00:03:09,184
+Every single square grows slightly wider at the
+
+66
+00:03:09,034 --> 00:03:13,134
+exact same rate roughly sixty-seven kilometers per second
+
+67
+00:03:12,984 --> 00:03:16,994
+for every three-point-three million light-years of distance.
+
+68
+00:03:16,844 --> 00:03:20,124
+For a nearby galaxy just one grid square
+
+69
+00:03:19,974 --> 00:03:23,024
+away, that stretch is tiny nowhere near light
+
+70
+00:03:22,874 --> 00:03:23,694
+speed.
+
+71
+00:03:23,544 --> 00:03:26,844
+For a galaxy two squares away, two stretches
+
+72
+00:03:26,694 --> 00:03:29,674
+add up, so it separates twice as fast.
+
+73
+00:03:29,624 --> 00:03:32,504
+Three squares away, three times as fast.
+
+74
+00:03:32,384 --> 00:03:36,154
+That simple pattern is Hubble's Law: the farther
+
+75
+00:03:36,004 --> 00:03:38,954
+away a galaxy sits, the more stretching space
+
+76
+00:03:38,804 --> 00:03:41,544
+lies between us, and the faster the gap
+
+77
+00:03:41,394 --> 00:03:42,414
+grows.
+
+78
+00:03:42,264 --> 00:03:45,174
+Keep stacking enough grid squares side by side,
+
+79
+00:03:45,024 --> 00:03:47,834
+and eventually the combined expansion adds up to
+
+80
+00:03:47,684 --> 00:03:51,394
+more than three hundred thousand kilometers per second.
+
+81
+00:03:51,264 --> 00:03:53,524
+You can picture the exact same trick with
+
+82
+00:03:53,374 --> 00:03:55,964
+an ant walking along a rubber band.
+
+83
+00:03:55,824 --> 00:03:58,464
+Suppose the ant's absolute top speed is one
+
+84
+00:03:58,314 --> 00:04:02,404
+centimeter per second its own unbreakable speed limit.
+
+85
+00:04:02,264 --> 00:04:04,124
+Now pull both ends of the rubber band
+
+86
+00:04:03,974 --> 00:04:06,684
+apart at five centimeters per second.
+
+87
+00:04:06,584 --> 00:04:09,454
+At every moment, the ant never cheats; its
+
+88
+00:04:09,304 --> 00:04:11,964
+feet still crawl over the rubber right underneath
+
+89
+00:04:11,814 --> 00:04:14,054
+it at one centimeter per second.
+
+90
+00:04:13,904 --> 00:04:16,014
+Yet the opposite end of the rubber band
+
+91
+00:04:15,864 --> 00:04:19,184
+is receding five times faster than the ant
+
+92
+00:04:19,034 --> 00:04:20,054
+can walk.
+
+93
+00:04:20,214 --> 00:04:23,084
+Galaxies obey the exact same rule: nothing ever
+
+94
+00:04:23,169 --> 00:04:25,554
+outruns a beam of light passing right beside
+
+95
+00:04:25,404 --> 00:04:26,374
+it locally.
+
+96
+00:04:26,264 --> 00:04:29,334
+General relativity simply puts no speed limit on
+
+97
+00:04:29,184 --> 00:04:31,964
+how fast empty space itself can expand.
+
+98
+00:04:32,833 --> 00:04:36,563
+That cleanly saves Einstein's speed limit but it
+
+99
+00:04:36,413 --> 00:04:40,373
+immediately leaves us with our second, even stranger
+
+100
+00:04:40,223 --> 00:04:41,323
+puzzle.
+
+101
+00:04:41,193 --> 00:04:43,783
+Draw a giant sphere around Earth at a
+
+102
+00:04:43,633 --> 00:04:47,023
+radius of fourteen-point-four billion light-years.
+
+103
+00:04:46,913 --> 00:04:50,023
+Astronomers call this boundary the Hubble Sphere.
+
+104
+00:04:49,873 --> 00:04:53,703
+Right on that line, expanding space carries galaxies
+
+105
+00:04:53,553 --> 00:04:56,103
+away from us at exactly the speed of
+
+106
+00:04:55,953 --> 00:04:56,783
+light.
+
+107
+00:04:56,633 --> 00:05:01,623
+Beyond fourteen-point-four billion light-years, galaxies recede faster than
+
+108
+00:05:01,473 --> 00:05:02,263
+light.
+
+109
+00:05:02,193 --> 00:05:04,913
+So pause and ask a natural question: if
+
+110
+00:05:04,763 --> 00:05:07,933
+a galaxy outside that sphere shines a beam
+
+111
+00:05:07,783 --> 00:05:10,943
+of light toward Earth today, isn't that light
+
+112
+00:05:10,793 --> 00:05:13,903
+automatically swept backward forever?
+
+113
+00:05:14,268 --> 00:05:16,553
+Remarkably, the answer is no and this is
+
+114
+00:05:16,403 --> 00:05:19,143
+one of the most common misconceptions in all
+
+115
+00:05:18,993 --> 00:05:20,573
+of astronomy.
+
+116
+00:05:20,473 --> 00:05:23,763
+Follow a single photon emitted toward Earth from
+
+117
+00:05:23,613 --> 00:05:27,223
+a galaxy fifteen-point-five billion light-years away.
+
+118
+00:05:27,073 --> 00:05:30,103
+Because space there is receding faster than light,
+
+119
+00:05:29,953 --> 00:05:32,243
+the photon loses ground at first.
+
+120
+00:05:32,113 --> 00:05:35,143
+Even though it travels forward through local space
+
+121
+00:05:34,993 --> 00:05:38,493
+at full light speed, the expanding fabric drags
+
+122
+00:05:38,343 --> 00:05:40,683
+it farther away from Earth!
+
+123
+00:05:40,553 --> 00:05:43,263
+So how can it possibly make it home?
+
+124
+00:05:43,113 --> 00:05:46,123
+Because the expansion rate of the universe per
+
+125
+00:05:45,973 --> 00:05:50,283
+unit distance the Hubble parameter is actually decreasing
+
+126
+00:05:50,133 --> 00:05:51,193
+over time.
+
+127
+00:05:51,073 --> 00:05:53,223
+As it drops, you have to look farther
+
+128
+00:05:53,073 --> 00:05:55,883
+out to find space receding at light speed.
+
+129
+00:05:55,753 --> 00:05:58,253
+In other words, the Hubble Sphere itself is
+
+130
+00:05:58,103 --> 00:05:59,803
+growing outward!
+
+131
+00:05:59,673 --> 00:06:02,453
+As the photon keeps swimming upstream at light
+
+132
+00:06:02,303 --> 00:06:06,233
+speed, the expanding Hubble Sphere eventually overtakes it.
+
+133
+00:06:06,113 --> 00:06:09,113
+The instant that boundary passes the photon, space
+
+134
+00:06:08,963 --> 00:06:12,043
+around it is now receding slower than light.
+
+135
+00:06:11,913 --> 00:06:15,493
+The photon stops drifting backward, starts closing the
+
+136
+00:06:15,343 --> 00:06:18,413
+distance to Earth, and billions of years later
+
+137
+00:06:18,263 --> 00:06:20,153
+hits a telescope mirror.
+
+138
+00:06:20,033 --> 00:06:22,543
+If watching a beam of light literally get
+
+139
+00:06:22,393 --> 00:06:25,713
+rescued by an expanding cosmic boundary just blew
+
+140
+00:06:25,563 --> 00:06:27,763
+your mind, take a quick second to hit
+
+141
+00:06:27,613 --> 00:06:30,443
+that like button it really helps visual physics
+
+142
+00:06:30,293 --> 00:06:32,283
+explainers reach more curious viewers.
+
+143
+00:06:33,085 --> 00:06:34,525
+Wait a second.
+
+144
+00:06:34,375 --> 00:06:37,305
+If the Hubble Sphere keeps growing outward to
+
+145
+00:06:37,155 --> 00:06:40,795
+rescue photons, does that mean light from any
+
+146
+00:06:40,645 --> 00:06:44,025
+distance will eventually reach us if we just
+
+147
+00:06:43,875 --> 00:06:44,735
+wait long enough?
+
+148
+00:06:44,955 --> 00:06:49,485
+No and to see why, bring back our
+
+149
+00:06:49,335 --> 00:06:50,665
+ant on the rubber band.
+
+150
+00:06:50,715 --> 00:06:53,545
+If you stretch a rubber band at a
+
+151
+00:06:53,395 --> 00:06:57,675
+steady, constant rate, a shocking piece of math
+
+152
+00:06:57,525 --> 00:07:00,215
+takes over: even if the far end moves
+
+153
+00:07:00,065 --> 00:07:02,665
+away ten times faster than the ant can
+
+154
+00:07:02,515 --> 00:07:05,705
+walk, the ant will still eventually reach the
+
+155
+00:07:05,555 --> 00:07:09,065
+other side, because each step permanently locks in
+
+156
+00:07:08,915 --> 00:07:10,655
+a tiny fraction of the band.
+
+157
+00:07:10,735 --> 00:07:16,025
+Now change just one thing: instead of stretching
+
+158
+00:07:15,875 --> 00:07:20,305
+steadily, accelerate the stretch exponentially so every meter
+
+159
+00:07:20,155 --> 00:07:23,025
+of rubber doubles in size over a fixed
+
+160
+00:07:22,875 --> 00:07:24,625
+interval of time.
+
+161
+00:07:24,475 --> 00:07:27,335
+Suddenly, the newly created rubber ahead of the
+
+162
+00:07:27,185 --> 00:07:29,865
+ant explodes faster than the ant can ever
+
+163
+00:07:29,715 --> 00:07:32,105
+claim a meaningful fraction of it.
+
+164
+00:07:31,955 --> 00:07:34,755
+Beyond a sharp cutoff distance, the ant is
+
+165
+00:07:34,605 --> 00:07:35,565
+trapped forever.
+
+166
+00:07:35,615 --> 00:07:40,385
+In nineteen ninety-eight, astronomers discovered that our universe
+
+167
+00:07:40,235 --> 00:07:42,965
+behaves like that second rubber band.
+
+168
+00:07:43,070 --> 00:07:45,865
+Driven by dark energy, the expansion of space
+
+169
+00:07:45,715 --> 00:07:47,765
+is accelerating.
+
+170
+00:07:47,635 --> 00:07:50,435
+Because of dark energy, our Hubble Sphere won't
+
+171
+00:07:50,285 --> 00:07:53,095
+keep growing forever it will max out around
+
+172
+00:07:53,178 --> 00:07:55,615
+seventeen-point-five billion light-years.
+
+173
+00:07:55,475 --> 00:07:57,735
+That locks in a true point of no
+
+174
+00:07:57,585 --> 00:08:01,695
+return called the Cosmic Event Horizon, sitting roughly
+
+175
+00:08:01,723 --> 00:08:04,145
+sixteen-point-five billion light-years away today.
+
+176
+00:08:03,995 --> 00:08:08,185
+A photon leaving a galaxy at fifteen-point-five billion
+
+177
+00:08:08,035 --> 00:08:11,255
+light-years today will still be rescued and reach
+
+178
+00:08:11,105 --> 00:08:11,925
+Earth.
+
+179
+00:08:11,835 --> 00:08:14,665
+A photon leaving a galaxy at seventeen billion
+
+180
+00:08:14,515 --> 00:08:18,065
+light-years today never will no matter how many
+
+181
+00:08:17,915 --> 00:08:20,123
+trillions of years it travels.
+
+182
+00:08:20,823 --> 00:08:25,403
+Now everything clicks together into three nested shells
+
+183
+00:08:25,253 --> 00:08:26,363
+centered on Earth.
+
+184
+00:08:26,423 --> 00:08:31,473
+First, at fourteen-point-four billion light-years, sits the Hubble
+
+185
+00:08:31,323 --> 00:08:34,623
+Sphere where recession speed crosses the speed of
+
+186
+00:08:34,473 --> 00:08:35,693
+light today.
+
+187
+00:08:35,783 --> 00:08:40,213
+Just outside it, at sixteen-point-five billion light-years, sits
+
+188
+00:08:40,063 --> 00:08:43,883
+the Cosmic Event Horizon the absolute cutoff for
+
+189
+00:08:43,733 --> 00:08:46,833
+any light leaving a galaxy right now.
+
+190
+00:08:46,888 --> 00:08:50,073
+Yet our Observable Universe reaches all the way
+
+191
+00:08:49,923 --> 00:08:54,263
+out to forty-six-point-five billion light-years in every direction
+
+192
+00:08:54,303 --> 00:08:57,163
+ninety-three billion light-years across!
+
+193
+00:08:57,103 --> 00:09:01,083
+How can we see JADES-GS-z14-0, which sits thirty-three-point-eight
+
+194
+00:09:00,933 --> 00:09:04,413
+billion light-years away right now more than twice
+
+195
+00:09:04,263 --> 00:09:07,453
+as far as our cosmic event horizon?
+
+196
+00:09:07,303 --> 00:09:11,293
+Because we aren't seeing light it emitted today.
+
+197
+00:09:11,203 --> 00:09:15,013
+We are catching ancient light it emitted thirteen-point-five
+
+198
+00:09:14,863 --> 00:09:18,093
+billion years ago, when the young universe was
+
+199
+00:09:17,943 --> 00:09:20,873
+tiny and that galaxy sat barely two billion
+
+200
+00:09:20,723 --> 00:09:23,273
+light-years from our neighborhood.
+
+201
+00:09:23,263 --> 00:09:26,113
+Its photons were swept up by our expanding
+
+202
+00:09:25,963 --> 00:09:29,523
+Hubble Sphere early in cosmic history and began
+
+203
+00:09:29,373 --> 00:09:31,533
+making their way toward us.
+
+204
+00:09:31,643 --> 00:09:34,933
+During the thirteen-point-five billion years those photons spent
+
+205
+00:09:34,783 --> 00:09:38,373
+crossing space, expansion carried the galaxy itself all
+
+206
+00:09:38,223 --> 00:09:42,243
+the way out to thirty-three-point-eight billion light-years away.
+
+207
+00:09:42,223 --> 00:09:45,213
+We are seeing its ancient baby photo even
+
+208
+00:09:45,063 --> 00:09:47,903
+though the light it is shining right now
+
+209
+00:09:47,863 --> 00:09:49,203
+will never reach us.
+
+210
+00:09:50,273 --> 00:09:52,713
+Step back and look at the volume of
+
+211
+00:09:52,563 --> 00:09:55,243
+those two spheres side by side.
+
+212
+00:09:55,113 --> 00:10:00,193
+The reachable region inside our sixteen-point-five-billion-light-year event horizon
+
+213
+00:10:00,043 --> 00:10:02,043
+makes up only about five percent of the
+
+214
+00:10:01,893 --> 00:10:05,133
+volume of the observable universe.
+
+215
+00:10:05,113 --> 00:10:07,533
+That means roughly ninety-five percent of all the
+
+216
+00:10:07,383 --> 00:10:10,703
+galaxies we can see through telescopes tonight are
+
+217
+00:10:10,553 --> 00:10:13,493
+already permanently beyond our reach.
+
+218
+00:10:13,533 --> 00:10:15,273
+Even if we launched a beam of light
+
+219
+00:10:15,123 --> 00:10:17,633
+straight toward them right this second, it would
+
+220
+00:10:17,483 --> 00:10:19,453
+never arrive.
+
+221
+00:10:19,353 --> 00:10:21,783
+And over the next hundreds of billions of
+
+222
+00:10:21,633 --> 00:10:25,133
+years, dark energy will keep carrying distant galaxies
+
+223
+00:10:24,983 --> 00:10:28,053
+across that event horizon one by one.
+
+224
+00:10:27,953 --> 00:10:31,033
+Their light will stretch into longer, dimmer red
+
+225
+00:10:30,883 --> 00:10:35,063
+wavelengths until they fade completely into darkness.
+
+226
+00:10:35,193 --> 00:10:37,583
+Trillions of years from now, only the galaxies
+
+227
+00:10:37,433 --> 00:10:40,073
+bound together by gravity our own Milky Way
+
+228
+00:10:39,923 --> 00:10:43,223
+merged with Andromeda and our closest neighbors will
+
+229
+00:10:43,073 --> 00:10:46,193
+remain in the sky, surrounded by an empty
+
+230
+00:10:46,043 --> 00:10:47,703
+black void.
+
+231
+00:10:47,653 --> 00:10:50,523
+Nothing ever broke Einstein's speed limit.
+
+232
+00:10:50,433 --> 00:10:53,983
+Space simply grew larger than light could ever
+
+233
+00:10:54,253 --> 00:10:54,653
+outrun.
+
+234
+00:10:54,673 --> 00:10:57,153
+If you enjoy clear visual breakdowns of deep
+
+235
+00:10:57,003 --> 00:10:59,743
+physics puzzles, hit subscribe and tap the bell
+
+236
+00:10:59,593 --> 00:11:01,503
+so you don't miss the next one.
+
+237
+00:11:01,353 --> 00:11:02,993
+Thanks for watching and I'll see you in
+
+238
+00:11:02,843 --> 00:11:03,813
+the next breakdown.
