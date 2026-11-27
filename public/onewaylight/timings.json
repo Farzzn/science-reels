@@ -1,0 +1,47 @@
+{
+  "total": 744.638,
+  "chapters": [
+    {
+      "id": "ch0",
+      "title": "The Impossible Clock Test",
+      "start": 0.4,
+      "end": 67.214
+    },
+    {
+      "id": "ch1",
+      "title": "The Synchronization Trap",
+      "start": 68.064,
+      "end": 181.69
+    },
+    {
+      "id": "ch2",
+      "title": "The Two-Way Illusion",
+      "start": 182.54,
+      "end": 314.856
+    },
+    {
+      "id": "ch3",
+      "title": "Einstein's 1905 Rule",
+      "start": 315.706,
+      "end": 402.605
+    },
+    {
+      "id": "ch4",
+      "title": "When Now Splits Apart",
+      "start": 403.455,
+      "end": 512.934
+    },
+    {
+      "id": "ch5",
+      "title": "The Andromeda Paradox",
+      "start": 513.784,
+      "end": 628.052
+    },
+    {
+      "id": "ch6",
+      "title": "Light Cones and Causality",
+      "start": 628.902,
+      "end": 743.238
+    }
+  ]
+}

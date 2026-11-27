@@ -78,12 +78,23 @@ import { RelativityBondsThumbnail } from "./RelativityBonds/Thumbnail";
 import { COSMIC_LIMIT_FRAMES, CosmicSpeedLimit } from "./CosmicSpeedLimit";
 import { COSMIC_LIMIT_SHORT_FRAMES, CosmicSpeedLimitShort } from "./CosmicSpeedLimit/Short";
 import { CosmicSpeedLimitThumbnail } from "./CosmicSpeedLimit/Thumbnail";
+import { ONE_WAY_LIGHT_FRAMES, OneWayLight } from "./OneWayLight";
+import { OneWayLightThumbnail } from "./OneWayLight/Thumbnail";
 
 // Each <Composition> is an entry in the sidebar!
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="OneWayLight"
+        component={OneWayLight}
+        durationInFrames={ONE_WAY_LIGHT_FRAMES}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+      <Still id="OneWayLightThumbnail" component={OneWayLightThumbnail} width={1920} height={1080} />
       <Composition
         id="CosmicSpeedLimitShort"
         component={CosmicSpeedLimitShort}

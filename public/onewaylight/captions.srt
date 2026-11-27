@@ -1,0 +1,1135 @@
+1
+00:00:00,420 --> 00:00:02,540
+Look at a clock on one side of
+
+2
+00:00:02,390 --> 00:00:05,020
+a room, and a second clock sitting on
+
+3
+00:00:04,870 --> 00:00:06,550
+the opposite wall.
+
+4
+00:00:06,400 --> 00:00:09,930
+If both read three o'clock, you naturally assume
+
+5
+00:00:09,780 --> 00:00:12,230
+they are showing the same now.
+
+6
+00:00:12,080 --> 00:00:15,870
+But stop and ask a surprisingly simple question:
+
+7
+00:00:15,720 --> 00:00:18,950
+how do you actually know they agree?
+
+8
+00:00:18,800 --> 00:00:21,670
+You might say, just look at both clocks.
+
+9
+00:00:21,520 --> 00:00:24,790
+The trouble is, light takes time to cross
+
+10
+00:00:24,640 --> 00:00:25,510
+the room.
+
+11
+00:00:25,360 --> 00:00:27,830
+So the image arriving from the far wall
+
+12
+00:00:27,690 --> 00:00:31,700
+is already slightly old which means to trust
+
+13
+00:00:31,550 --> 00:00:34,150
+that clock, you first have to subtract the
+
+14
+00:00:34,000 --> 00:00:37,870
+time light spent traveling from there to your
+
+15
+00:00:37,720 --> 00:00:37,870
+eyes.
+
+16
+00:00:37,720 --> 00:00:40,740
+And to calculate that travel time, you need
+
+17
+00:00:40,590 --> 00:00:42,950
+to know the speed of light in one
+
+18
+00:00:42,800 --> 00:00:44,020
+direction.
+
+19
+00:00:43,880 --> 00:00:46,910
+Here is the shock that stopped Albert Einstein
+
+20
+00:00:46,760 --> 00:00:51,110
+in his tracks: no experiment in human history
+
+21
+00:00:50,960 --> 00:00:54,470
+has ever measured the one-way speed of light.
+
+22
+00:00:54,360 --> 00:00:56,880
+Every measurement we have ever made is a
+
+23
+00:00:56,730 --> 00:00:58,940
+two-way round trip.
+
+24
+00:00:58,840 --> 00:01:01,890
+And because of that single blind spot, there
+
+25
+00:01:01,740 --> 00:01:03,690
+is no natural way to say what is
+
+26
+00:01:03,540 --> 00:01:07,360
+happening right now anywhere else in the universe.
+
+27
+00:01:08,074 --> 00:01:11,034
+Wait why can't we just measure light in
+
+28
+00:01:10,884 --> 00:01:13,384
+one direction right now?
+
+29
+00:01:13,459 --> 00:01:14,574
+Let's try it.
+
+30
+00:01:14,424 --> 00:01:16,624
+Put Clock A on the left side of
+
+31
+00:01:16,474 --> 00:01:19,554
+a long track, and Clock B one kilometer
+
+32
+00:01:19,584 --> 00:01:21,254
+away on the right.
+
+33
+00:01:21,144 --> 00:01:23,274
+Fire a laser pulse from A when it
+
+34
+00:01:23,124 --> 00:01:26,234
+reads zero, record the exact time it hits
+
+35
+00:01:26,084 --> 00:01:28,894
+Clock B, and divide distance by time.
+
+36
+00:01:28,784 --> 00:01:30,684
+Done right?
+
+37
+00:01:30,624 --> 00:01:32,314
+Not so fast.
+
+38
+00:01:32,184 --> 00:01:35,104
+That stopwatch only works if Clock A and
+
+39
+00:01:34,954 --> 00:01:38,094
+Clock B were already synchronized before you fired
+
+40
+00:01:37,944 --> 00:01:39,114
+the laser.
+
+41
+00:01:38,984 --> 00:01:41,654
+If Clock B was sitting even a microsecond
+
+42
+00:01:42,044 --> 00:01:45,234
+fast or slow, your speed measurement is completely
+
+43
+00:01:45,084 --> 00:01:46,214
+wrong.
+
+44
+00:01:46,309 --> 00:01:50,054
+Okay, fine so let's synchronize the two clocks
+
+45
+00:01:49,904 --> 00:01:50,294
+first.
+
+46
+00:01:50,184 --> 00:01:51,414
+How?
+
+47
+00:01:51,264 --> 00:01:53,554
+If you send a radio or light signal
+
+48
+00:01:53,404 --> 00:01:56,224
+from Clock A to set Clock B, you
+
+49
+00:01:56,074 --> 00:01:58,104
+have to tell Clock B how long the
+
+50
+00:01:57,954 --> 00:01:59,914
+signal spent in transit.
+
+51
+00:01:59,784 --> 00:02:01,654
+Which means you already need to know the
+
+52
+00:02:01,504 --> 00:02:03,714
+one-way speed of light!
+
+53
+00:02:03,624 --> 00:02:06,034
+You are trapped in a circle: you need
+
+54
+00:02:05,884 --> 00:02:08,954
+synchronized clocks to measure one-way light speed, and
+
+55
+00:02:08,804 --> 00:02:11,754
+you need one-way light speed to synchronize the
+
+56
+00:02:11,604 --> 00:02:12,444
+clocks.
+
+57
+00:02:12,384 --> 00:02:15,254
+So maybe you try a clever workaround.
+
+58
+00:02:15,104 --> 00:02:16,934
+Forget signals completely.
+
+59
+00:02:16,784 --> 00:02:19,244
+Put both clocks right next to each other,
+
+60
+00:02:19,269 --> 00:02:21,914
+sync them face to face, and then gently
+
+61
+00:02:21,764 --> 00:02:24,154
+carry Clock B across the room.
+
+62
+00:02:24,024 --> 00:02:28,914
+Sounds foolproof until Einstein's relativity steps in.
+
+63
+00:02:28,784 --> 00:02:31,294
+The moment you move Clock B, time slows
+
+64
+00:02:31,144 --> 00:02:33,204
+down for the moving clock.
+
+65
+00:02:33,104 --> 00:02:35,914
+And here is the twist: if light really
+
+66
+00:02:35,764 --> 00:02:39,034
+does travel at different speeds in different directions,
+
+67
+00:02:38,914 --> 00:02:42,974
+then time dilation itself becomes direction-dependent.
+
+68
+00:02:42,824 --> 00:02:44,784
+Even if you carry Clock B at a
+
+69
+00:02:44,634 --> 00:02:48,374
+snail's pace, that tiny directional slowdown builds up
+
+70
+00:02:48,224 --> 00:02:50,904
+across the whole trip shifting Clock B by
+
+71
+00:02:50,754 --> 00:02:54,034
+the exact amount needed to hide any difference
+
+72
+00:02:53,884 --> 00:02:55,294
+in light's speed.
+
+73
+00:02:55,144 --> 00:02:58,814
+Every trick we try cables, spinning gears, moving
+
+74
+00:02:58,664 --> 00:03:01,834
+clocks closes back into the exact same trap.
+
+75
+00:03:02,560 --> 00:03:05,730
+So how did physicists ever measure the speed
+
+76
+00:03:05,580 --> 00:03:10,120
+of light at three hundred thousand kilometers per
+
+77
+00:03:09,970 --> 00:03:10,130
+second?
+
+78
+00:03:09,980 --> 00:03:12,500
+By cheating with a mirror.
+
+79
+00:03:12,380 --> 00:03:15,130
+Instead of two clocks, you use just one
+
+80
+00:03:14,980 --> 00:03:18,190
+clock on Earth and place a mirror far
+
+81
+00:03:18,040 --> 00:03:18,480
+away.
+
+82
+00:03:18,340 --> 00:03:21,020
+You fire a laser pulse, bounce it off
+
+83
+00:03:20,870 --> 00:03:23,440
+the mirror, and catch it right back at
+
+84
+00:03:23,290 --> 00:03:24,690
+the same clock.
+
+85
+00:03:24,580 --> 00:03:26,730
+No second clock to synchronize.
+
+86
+00:03:26,580 --> 00:03:29,720
+Just one departure time, one return time, and
+
+87
+00:03:29,570 --> 00:03:31,820
+the round-trip distance.
+
+88
+00:03:31,700 --> 00:03:35,200
+That gives you the average round-trip speed the
+
+89
+00:03:35,050 --> 00:03:36,690
+two-way speed of light.
+
+90
+00:03:36,540 --> 00:03:40,700
+And every precision measurement ever performed, from nineteenth-century
+
+91
+00:03:40,550 --> 00:03:44,520
+spinning mirrors to modern laser laboratories, measures this
+
+92
+00:03:44,370 --> 00:03:45,520
+round trip.
+
+93
+00:03:45,380 --> 00:03:48,270
+Now watch what that leaves wide open.
+
+94
+00:03:48,140 --> 00:03:51,940
+Imagine an astronaut standing on Mars, ten light-minutes
+
+95
+00:03:51,790 --> 00:03:53,020
+away from Earth.
+
+96
+00:03:52,900 --> 00:03:55,490
+At exactly twelve o'clock, you beam a message
+
+97
+00:03:55,340 --> 00:03:58,060
+out to Mars and wait for a reply.
+
+98
+00:03:57,940 --> 00:04:00,910
+In the universe we all picture, light travels
+
+99
+00:04:00,760 --> 00:04:03,550
+at full light speed going out taking ten
+
+100
+00:04:03,400 --> 00:04:06,540
+minutes and full light speed coming back taking
+
+101
+00:04:06,390 --> 00:04:07,900
+another ten minutes.
+
+102
+00:04:07,780 --> 00:04:10,690
+The Martian astronaut gets your message at twelve-ten,
+
+103
+00:04:10,540 --> 00:04:13,640
+replies immediately, and you receive their answer at
+
+104
+00:04:13,867 --> 00:04:14,768
+twelve-twenty.
+
+105
+00:04:14,620 --> 00:04:17,880
+Now imagine a wildly different universe.
+
+106
+00:04:17,740 --> 00:04:20,090
+What if light travels at half the speed
+
+107
+00:04:19,940 --> 00:04:22,690
+of light going toward Mars taking the full
+
+108
+00:04:23,050 --> 00:04:26,260
+twenty minutes and then travels infinitely fast coming
+
+109
+00:04:26,110 --> 00:04:28,660
+back, arriving in zero seconds?
+
+110
+00:04:28,540 --> 00:04:31,220
+Wait instantaneous?!
+
+111
+00:04:31,300 --> 00:04:32,910
+Let's check the clocks!
+
+112
+00:04:32,780 --> 00:04:34,810
+You send your message at twelve o'clock.
+
+113
+00:04:34,660 --> 00:04:37,250
+It crawls out to Mars for twenty minutes,
+
+114
+00:04:37,100 --> 00:04:40,450
+arriving when Earth's clock reads twelve-twenty.
+
+115
+00:04:40,300 --> 00:04:43,420
+The astronaut replies immediately, and the signal teleports
+
+116
+00:04:43,750 --> 00:04:47,410
+back in zero seconds hitting Earth at twelve-twenty!
+
+117
+00:04:47,260 --> 00:04:50,520
+Even worse, the astronaut can't catch the mismatch
+
+118
+00:04:50,370 --> 00:04:52,770
+either, because the sync pulse you sent earlier
+
+119
+00:04:52,620 --> 00:04:55,130
+to set their Mars clock also took twenty
+
+120
+00:04:54,980 --> 00:04:58,630
+minutes to arrive quietly setting Mars ten minutes
+
+121
+00:04:58,480 --> 00:04:59,700
+behind Earth.
+
+122
+00:04:59,580 --> 00:05:03,440
+Every timestamp, every screen, every radio ping looks
+
+123
+00:05:03,502 --> 00:05:06,630
+one hundred percent identical in both universes!
+
+124
+00:05:06,500 --> 00:05:09,400
+If that just broke your intuition about how
+
+125
+00:05:09,250 --> 00:05:13,020
+light works, hit the like button because Einstein's
+
+126
+00:05:13,000 --> 00:05:14,770
+solution is even stranger.
+
+127
+00:05:15,716 --> 00:05:18,626
+In nineteen oh five, when Albert Einstein sat
+
+128
+00:05:18,476 --> 00:05:20,936
+down to write his landmark paper on special
+
+129
+00:05:20,786 --> 00:05:24,876
+relativity, he hit this exact wall on page
+
+130
+00:05:24,726 --> 00:05:24,946
+two.
+
+131
+00:05:25,086 --> 00:05:27,966
+Most people assume Einstein proved that light moves
+
+132
+00:05:27,816 --> 00:05:29,986
+at the same speed in every direction.
+
+133
+00:05:29,906 --> 00:05:31,006
+He didn't.
+
+134
+00:05:31,226 --> 00:05:34,176
+Read his original words carefully: he wrote that
+
+135
+00:05:34,026 --> 00:05:37,376
+equal outbound and inbound light travel time is
+
+136
+00:05:37,226 --> 00:05:39,546
+not a physical fact we can prove about
+
+137
+00:05:39,396 --> 00:05:42,306
+nature it is a rule we choose by
+
+138
+00:05:42,156 --> 00:05:43,536
+definition.
+
+139
+00:05:43,546 --> 00:05:45,396
+Here is Einstein's rule.
+
+140
+00:05:45,516 --> 00:05:47,546
+Send a light pulse from Clock A to
+
+141
+00:05:47,396 --> 00:05:49,566
+Clock B and bounce it right back.
+
+142
+00:05:49,666 --> 00:05:52,796
+Whatever time Clock A records when the flash
+
+143
+00:05:52,646 --> 00:05:55,056
+returns, simply declare that the pulse reached Clock
+
+144
+00:05:54,906 --> 00:05:56,916
+B at the exact halfway mark.
+
+145
+00:05:57,066 --> 00:06:00,546
+Later, the philosopher of physics Hans Reichenbach showed
+
+146
+00:06:00,396 --> 00:06:02,656
+this is just one setting on a continuous
+
+147
+00:06:02,506 --> 00:06:03,686
+dial.
+
+148
+00:06:03,746 --> 00:06:05,676
+Set the dial to one half, and you
+
+149
+00:06:05,626 --> 00:06:09,486
+get Einstein's clean, symmetrical universe where light moves
+
+150
+00:06:09,336 --> 00:06:11,336
+at the same speed both ways.
+
+151
+00:06:11,406 --> 00:06:14,046
+Turn that dial toward one, and light slows
+
+152
+00:06:13,896 --> 00:06:16,576
+down one way while speeding up the other
+
+153
+00:06:16,546 --> 00:06:20,046
+yet every physical prediction stays completely unchanged.
+
+154
+00:06:20,026 --> 00:06:23,906
+That means simultaneous across two separate places isn't
+
+155
+00:06:23,756 --> 00:06:27,356
+something hidden inside nature waiting to be discovered.
+
+156
+00:06:27,346 --> 00:06:29,866
+It is a convention a rule you have
+
+157
+00:06:29,716 --> 00:06:32,136
+to pick before the word now across a
+
+158
+00:06:31,986 --> 00:06:33,786
+room even has a meaning.
+
+159
+00:06:33,786 --> 00:06:37,336
+Okay so let's pick Einstein's clean halfway rule
+
+160
+00:06:37,186 --> 00:06:38,636
+and stick with it.
+
+161
+00:06:38,546 --> 00:06:41,426
+Surely now everyone can agree on what happens
+
+162
+00:06:41,276 --> 00:06:42,596
+at the same time right?
+
+163
+00:06:43,485 --> 00:06:45,735
+Not even close.
+
+164
+00:06:45,935 --> 00:06:49,485
+Because the moment someone starts moving, Einstein's own
+
+165
+00:06:49,335 --> 00:06:53,065
+rule forces two observers to disagree about what
+
+166
+00:06:52,915 --> 00:06:54,655
+is happening right now.
+
+167
+00:06:54,735 --> 00:06:59,175
+Picture a glass train speeding smoothly past a
+
+168
+00:06:59,025 --> 00:07:00,295
+station platform.
+
+169
+00:07:00,355 --> 00:07:03,125
+At the exact moment the passenger in the
+
+170
+00:07:02,975 --> 00:07:06,145
+middle of the train passes an observer standing
+
+171
+00:07:05,995 --> 00:07:08,955
+on the platform, two bolts of lightning strike
+
+172
+00:07:08,805 --> 00:07:11,005
+the front and rear ends of the train.
+
+173
+00:07:11,115 --> 00:07:14,315
+For the observer standing still on the platform,
+
+174
+00:07:14,685 --> 00:07:17,125
+both bolts hit at the exact same distance
+
+175
+00:07:16,975 --> 00:07:17,435
+away.
+
+176
+00:07:18,065 --> 00:07:20,685
+Because light travels at the same speed from
+
+177
+00:07:20,535 --> 00:07:24,345
+both ends, both flashes reach the platform observer
+
+178
+00:07:24,195 --> 00:07:24,805
+together.
+
+179
+00:07:25,345 --> 00:07:29,055
+Using Einstein's halfway rule, they conclude: the two
+
+180
+00:07:28,905 --> 00:07:31,765
+strikes were completely simultaneous.
+
+181
+00:07:32,015 --> 00:07:34,955
+Now step inside the moving train.
+
+182
+00:07:35,075 --> 00:07:39,205
+The passenger uses the exact same rule light
+
+183
+00:07:39,055 --> 00:07:41,605
+travels at the same speed from both ends
+
+184
+00:07:41,455 --> 00:07:42,045
+of the car.
+
+185
+00:07:42,185 --> 00:07:45,095
+Yet while those flashes are in midair, the
+
+186
+00:07:44,945 --> 00:07:48,135
+passenger is rushing toward the light coming from
+
+187
+00:07:47,985 --> 00:07:50,405
+the front, and running away from the light
+
+188
+00:07:50,255 --> 00:07:51,995
+coming from the back.
+
+189
+00:07:51,945 --> 00:07:55,125
+So the front flash hits their eyes first,
+
+190
+00:07:54,975 --> 00:07:57,675
+and the rear flash arrives moments later.
+
+191
+00:07:57,675 --> 00:08:00,195
+Since both ends of the train are equally
+
+192
+00:08:00,045 --> 00:08:03,285
+far from their seat, the passenger must conclude
+
+193
+00:08:03,135 --> 00:08:07,205
+something totally different: the front bolt struck before
+
+194
+00:08:07,055 --> 00:08:08,015
+the back bolt!
+
+195
+00:08:08,195 --> 00:08:09,425
+Who is right?
+
+196
+00:08:09,615 --> 00:08:10,765
+Both of them.
+
+197
+00:08:11,115 --> 00:08:14,795
+On a spacetime map where space runs sideways
+
+198
+00:08:14,645 --> 00:08:18,645
+and time runs upward the platform observer's now
+
+199
+00:08:18,495 --> 00:08:21,145
+is a flat horizontal slice across space.
+
+200
+00:08:21,285 --> 00:08:24,985
+But for the moving passenger, that entire slice
+
+201
+00:08:24,835 --> 00:08:27,355
+of now tilts upward in the direction they
+
+202
+00:08:27,205 --> 00:08:27,985
+are moving.
+
+203
+00:08:28,095 --> 00:08:33,075
+Motion literally rotates what counts as the present!
+
+204
+00:08:33,784 --> 00:08:37,204
+Across a living room, a tilting slice of
+
+205
+00:08:37,054 --> 00:08:38,764
+now sounds harmless.
+
+206
+00:08:38,784 --> 00:08:42,764
+At everyday walking speed, the tilt across ten
+
+207
+00:08:42,614 --> 00:08:45,634
+meters is less than a trillionth of a
+
+208
+00:08:45,484 --> 00:08:48,914
+millionth of a second far too tiny for
+
+209
+00:08:48,764 --> 00:08:50,774
+any human to notice.
+
+210
+00:08:50,624 --> 00:08:53,564
+But a tilted straight line has a sneaky
+
+211
+00:08:53,414 --> 00:08:57,614
+property: the farther out you extend it, the
+
+212
+00:08:57,464 --> 00:09:00,854
+higher its far end swings.
+
+213
+00:09:00,754 --> 00:09:03,394
+So extend that line two and a half
+
+214
+00:09:03,244 --> 00:09:08,564
+million light-years away, straight across intergalactic space to
+
+215
+00:09:08,414 --> 00:09:10,654
+the Andromeda Galaxy.
+
+216
+00:09:10,504 --> 00:09:15,214
+In nineteen eighty-nine, mathematical physicist Roger Penrose used
+
+217
+00:09:15,064 --> 00:09:18,494
+this exact geometry to reveal one of the
+
+218
+00:09:18,344 --> 00:09:23,124
+strangest consequences in all of relativity the Andromeda
+
+219
+00:09:22,974 --> 00:09:24,124
+Paradox.
+
+220
+00:09:23,984 --> 00:09:26,734
+Imagine two friends passing each other on a
+
+221
+00:09:26,584 --> 00:09:30,044
+sidewalk here on Earth, walking at a completely
+
+222
+00:09:29,894 --> 00:09:33,534
+ordinary pace of five kilometers per hour.
+
+223
+00:09:33,384 --> 00:09:36,694
+One friend is walking away from Andromeda; the
+
+224
+00:09:36,544 --> 00:09:38,734
+other is walking toward it.
+
+225
+00:09:38,584 --> 00:09:41,654
+Because Andromeda sits two and a half million
+
+226
+00:09:41,504 --> 00:09:47,684
+light-years away, that microscopic walking-speed tilt magnifies across
+
+227
+00:09:47,534 --> 00:09:49,214
+space into days.
+
+228
+00:09:49,064 --> 00:09:52,494
+For the friend walking away, their tilted slice
+
+229
+00:09:52,344 --> 00:09:55,574
+of now cuts across Andromeda days before an
+
+230
+00:09:55,424 --> 00:09:58,674
+alien council even holds a meeting to decide
+
+231
+00:09:58,524 --> 00:10:01,614
+whether to launch a space fleet toward Earth.
+
+232
+00:10:01,464 --> 00:10:04,294
+Yet for the friend walking right beside them
+
+233
+00:10:04,144 --> 00:10:08,494
+literally close enough to shake hands their opposite
+
+234
+00:10:08,344 --> 00:10:12,374
+tilt slices across Andromeda more than a week
+
+235
+00:10:12,224 --> 00:10:14,994
+later, days after the alien fleet has already
+
+236
+00:10:14,844 --> 00:10:18,134
+launched and is streaking across the stars!
+
+237
+00:10:17,984 --> 00:10:21,264
+Two people on the same sidewalk, at the
+
+238
+00:10:21,114 --> 00:10:25,454
+exact same moment, disagreeing by eight full days
+
+239
+00:10:25,314 --> 00:10:28,004
+on whether a cosmic invasion has already begun.
+
+240
+00:10:29,172 --> 00:10:29,862
+Hold on.
+
+241
+00:10:30,012 --> 00:10:32,792
+If one friend's now says the fleet already
+
+242
+00:10:32,642 --> 00:10:35,542
+launched while the other says the vote hasn't
+
+243
+00:10:35,542 --> 00:10:39,242
+happened yet, doesn't reality break?
+
+244
+00:10:39,182 --> 00:10:42,792
+Could the walker heading toward Andromeda somehow peek
+
+245
+00:10:42,642 --> 00:10:45,902
+ahead and warn Earth before the aliens even
+
+246
+00:10:45,752 --> 00:10:46,292
+vote?
+
+247
+00:10:46,462 --> 00:10:48,062
+No.
+
+248
+00:10:48,022 --> 00:10:51,262
+And the reason is built directly into the
+
+249
+00:10:51,112 --> 00:10:53,572
+geometry of spacetime itself.
+
+250
+00:10:53,697 --> 00:10:56,952
+Around every single moment of your life, expanding
+
+251
+00:10:56,802 --> 00:10:59,472
+shells of light carve out a double cone
+
+252
+00:10:59,322 --> 00:11:01,762
+called your Light Cone.
+
+253
+00:11:01,942 --> 00:11:05,612
+Everything inside the bottom cone is your observable
+
+254
+00:11:05,462 --> 00:11:08,352
+past events close enough that their light has
+
+255
+00:11:08,202 --> 00:11:09,542
+had time to reach you.
+
+256
+00:11:09,622 --> 00:11:12,572
+Everything inside the top cone is your reachable
+
+257
+00:11:13,132 --> 00:11:17,332
+future events your actions right now can still
+
+258
+00:11:17,182 --> 00:11:17,392
+influence.
+
+259
+00:11:17,542 --> 00:11:21,742
+Everything outside both cones is a vast no-man's-land
+
+260
+00:11:21,772 --> 00:11:24,242
+physicists call Elsewhere.
+
+261
+00:11:24,182 --> 00:11:27,192
+And where does Andromeda's right now sit?
+
+262
+00:11:27,342 --> 00:11:29,562
+Deep inside Elsewhere.
+
+263
+00:11:29,742 --> 00:11:32,582
+Neither walker can receive a single photon from
+
+264
+00:11:32,432 --> 00:11:34,812
+that alien vote for another two and a
+
+265
+00:11:34,662 --> 00:11:36,762
+half million years.
+
+266
+00:11:36,702 --> 00:11:39,562
+By the time that light finally arrives at
+
+267
+00:11:39,412 --> 00:11:42,222
+Earth, both friends and every observer in the
+
+268
+00:11:42,072 --> 00:11:46,412
+universe agree completely on what happened and in
+
+269
+00:11:46,262 --> 00:11:47,632
+what order.
+
+270
+00:11:47,502 --> 00:11:51,462
+Inside the light cone, cause always comes before
+
+271
+00:11:51,312 --> 00:11:54,372
+effect no matter how fast you move, and
+
+272
+00:11:54,222 --> 00:11:57,432
+no matter which one-way speed of light rule
+
+273
+00:11:57,282 --> 00:11:57,982
+you pick.
+
+274
+00:11:57,942 --> 00:12:00,402
+So look back at those two clocks across
+
+275
+00:12:00,252 --> 00:12:01,182
+your room.
+
+276
+00:12:01,062 --> 00:12:04,432
+The universe has no hidden master clock ticking
+
+277
+00:12:04,282 --> 00:12:07,092
+out a single now across empty space.
+
+278
+00:12:06,942 --> 00:12:10,212
+Instead, reality is a web of local clocks
+
+279
+00:12:10,347 --> 00:12:13,352
+stitched together by light and at the same
+
+280
+00:12:13,202 --> 00:12:15,952
+time is just the rule we choose to
+
+281
+00:12:15,802 --> 00:12:16,692
+map it.
+
+282
+00:12:16,702 --> 00:12:19,212
+If you enjoy unraveling the hidden rules of
+
+283
+00:12:19,062 --> 00:12:22,672
+spacetime, subscribe there are plenty more cosmic puzzles
+
+284
+00:12:22,522 --> 00:12:23,282
+coming next.
