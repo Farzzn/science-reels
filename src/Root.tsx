@@ -77,6 +77,7 @@ import { REL_BONDS_SHORT_FRAMES, RelativityBondsShort } from "./RelativityBonds/
 import { RelativityBondsThumbnail } from "./RelativityBonds/Thumbnail";
 import { COSMIC_LIMIT_FRAMES, CosmicSpeedLimit } from "./CosmicSpeedLimit";
 import { COSMIC_LIMIT_SHORT_FRAMES, CosmicSpeedLimitShort } from "./CosmicSpeedLimit/Short";
+import { COSMIC_LIMIT_SHORT2_FRAMES, CosmicSpeedLimitShort2 } from "./CosmicSpeedLimit/Short2";
 import { CosmicSpeedLimitThumbnail } from "./CosmicSpeedLimit/Thumbnail";
 import { ONE_WAY_LIGHT_FRAMES, OneWayLight } from "./OneWayLight";
 import { ONE_WAY_LIGHT_SHORT_FRAMES, OneWayLightShort } from "./OneWayLight/Short";
@@ -87,6 +88,14 @@ import { OneWayLightThumbnail } from "./OneWayLight/Thumbnail";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="CosmicSpeedLimitShort2"
+        component={CosmicSpeedLimitShort2}
+        durationInFrames={COSMIC_LIMIT_SHORT2_FRAMES}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
       <Composition
         id="OneWayLightShort"
         component={OneWayLightShort}
